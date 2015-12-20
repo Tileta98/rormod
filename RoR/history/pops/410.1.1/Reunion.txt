@@ -1,0 +1,71 @@
+#Reunion (98000)
+#Ruled by France 1836
+#Reunion (98000/24500 POPS)
+2126 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 300
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 5825
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 125
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 850
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 200
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1825
+	}
+
+	slaves = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 14000
+	}
+
+}

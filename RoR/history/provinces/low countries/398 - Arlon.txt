@@ -1,0 +1,8 @@
+owner = NRV
+controller = NRV
+add_core = NRV
+is_slave = yes
+trade_goods = timber
+
+life_rating = 35
+

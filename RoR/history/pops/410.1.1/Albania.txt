@@ -1,0 +1,260 @@
+#Albania Region (1096000)
+#under the rule of Ottoman Empire in 1836
+#Tirana (296000/74000 POPS)
+849 = {
+	aristocrats = {
+		culture = illyrian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = illyrian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = illyrian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = illyrian
+		religion = shamanism
+		size = 30
+	}
+
+	artisans = {
+		culture = illyrian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = illyrian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = illyrian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = illyrian
+		religion = shamanism
+		size = 3000
+	}
+}
+#Shkoder (408000/102000 POPS)
+850 = {
+	aristocrats = {
+		culture = illyrian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = illyrian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = illyrian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = illyrian
+		religion = shamanism
+		size = 30
+	}
+
+	artisans = {
+		culture = illyrian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = illyrian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = illyrian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = illyrian
+		religion = shamanism
+		size = 3000
+	}
+}
+#Durres (120000/30000 POPS)
+851 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 70
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 1500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = illyrian
+		religion = shamanism
+		size = 4200
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+}
+#Vlore (272000/68000 POPS)
+852 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 2000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 4000
+	}
+}
+#Epirus Region (168000) #see Greece.txt for balance of region 
+#under the rule of Ottoman Empire in 1836
+#Gjirokaster (168000/42000 POPS) #now part of Albania   
+853 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 2000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 4000
+	}
+}

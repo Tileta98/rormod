@@ -1,0 +1,91 @@
+#Salvador Region (416000)
+#Ruled by Central America 1836
+#San Salvador (260000/65000 POPS)
+2191 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1425
+		militancy = 9
+	}
+
+	bureaucrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+		militancy = 9
+	}
+
+	officers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 125
+		militancy = 9
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 650
+		militancy = 9
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 3250
+		militancy = 9
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1100
+		militancy = 9
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 58350
+		militancy = 9
+	}
+}
+#San Miguel (156000/44000 POPS)
+2192 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 950
+		militancy = 9
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 450
+		militancy = 9
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 2200
+		militancy = 9
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 450
+		militancy = 9
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 39950
+		militancy = 9
+	}
+
+}

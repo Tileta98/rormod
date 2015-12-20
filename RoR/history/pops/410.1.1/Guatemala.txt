@@ -1,0 +1,239 @@
+#Guatemala Region (476000)
+#Ruled by Central America 1836
+#Guatemala City (276000/69000 POPS)
+2186 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 600
+	}
+
+	bureaucrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 175
+	}
+
+	officers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 275
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1350
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1100
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 23350
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 225
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 2100
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 425
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 39250
+	}
+}
+#Quetzaltenango (112000/28000 POPS)
+2187 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 175
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 350
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1100
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 5400
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1050
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 225
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 19625
+	}
+}
+#Puerto Barrios (72000/18000 POPS)
+2188 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 300
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 5425
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 600
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 125
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 11225
+	}
+}
+#Sayaxche (16000/4000 POPS)
+2189 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 15
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 900
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 2800
+	}
+
+}

@@ -1,0 +1,6 @@
+owner = FRS
+controller = FRS
+add_core = FRS
+is_slave = yes
+trade_goods = cattle
+life_rating = 40

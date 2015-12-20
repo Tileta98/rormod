@@ -1,0 +1,170 @@
+#Cyprus Region (152000)
+#under the rule of Ottoman Empire in 1836  
+#Nicosia (64000/16000 POPS)
+855 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 70
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = pisidian
+		religion = greek_gods
+		size = 8000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+}
+#Limassol (44000/11000 POPS)
+856 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 70
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = pisidian
+		religion = greek_gods
+		size = 8000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+}
+#Famagusta (44000/11000 POPS)
+857 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 70
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = pisidian
+		religion = greek_gods
+		size = 8000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+}

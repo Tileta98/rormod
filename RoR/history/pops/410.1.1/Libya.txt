@@ -1,0 +1,850 @@
+#Tripolitania Region (396000)  
+#under the rule of Ottoman Empire in 1836  
+#Tripoli (172000/43000 POPS) 
+1731 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 70
+	}
+
+	officers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 5000
+	}
+
+	labourers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+}
+#Gharyan (40000/10000 POPS)
+1732 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+}
+#Misratah (84000/21000 POPS)
+1733 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 70
+	}
+
+	officers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 5000
+	}
+
+	labourers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+}
+#Sirt (100000/25000 POPS)
+1734 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 70
+	}
+
+	officers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 5000
+	}
+
+	labourers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+}
+#Cyrenaica Region (232000)  
+#under the rule of Ottoman Empire in 1836  
+#Benghazi (124000/31000 POPS)
+1735 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 70
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 6000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+}
+#Darnah (60000/15000 POPS)
+1736 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 70
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 6000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+}
+#Tobruk (48000/12000 POPS)
+1737 = {
+	aristocrats = {
+		culture = berber
+		religion = carthagian_gods
+		size = 70
+	}
+
+	officers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = berber
+		religion = carthagian_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = berber
+		religion = carthagian_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = berber
+		religion = carthagian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = berber
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 2000
+	}
+
+	labourers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 1000
+	}
+}
+#Kufrah Region (48000)  
+#uncolonized in 1836
+#Jaghbub (12000/3000 POPS)
+1738 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 2750
+	}
+}
+#Kufra (16000/4000 POPS)
+1739 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 2750
+	}
+
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 15
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 900
+	}
+}
+#Waddan (16000/4000 POPS)
+1740 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 2750
+	}
+
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 15
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 900
+	}
+}
+#Matan al Sarah (4000/1000 POPS)
+2585 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 15
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 900
+	}
+}
+#Fezzan Region (70000)  
+#under the indirect rule of Ottoman Empire in 1836  
+#Murzuk (16000/4000 POPS)
+1741 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 15
+	}
+
+	bureaucrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 5
+	}
+
+	officers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 15
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 880
+	}
+
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1875
+	}
+
+	slaves = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1100
+	}
+}
+#Sabha (14000/3500 POPS)
+1742 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 15
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 900
+	}
+
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1875
+	}
+
+	slaves = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+}
+#Ghat (16000/4000 POPS)
+1743 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 15
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 900
+	}
+
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1100
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 900
+	}
+
+	slaves = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1100
+	}
+}
+#Ghadamis (24000/6000 POPS)
+1744 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1100
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1750
+	}
+
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 15
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 900
+	}
+
+	slaves = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 2000
+	}
+
+}

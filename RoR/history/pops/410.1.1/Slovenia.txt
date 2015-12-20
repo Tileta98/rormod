@@ -1,0 +1,154 @@
+#Carinthia-Styria Region (204000) #see Austria.txt for balance of Region
+#under the rule of Austria in 1836  
+#Maribor (204000/51000 POPS) #Part of Slovenia Today
+767 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Carniola Region (460000)  
+#under the rule of Austria in 1836  
+#Ljubljana (280000/70000 POPS) 
+768 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Postojna (180000/45000 POPS) 
+769 = {
+	aristocrats = {
+		culture = venetic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = venetic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = venetic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = venetic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = venetic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = venetic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = venetic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = venetic
+		religion = druidism
+		size = 3000
+	}
+}

@@ -1,0 +1,6 @@
+owner = LCC
+controller = LCC
+add_core = LCC
+is_slave = yes
+trade_goods = fruit
+life_rating = 35

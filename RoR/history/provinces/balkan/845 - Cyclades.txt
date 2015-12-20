@@ -1,0 +1,6 @@
+owner = ATH
+controller = ATH
+add_core = ATH
+is_slave = yes
+trade_goods = fish
+life_rating = 35

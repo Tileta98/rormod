@@ -1,0 +1,115 @@
+#Trinidad & Tobago Region (69000/14750 POPS)
+#ruled by Britain 1836
+#Trinidad (44000/11000 POPS)
+2237 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	bureaucrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 15
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 410
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 750
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 9075
+	}
+}
+#Tobago (15000/3750 POPS)
+2238 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 5
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 60
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 3400
+	}
+
+}

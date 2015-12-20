@@ -1,0 +1,33 @@
+# Romanisation bear fruit
+country_event = {
+	id = 100500
+	title = "EVTNAME100500"
+	desc = "EVTDESC100500"
+	picture = "starving"		# we need a picture from a prospering roman city
+	
+	trigger = {
+		tag = RME
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+		modifier = {			# need some more matching conditions
+			factor = 0.9
+			average_militancy = 3
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 4
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA100500"
+		random_state = {
+			any_owned = {
+				limit = { is_core = RME }
+				life_rating = 1
+			}
+		}
+	}
+}

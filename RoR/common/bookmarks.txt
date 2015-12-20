@@ -1,0 +1,8 @@
+bookmark =
+{
+	name = "SW_NAME"
+	desc = "SW_DESC"
+	date = 410.1.1
+	cameraX = 2950 
+	cameraY = 1550
+}

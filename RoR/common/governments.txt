@@ -1,0 +1,91 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new forms of governemnts, make sure they are uniquely named.
+ 
+military_tribe =
+{
+	#which ideology of parties.
+	militarist = yes
+	
+	election = no
+	appoint_ruling_party = yes
+}
+
+trade_tribe =
+{
+	#which ideology of parties.
+	trader = yes
+	
+	election = no
+	appoint_ruling_party = yes
+}
+
+civic_tribe =
+{
+	#which ideology of parties.
+	militarist = yes
+	civilian = yes
+	trader = yes
+	theologist = yes
+	populist  = yes
+	
+	election = yes
+	duration = 48
+	appoint_ruling_party = no
+}
+
+oligarchic_republic =
+{
+	#which ideology of parties.
+	trader = yes
+	
+	election = yes
+	duration = 48
+	appoint_ruling_party = no
+}
+
+military_republic =
+{
+	#which ideology of parties.
+	militarist = yes
+	
+	election = yes
+	duration = 48
+	appoint_ruling_party = no
+}
+
+despotic_monarchy =
+{
+	#which ideology of parties.
+	militarist = yes
+	
+	election = no
+	appoint_ruling_party = yes
+}
+
+federal_monarchy =
+{
+	#which ideology of parties.
+	civilian = yes
+	
+	election = no
+	appoint_ruling_party = yes
+}
+
+aristocratic_monarchy =
+{
+	#which ideology of parties.
+	populist = yes
+	
+	election = no
+	appoint_ruling_party = yes
+}
+
+republic_confederacy =
+{
+	#which ideology of parties.
+	civilian = yes
+	
+	election = yes
+	duration = 48
+	appoint_ruling_party = no
+}

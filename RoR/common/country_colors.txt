@@ -1,0 +1,8 @@
+# Country unit colors.
+
+# Rome (dark-blue coats, blue trousers and hats)
+RME = {
+color1 = { 255 50 50 }
+color2 = { 255 50 50 }
+color3 = { 255 50 50 }
+}

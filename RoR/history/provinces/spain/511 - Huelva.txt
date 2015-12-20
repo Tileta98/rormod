@@ -1,0 +1,6 @@
+owner = TU1
+controller = TU1
+add_core = TU1
+is_slave = yes
+trade_goods = grain
+life_rating = 35

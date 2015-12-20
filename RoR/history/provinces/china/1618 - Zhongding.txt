@@ -1,0 +1,5 @@
+owner = YAN
+controller = YAN
+add_core = YAN
+is_slave = yes
+trade_goods = silklife_rating = 32

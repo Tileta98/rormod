@@ -1,0 +1,5 @@
+owner = PA1
+controller = PA1
+add_core = PA1
+is_slave = yes
+trade_goods = dyelife_rating = 32

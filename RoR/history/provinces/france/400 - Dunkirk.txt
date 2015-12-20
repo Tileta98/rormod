@@ -1,0 +1,9 @@
+owner = ATR
+controller = ATR
+add_core = ATR
+add_core = GAU
+is_slave = yes
+trade_goods = fish
+
+life_rating = 32
+

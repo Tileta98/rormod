@@ -1,0 +1,48 @@
+political_decisions = {
+	form_gaul = {
+		potential = {
+			is_greater_power = yes
+			primary_culture = celtic
+			NOT = {
+				exists = GAU
+			}
+		}	
+		allow = {
+			war = no
+			GAU = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 10
+			any_country = {
+				limit = {
+					primary_culture = celtic
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = GAU
+				}
+				add_core = GAU
+			}
+			change_tag = GAU
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

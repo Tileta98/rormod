@@ -1,0 +1,5 @@
+owner = KA2
+controller = KA2
+add_core = KA2
+is_slave = yes
+trade_goods = cattlelife_rating = 35

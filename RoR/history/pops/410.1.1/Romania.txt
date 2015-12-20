@@ -1,0 +1,1294 @@
+#Partium Region (1288000) #See Hungary.txt for balance of region 
+#under the rule of Austria in 1836  
+#Oradea (844000/211000 POPS) #part of Romania today
+647 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Szatmare (444000/111000 POPS) #part of Romania today 
+651 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Banat-Bacska Region (1240000) #See Serbia.txt and Croatia.txt for balance of region 
+#under the rule of Austria in 1836  
+#Temesvar (940000/235000 POPS) #part of Romania today
+652 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Orsova (376000/94000 POPS) #part of Romania today
+653 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Transylvania Region (2060000) 
+#under the rule of Austria in 1836  
+#Cluj (156000/44000 POPS)  
+654 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Gyulafehervar/Alba Iulia (316000/79000 POPS)  
+655 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Deva (252000/63000 POPS)  
+656 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Nagyszeben/Sibiu (276000/69000 POPS)  
+657 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Brasso/Brasov (168000/42000 POPS)  
+659 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Udvarhely (228000/57000 POPS)  
+660 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Beszterce (300000/75000 POPS)  
+661 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Targu Mures (344000/86000 POPS)  
+2533 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Bukovina Region (204000) #See Ukraine.txt for balance of region 
+#under the rule of Austria in 1836 
+#Suceava (204000/51000 POPS)  
+663 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Wallachia Region (1228000)   
+#under the rule of Wallachia in 1836 
+#Bucharest (260000/65000 POPS)  
+664 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Tirgu Jiu (172000/43000 POPS)  
+665 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Craiova (196000/49000 POPS)  
+666 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Tirgoviste (188000/47000 POPS)  
+667 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Braila (272000/68000 POPS)  
+668 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Calarasi (140000/35000 POPS)  
+669 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Moldavia Region (1356000)   
+#under the rule of Moldavia in 1836 
+#Iasi (468000/117000 POPS)  
+670 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Botosani (176000/44000 POPS)  
+671 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Bacau (440000/110000 POPS)  
+672 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Galati (272000/68000 POPS)  
+673 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Dobruja Region (168000) #see Bulgaria.txt for balance of Region  
+#under the rule of the Ottoman Empire in 1836 
+#Constanta (128000/32000 POPS)  
+674 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Tulcea (40000/10000 POPS)  
+675 = {
+	aristocrats = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = dacian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = dacian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = dacian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = dacian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = dacian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = dacian
+		religion = shamanism
+		size = 4000
+	}
+}

@@ -1,0 +1,5 @@
+owner = GAT
+controller = GAT
+add_core = GAT
+is_slave = yes
+trade_goods = grainlife_rating = 35

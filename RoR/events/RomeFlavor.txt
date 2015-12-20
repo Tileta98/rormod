@@ -1,0 +1,102 @@
+# Via Appia
+country_event = {
+
+	id = 110200
+
+	title = "EVTNAME110200"
+	desc = "EVTDESC110200"
+	picture = "ViaAppia"
+
+	trigger = {
+		tag = RME
+		749 = {	
+			has_building = railroad
+			controlled_by = RME
+		}
+		2567 = {	
+			has_building = railroad
+			controlled_by = RME
+		}
+		757 = {	
+			has_building = railroad
+			controlled_by = RME
+		}
+		756= {	
+			has_building = railroad
+			controlled_by = RME
+		}
+		758 = {	
+			has_building = railroad
+			controlled_by = RME
+		}
+	}
+	
+	fire_only_once = yes
+
+	option = {
+		name = "EVTOPTA110200"
+		749 = {
+			add_province_modifier = {
+					name = via_appia
+					duration = -1
+			}
+		}
+	}
+}
+
+# Romes "First" Colony and Harbour - Ostia
+country_event = {
+
+	id = 110201
+
+	title = "EVTNAME110201"
+	desc = "EVTDESC110201"
+	picture = "OstiaAntica"
+
+	trigger = {
+		tag = RME
+		749 = {	
+			has_building = naval_base
+			controlled_by = RME
+		}
+	}
+	
+	fire_only_once = yes
+
+	option = {
+		name = "EVTOPTA110201"
+		749 = {
+			add_province_modifier = {
+					name = ostia_harbour
+					duration = -1
+			}
+		}
+	}
+}
+
+# 337 BC
+# event: 110202
+# A plebeian is chosen to be praetor of Rome for the first time.
+country_event = {
+
+	id = 110202
+
+	title = "EVTNAME110202"
+	desc = "EVTDESC110202"
+	picture = "OstiaAntica"
+
+	trigger = {
+		tag = RME
+		year = 416
+	}
+	
+	fire_only_once = yes
+
+	option = {
+		name = "EVTOPTA110202"
+		poor_strata = {
+			consciousness = 1
+			militancy = -1
+		}
+	}
+}

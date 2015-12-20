@@ -1,0 +1,5 @@
+owner = DO1
+controller = DO1
+add_core = DO1
+is_slave = yes
+trade_goods = grainlife_rating = 30

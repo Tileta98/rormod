@@ -1,0 +1,5 @@
+owner = BU1
+controller = BU1
+add_core = BU1
+is_slave = yes
+trade_goods = timberlife_rating = 32

@@ -1,0 +1,91 @@
+#Surinam : 56640
+#Ruled by The Netherlands 1836
+#Paramaribo (48640/12160 POPS)
+2240 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	bureaucrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1750
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1200
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	slaves = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 9000
+	}
+}
+#Aperina (8000/2000 POPS)
+2245 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1750
+	}
+
+}

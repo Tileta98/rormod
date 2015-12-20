@@ -1,0 +1,8 @@
+owner = ATR
+controller = ATR
+add_core = ATR
+is_slave = yes
+trade_goods = grain
+
+life_rating = 35
+

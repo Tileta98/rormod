@@ -1,0 +1,5 @@
+owner = NAN
+controller = NAN
+add_core = NAN
+is_slave = yes
+trade_goods = fruitlife_rating = 32

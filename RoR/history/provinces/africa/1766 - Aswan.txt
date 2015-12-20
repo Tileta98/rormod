@@ -1,0 +1,6 @@
+owner = MER
+controller = MER
+add_core = MER
+is_slave = yes
+trade_goods = grain
+life_rating = 35

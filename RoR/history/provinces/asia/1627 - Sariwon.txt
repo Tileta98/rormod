@@ -1,0 +1,5 @@
+owner = GOJ
+controller = GOJ
+add_core = GOJ
+is_slave = yes
+trade_goods = ironlife_rating = 35

@@ -1,0 +1,5 @@
+owner = TOC
+controller = TOC
+add_core = TOC
+is_slave = yes
+trade_goods = copperlife_rating = 32

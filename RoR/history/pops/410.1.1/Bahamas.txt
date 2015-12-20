@@ -1,0 +1,91 @@
+#The Bahamas Region - 23000
+#Ruled by Britain 1836
+#The Bahamas (20000/5000 POPS)
+2219 = {
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 4050
+	}
+
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 15
+	}
+
+	bureaucrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 5
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 15
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 540
+	}
+}
+#Turks & Caicos Islands (3000/750 POPS) #still a British colony
+2220 = {
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 550
+	}
+
+}

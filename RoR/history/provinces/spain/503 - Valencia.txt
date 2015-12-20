@@ -1,0 +1,6 @@
+owner = SAG
+controller = SAG
+add_core = SAG
+is_slave = yes
+trade_goods = fruit
+life_rating = 35

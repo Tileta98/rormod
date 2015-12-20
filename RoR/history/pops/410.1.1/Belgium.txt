@@ -1,0 +1,553 @@
+#Flanders Region (2558000)
+#Brussels (772000/193000 POPS)
+387 = {
+	aristocrats = {
+		culture = germanic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = druidism
+		size = 3000
+	}
+}
+#Bruges (456000/114000 POPS)
+388 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Ghent (704000/176000 POPS)
+389 = {
+	aristocrats = {
+		culture = germanic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = druidism
+		size = 3000
+	}
+}
+#Antwerp (354000/88500 POPS)
+390 = {
+	aristocrats = {
+		culture = germanic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = druidism
+		size = 3000
+	}
+}
+#Hasselt (272000/68000 POPS)
+391 = {
+	aristocrats = {
+		culture = germanic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = druidism
+		size = 3000
+	}
+}
+#Wallonia Region (1432000)
+#Namur (388000/97000 POPS)
+392 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Tournai (292000/73000 POPS)
+393 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Charleroi (396000/99000 POPS)
+394 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Liege (212000/53000 POPS)
+395 = {
+	aristocrats = {
+		culture = germanic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = druidism
+		size = 3000
+	}
+}
+#Spa (144000/36000 POPS)
+396 = {
+	aristocrats = {
+		culture = germanic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = druidism
+		size = 3000
+	}
+}
+#Luxembourg Region (172000)
+#Arlon (172000/43000 POPS)
+398 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}

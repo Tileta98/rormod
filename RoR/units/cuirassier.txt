@@ -1,0 +1,48 @@
+cuirassier = {
+#heavy cavalry
+	icon = 13
+	
+	type = land
+	sprite = Infantry
+	active = no
+	unit_type = cavalry
+	floating_flag = yes
+	
+	#Avatar
+	sprite_mount = GenericMount
+	sprite_mount_attach_node = Saddle_Node
+
+	#Core Abilities
+	priority = 25
+	max_strength = 1
+	default_organisation = 30
+	maximum_speed = 5.5
+	weighted_value = 8.0
+
+
+	#Building Costs
+	build_time = 130
+	build_cost = {
+		arms = 2.5
+		armors = 2.5
+		rations = 2
+		horses = 2
+	}
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		arms = 0.025
+		armors = 0.025
+		rations = 0.1
+		horses = 0.1
+	}
+	
+
+	#Land Abilties
+	reconnaissance = 1
+	attack = 7
+	defence = 4
+	discipline = 1.0
+	support = 0.0
+	maneuver = 3
+}

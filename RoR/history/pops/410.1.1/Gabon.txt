@@ -1,0 +1,192 @@
+#Gabon Region (180000)  #see Gulf of Guinea.txt for balance of region 
+#uncolonized in 1836/under the influence of Teke
+#Libreville (48000/12000 POPS) 
+1972 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 2700
+	}
+
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 450
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 8200
+	}
+}
+#Mayumbe (32000/8000 POPS) 
+1974 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 400
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 7300
+	}
+}
+#Moanda (28000/7000 POPS) 
+1975 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 125
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 350
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 6375
+	}
+}
+#uncolonized in 1836
+#Makokou (72000/18000 POPS) 
+1976 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 400
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 7300
+	}
+
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 175
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 9125
+	}
+
+}

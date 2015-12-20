@@ -1,0 +1,5 @@
+owner = KA1
+controller = KA1
+add_core = KA1
+is_slave = yes
+trade_goods = flaxlife_rating = 32

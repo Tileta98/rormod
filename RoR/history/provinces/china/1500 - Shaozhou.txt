@@ -1,0 +1,5 @@
+owner = YUE
+controller = YUE
+add_core = YUE
+is_slave = yes
+trade_goods = honeylife_rating = 32

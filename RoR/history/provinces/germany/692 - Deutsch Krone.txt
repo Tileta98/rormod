@@ -1,0 +1,6 @@
+owner = GUT
+controller = GUT
+add_core = GUT
+is_slave = yes
+trade_goods = grain
+life_rating = 40

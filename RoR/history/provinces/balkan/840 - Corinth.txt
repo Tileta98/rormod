@@ -1,0 +1,6 @@
+owner = COR
+controller = COR
+add_core = COR
+is_slave = yes
+trade_goods = fruit
+life_rating = 35

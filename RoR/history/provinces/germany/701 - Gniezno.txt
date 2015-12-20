@@ -1,0 +1,5 @@
+owner = LUG
+controller = LUG
+add_core = LUG
+is_slave = yes
+trade_goods = grainlife_rating = 40

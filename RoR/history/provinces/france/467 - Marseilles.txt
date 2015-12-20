@@ -1,0 +1,9 @@
+owner = MAS
+controller = MAS
+add_core = MAS
+add_core = GAU
+is_slave = yes
+trade_goods = fruit
+
+life_rating = 31
+

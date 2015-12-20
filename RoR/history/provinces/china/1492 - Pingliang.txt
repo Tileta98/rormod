@@ -1,0 +1,5 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+is_slave = yes
+trade_goods = grainlife_rating = 32

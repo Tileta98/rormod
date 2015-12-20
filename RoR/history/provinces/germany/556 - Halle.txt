@@ -1,0 +1,6 @@
+owner = SUE
+controller = SUE
+add_core = SUE
+is_slave = yes
+trade_goods = fruit
+life_rating = 40

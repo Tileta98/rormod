@@ -1,0 +1,5 @@
+owner = QI1
+controller = QI1
+add_core = QI1
+is_slave = yes
+trade_goods = fruitlife_rating = 32

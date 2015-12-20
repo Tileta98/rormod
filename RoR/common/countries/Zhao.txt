@@ -1,0 +1,156 @@
+color = { 246  150  150 }
+graphical_culture = PersianGC
+party = {
+	name = "PARTY_reactionary"
+	start_date = 410.1.1
+	end_date = 2000.1.1
+	ideology = reactionary
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = "PARTY_conservative"
+	start_date = 410.1.1
+	end_date = 2000.1.1
+	ideology = conservative
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "PARTY_liberal"
+	start_date = 410.1.1
+	end_date = 1890.1.1
+	ideology = liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = "PARTY_socialist"
+	start_date = 410.1.1
+	end_date = 2000.1.1
+	ideology = socialist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = "PARTY_anarcho_liberal"
+	start_date = 410.1.1
+	end_date = 2000.1.1
+	ideology = anarcho_liberal
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "PARTY_communist"
+	start_date = 410.1.1
+	end_date = 2000.1.1
+	ideology = communist
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "PARTY_fascist"
+	start_date = 410.1.1
+	end_date = 2000.1.1
+	ideology = fascist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = "PARTY_militarist"
+	start_date = 410.1.1
+	end_date = 2000.1.1
+	ideology = militarist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = "PARTY_populist"
+	start_date = 410.1.1
+	end_date = 2000.1.1
+	ideology = populist
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "PARTY_trader"
+	start_date = 410.1.1
+	end_date = 2000.1.1
+	ideology = trader
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = "PARTY_civilian"
+	start_date = 410.1.1
+	end_date = 2000.1.1
+	ideology = civilian
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = "PARTY_theologist"
+	start_date = 410.1.1
+	end_date = 2000.1.1
+	ideology = theologist
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+unit_names = {
+	dreadnought = {
+	}
+	battleship = {
+	}
+	ironclad = {
+	}
+	manowar = {
+	}
+	cruiser = {
+	}
+	frigate = {
+	}
+	monitor = {
+	}
+	clipper_transport = { 
+	}
+	steam_transport = { 
+	}
+	commerce_raider = {
+	}
+}

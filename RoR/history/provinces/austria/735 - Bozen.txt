@@ -1,0 +1,6 @@
+owner = RAE
+controller = RAE
+add_core = RAE
+is_slave = yes
+trade_goods = grain
+life_rating = 35

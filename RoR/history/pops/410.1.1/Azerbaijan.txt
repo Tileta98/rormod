@@ -1,0 +1,465 @@
+#Northern Azerbaijan Region (340000)
+#under the rule of Russia in 1836
+#Baku (76000/19000 POPS)
+1102 = {
+	bureaucrats = {
+		culture = ibero
+		religion = shamanism
+		size = 40
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = shamanism
+		size = 5
+	}
+
+	artisans = {
+		culture = ibero
+		religion = shamanism
+		size = 15
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = shamanism
+		size = 40
+	}
+
+	aristocrats = {
+		culture = ibero
+		religion = shamanism
+		size = 125
+	}
+
+	bureaucrats = {
+		culture = ibero
+		religion = shamanism
+		size = 15
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = ibero
+		religion = shamanism
+		size = 300
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = shamanism
+		size = 60
+	}
+
+	farmers = {
+		culture = ibero
+		religion = shamanism
+		size = 5350
+	}
+
+	aristocrats = {
+		culture = ibero
+		religion = shamanism
+		size = 175
+	}
+
+	bureaucrats = {
+		culture = ibero
+		religion = shamanism
+		size = 5
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = shamanism
+		size = 110
+	}
+
+	artisans = {
+		culture = ibero
+		religion = shamanism
+		size = 600
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = shamanism
+		size = 125
+	}
+
+	farmers = {
+		culture = ibero
+		religion = shamanism
+		size = 10985
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = ibero
+		religion = shamanism
+		size = 740
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = shamanism
+		size = 5
+	}
+
+	artisans = {
+		culture = ibero
+		religion = shamanism
+		size = 245
+	}
+}
+#Siyazen (56000/14000 POPS)
+1103 = {
+	aristocrats = {
+		culture = ibero
+		religion = shamanism
+		size = 50
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = ibero
+		religion = shamanism
+		size = 150
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = shamanism
+		size = 25
+	}
+
+	farmers = {
+		culture = ibero
+		religion = shamanism
+		size = 2725
+	}
+
+	aristocrats = {
+		culture = ibero
+		religion = shamanism
+		size = 125
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = shamanism
+		size = 75
+	}
+
+	artisans = {
+		culture = ibero
+		religion = shamanism
+		size = 350
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = shamanism
+		size = 75
+	}
+
+	farmers = {
+		culture = ibero
+		religion = shamanism
+		size = 6400
+	}
+
+	aristocrats = {
+		culture = ibero
+		religion = shamanism
+		size = 75
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = shamanism
+		size = 75
+	}
+
+	artisans = {
+		culture = ibero
+		religion = shamanism
+		size = 200
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = shamanism
+		size = 50
+	}
+
+	farmers = {
+		culture = ibero
+		religion = shamanism
+		size = 3600
+	}
+}
+#Sheki (24000/6000 POPS)
+1104 = {
+	aristocrats = {
+		culture = ibero
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = shamanism
+		size = 45
+	}
+
+	artisans = {
+		culture = ibero
+		religion = shamanism
+		size = 100
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = shamanism
+		size = 25
+	}
+
+	farmers = {
+		culture = ibero
+		religion = shamanism
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = ibero
+		religion = shamanism
+		size = 20
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = shamanism
+		size = 20
+	}
+
+	artisans = {
+		culture = ibero
+		religion = shamanism
+		size = 50
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = shamanism
+		size = 10
+	}
+
+	farmers = {
+		culture = ibero
+		religion = shamanism
+		size = 900
+	}
+
+	aristocrats = {
+		culture = ibero
+		religion = shamanism
+		size = 50
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = ibero
+		religion = shamanism
+		size = 150
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = shamanism
+		size = 50
+	}
+
+	farmers = {
+		culture = ibero
+		religion = shamanism
+		size = 2600
+	}
+}
+#Ganja (68000/17000 POPS)
+1105 = {
+	aristocrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 225
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 75
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 500
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 100
+	}
+
+	farmers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 9100
+	}
+
+	aristocrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 75
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 75
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 350
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 75
+	}
+
+	farmers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 6425
+	}
+}
+#Agdam (60000/15000 POPS)
+1106 = {
+	aristocrats = {
+		culture = armenian
+		religion = zoroastrianism
+		size = 150
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = zoroastrianism
+		size = 75
+	}
+
+	artisans = {
+		culture = armenian
+		religion = zoroastrianism
+		size = 450
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	farmers = {
+		culture = armenian
+		religion = zoroastrianism
+		size = 8225
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = armenian
+		religion = zoroastrianism
+		size = 300
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = zoroastrianism
+		size = 75
+	}
+
+	farmers = {
+		culture = armenian
+		religion = zoroastrianism
+		size = 5475
+	}
+}
+#Lankaran (56000/14000 POPS)
+1107 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 225
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 125
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 700
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 150
+	}
+
+	farmers = {
+		culture = median
+		religion = zoroastrianism
+		size = 12800
+	}
+
+}

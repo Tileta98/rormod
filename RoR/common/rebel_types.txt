@@ -1,0 +1,10 @@
+##############################################
+# The rebel types used by the game engine
+##############################################
+# Valid arguments:
+#
+# area = [nation/culture/nation_culture/nation_religion/religion/culture_group/all]
+# defection = [culture/culture_group/religion/ideology/any/none/pan_nationalist]
+# independence = [culture/culture_group/religion/colonial/any/none/pan_nationalist]
+#
+##############################################

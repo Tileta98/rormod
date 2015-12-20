@@ -1,0 +1,6 @@
+owner = INS
+controller = INS
+add_core = INS
+is_slave = yes
+trade_goods = grain
+life_rating = 35

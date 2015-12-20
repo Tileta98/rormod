@@ -1,0 +1,28 @@
+#Iceland (56000)
+#Ruled by Denmark in 1836
+#Reykjavik (56000/14000 POPS)
+252 = {
+	bureaucrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 750
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 13125
+	}
+}

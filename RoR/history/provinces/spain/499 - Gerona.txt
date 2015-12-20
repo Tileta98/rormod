@@ -1,0 +1,6 @@
+owner = EMP
+controller = EMP
+add_core = EMP
+is_slave = yes
+trade_goods = fruit
+life_rating = 35

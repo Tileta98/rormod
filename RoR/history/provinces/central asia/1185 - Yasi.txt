@@ -1,0 +1,6 @@
+owner = SAK
+controller = SAK
+add_core = SAK
+is_slave = yes
+trade_goods = wool
+life_rating = 35

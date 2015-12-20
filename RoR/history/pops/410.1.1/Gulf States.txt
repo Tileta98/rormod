@@ -1,0 +1,286 @@
+#Basra Region (12000) #see Iraq.txt for balance of region  
+#under the rule of Ottoman Empire in 1836  
+#Kuwait (12000/3000 POPS) #now part of Kuwait 
+935 = {
+	aristocrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	officers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 500
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 2000
+	}
+}
+#Bahrain Region (28000) #see Saudi Arabia.txt for balance of region  
+#under the rule of Trucial States in 1836  
+#Bahrain (20000/5000 POPS) #now part of Bahrein  
+1162 = {
+	aristocrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	officers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 500
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 2000
+	}
+}
+#Doha (8000/2000 POPS) #now part of Qatar 
+1165 = {
+	aristocrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	officers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 500
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 2000
+	}
+}
+#Uman Region (36000) #see Oman.txt for balance of region 
+#under the rule of Oman in 1836  
+#Abu Dhabi (20000/5000 POPS) #now part of UAE  
+1167 = {
+	aristocrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	officers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 500
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 2000
+	}
+}
+#Dubai (16000/4000 POPS)   #now part of UAE 
+1168 = {
+	aristocrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	officers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 500
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 2000
+	}
+}

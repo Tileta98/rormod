@@ -1,0 +1,5 @@
+owner = KOS
+controller = KOS
+add_core = KOS
+is_slave = yes
+trade_goods = dyelife_rating = 32

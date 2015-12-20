@@ -1,0 +1,16 @@
+war_elephants = {
+	limit = { 	
+			gastraphetes = 1
+	}
+	chance = {
+		base = 0
+		modifier = {
+			factor = 100
+			is_culture_group = north_levantine
+		}
+	}
+	effect = {
+		activate_building = elephant_stud_farm
+		activate_unit = plane
+	}
+}

@@ -1,0 +1,352 @@
+#Bosnia Region (864000)
+#under the rule of Ottoman Empire in 1836
+#Sarajevo (148000/37000 POPS)
+783 = {
+	aristocrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = pannonian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = pannonian
+		religion = shamanism
+		size = 3000
+	}
+}
+#Bihac (100000/25000 POPS)
+784 = {
+	aristocrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = pannonian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = pannonian
+		religion = shamanism
+		size = 3000
+	}
+}
+#Banja Luka (116000/29000 POPS)
+785 = {
+	aristocrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = pannonian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = pannonian
+		religion = shamanism
+		size = 3000
+	}
+}
+#Tuzla (168000/42000 POPS)
+786 = {
+	aristocrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = pannonian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = pannonian
+		religion = shamanism
+		size = 3000
+	}
+}
+#Foca (92000/23000 POPS)
+787 = {
+	aristocrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = pannonian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = pannonian
+		religion = shamanism
+		size = 3000
+	}
+}
+#Mostar (104000/26000 POPS)
+788 = {
+	aristocrats = {
+		culture = illyrian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = illyrian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = illyrian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = illyrian
+		religion = shamanism
+		size = 30
+	}
+
+	artisans = {
+		culture = illyrian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = illyrian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = illyrian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = illyrian
+		religion = shamanism
+		size = 3000
+	}
+}
+#Livno (136000/34000 POPS)
+789 = {
+	aristocrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = pannonian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = pannonian
+		religion = shamanism
+		size = 3000
+	}
+}

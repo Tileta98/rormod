@@ -1,0 +1,9 @@
+owner = NRV
+controller = NRV
+add_core = NRV
+add_core = GAU
+is_slave = yes
+trade_goods = stone
+
+life_rating = 30
+

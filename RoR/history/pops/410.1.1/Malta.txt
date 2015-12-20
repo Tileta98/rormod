@@ -1,0 +1,58 @@
+#Malta - 120000
+#Ruled by Britain 1836
+#Valetta (120000/30000 POPS)
+854 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	officers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 100
+	}
+
+	labourers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 2000
+	}
+}

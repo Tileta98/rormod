@@ -1,0 +1,6 @@
+owner = ING
+controller = ING
+add_core = ING
+is_slave = yes
+trade_goods = cattle
+life_rating = 35

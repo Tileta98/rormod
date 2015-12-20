@@ -1,0 +1,5 @@
+owner = BI1
+controller = BI1
+add_core = BI1
+is_slave = yes
+trade_goods = fruitlife_rating = 32

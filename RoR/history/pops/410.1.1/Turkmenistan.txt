@@ -1,0 +1,271 @@
+#Khwarazm Region (40000) #see Uzbekistan.txt and Kazakhstan.txt for balance of region 
+#under the rule of Khiva in 1836  
+#Dashhowuz (40000/10000 POPS) #now part of Turkmenistan  
+1195 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 80
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 150
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 425
+	}
+
+	slaves = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 2950
+	}
+
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 2
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 3
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 5
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 230
+	}
+}
+#Turkmenia Region (368000) 
+#under the rule of Khiva in 1836  
+#Ashkabad (148000/32000 POPS)   
+1204 = {
+	aristocrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Kizil Arvut (88000/22000 POPS)   
+1205 = {
+	aristocrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#under the rule of Bukhara in 1836  
+#Merv (132000/33000 POPS)   
+1206 = {
+	aristocrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+}

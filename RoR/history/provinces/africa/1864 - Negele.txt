@@ -1,0 +1,1 @@
+trade_goods = claylife_rating = 30

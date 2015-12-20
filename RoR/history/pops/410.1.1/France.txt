@@ -1,0 +1,3808 @@
+#Picardy Region (2388000)
+#Lille (620000/155000 POPS)
+399 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Dunkirk (396000/99000 POPS)
+400 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Arras (428000/107000 POPS)
+401 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Amiens (552000/138000 POPS)
+402 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Beauvais (392000/98000 POPS)
+2570 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Ardennes Region (1116000)
+#Laon (528000/132000 POPS)
+403 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Cambrai (280000/70000 POPS)
+404 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Charleville (308000/77000 POPS)
+405 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Champagne Region (856000)
+#Troyes (252000/63000 POPS)
+406 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Chaumont (256000/64000 POPS)
+407 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Chalons (348000/87000 POPS)
+408 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Alsace Region (976000 POPS)
+#Strasbourg (552000/138000 POPS)
+409 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Mulhausen (424000/106000 POPS)
+410 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Lorraine Region (1584000)
+#Nancy (432000/108000 POPS)
+411 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Metz (420000/105000 POPS)
+412 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Verdun (320000/80000 POPS)
+413 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Epinal (412000/103000 POPS)
+414 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Normandy Region (2670000)
+#Rouen (716000/179000 POPS)
+415 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Evreux (424000/106000 POPS)
+416 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Alencon (442000/110500 POPS)
+417 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Caen (1088000/272000 POPS)
+418 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Brittany Region (2616000)
+#Brest (552000/138000 POPS)
+420 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#St Brieuc (604000/151000 POPS)
+421 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Vannes (436000/109000 POPS)
+422 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Nantes (476000/119000 POPS)
+423 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Rennes (548000/137000 POPS)
+424 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Ile De France Region (2132000)
+#Paris (1520000/380000 POPS)
+425 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Chartres (284000/71000 POPS)
+426 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Melun (328000/82000 POPS)
+427 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Burgundy Region (1872000)
+#Dijon (384000/96000 POPS)
+428 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Auxerre (356000/89000 POPS)
+429 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Moulins (596000/149000 POPS)
+430 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Macon (536000/134000 POPS)
+431 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Franche Comte Region (914000)
+#Besancon (600000/150000 POPS)
+432 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Lons (314000/78500 POPS)
+433 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Pays de la Loire Region (1948800)
+#Angers (782000/195500 POPS)
+434 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Laval (358000/89500 POPS)
+435 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Le Mans (464000/116000 POPS)
+436 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#La Roche (344000/86000 POPS)
+437 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Val de Loire Region (1120000)
+#Orleans (312000/78000 POPS)
+438 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Bourges (264400/66100 POPS)
+439 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Blois (243600/60900 POPS)
+440 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Tours (300000/75000 POPS)
+441 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Poitou Region (1106000)
+#La Rochelle (454000/113500 POPS)
+442 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Poitiers (288000/72000 POPS)
+443 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Angouleme (364000/91000 POPS)
+444 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Limousin Region (1596000)
+#Limoges (288000/72000 POPS)
+445 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Chateauroux (520000/130000 POPS)
+446 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Tulle (788000/197000 POPS)
+447 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Auvergne Region (1418000)
+#Clermont-Ferrand (728000/182000 POPS)
+448 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Aurillac (404000/101000 POPS)
+449 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Cahors (286000/71500 POPS)
+450 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Lyonnais-Dauphine Region (2588000)
+#Lyon (824000/206000 POPS)
+451 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#St Etienne (412000/103000 POPS)
+452 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Valence (656000/164000 POPS)
+453 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Grenoble (696000/174000 POPS)
+454 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Midi Region (1604000)
+#Toulouse (672000/168000 POPS)
+455 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Montauban (584000/146000 POPS)
+456 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Foix (348000/87000 POPS)
+457 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Aquitaine Region (1864000)
+#Bordeaux (632000/158000 POPS)
+458 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Mont de Marsan (556000/139000 POPS)
+459 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Pau (676000/169000 POPS)
+460 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Languedoc Region (1668000)
+#Montpellier (724000/181000)
+461 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 500
+
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Rodez (504000/126000 POPS)
+462 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Carcassone (276000/69000 POPS)
+463 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Perpignan (164000/41000 POPS)
+464 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Savoy Region (486800)
+##Sardinian until 1860
+#Annecy (258400/64600 POPS)
+465 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Chambery (228400/57100 POPS)
+466 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Provence Region (1268400)
+#Marseilles (384800/96200 POPS)
+467 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 100
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 1500
+
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 5000
+	}
+}
+#Avignon (243600/60900 POPS)
+468 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Digne (113200/31000 POPS)
+469 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Toulon (224000/56000 POPS)
+470 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 500
+
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Frejus (132000/33000 POPS)
+471 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Nice (Sardinian until 1860) (170800/42700 POPS)
+472 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 500
+
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Corsica Region (210000)
+#Corsica (210000/52500 POPS)
+473 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 50
+	}
+
+	officers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 2500
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1100
+	}
+
+	farmers = {
+		culture = etruscan
+		religion = roman_gods
+		size = 3000
+	}
+
+
+	farmers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+}
+

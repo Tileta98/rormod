@@ -1,0 +1,6 @@
+owner = MES
+controller = MES
+add_core = MES
+is_slave = yes
+trade_goods = copper
+life_rating = 35

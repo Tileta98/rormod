@@ -1,0 +1,94 @@
+capital = 749
+primary_culture = roman
+religion = roman_gods
+government = military_republic
+plurality = 0.12
+nationalvalue = nv_order
+literacy = 0.28
+civilized = yes
+
+
+# Political reforms
+slavery = yes_slavery
+upper_house_composition = appointed
+vote_franschise = wealth_voting
+public_meetings = yes_meeting
+press_rights = censored_press
+trade_unions = non_socialist
+voting_system = first_past_the_post
+political_parties = non_secret_ballots
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = twelve_hours
+safety_regulations = no_safety
+health_care = trinket_health_care
+unemployment_subsidies = no_subsidies
+pensions = trinket_pensions 
+school_reforms = no_schools
+
+ruling_party = PARTY_militarist
+upper_house = {
+	fascist = 0
+	liberal = 0
+	conservative = 0
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+	militarist = 50
+	theologist = 10
+	populist = 20
+	civilian = 10
+	trader = 10
+}
+oob = RME_oob.txt
+
+basic_plumbing = 1
+soap_use = 1
+public_bathing = 1
+aqueducts = 1
+dirt_roads = 1
+wooden_bridges = 1
+semi_paved_road = 1
+charcoal_obtaining = 1
+tin_and_copper_working = 1
+bronze_working = 1
+salting = 1
+organic_fertilizer = 1
+slave_force = 1
+roman_plow = 1
+worm_drive = 1
+crane = 1
+pulley = 1
+
+barter = 1
+commodity_money = 1
+
+tribal_levies = 1
+organized_conscription = 1
+greek_phalanx = 1
+macedonian_phalanx = 1
+
+celtic_sword = 1
+iberian_falcata = 1
+dory = 1
+sarissa = 1
+pilum = 1
+
+battering_ram = 1
+siege_tower = 1
+gastraphetes = 1
+
+pillage = 1
+rations = 1
+
+greco_persian_wars = 1
+peloponnesian_war = 1
+
+410.1.1 = {
+	prestige = 0
+	plurality = 60
+	literacy = 0.32
+	non_state_culture_literacy = 0.32
+}

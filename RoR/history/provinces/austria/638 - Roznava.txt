@@ -1,0 +1,6 @@
+owner = BIE
+controller = BIE
+add_core = BIE
+is_slave = yes
+trade_goods = stone
+life_rating = 35

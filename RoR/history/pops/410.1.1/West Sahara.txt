@@ -1,0 +1,68 @@
+#Rio de Oro Region (20000) #see Mauritania.txt for balance of region
+#uncolonized in 1836  
+#Al Aiyun (12000/3000 POPS)  
+1773 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+}
+#Dahkla (8000/2000 POPS)  
+1774 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+}

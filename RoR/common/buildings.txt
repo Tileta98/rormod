@@ -1,0 +1,871 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new buildings, make sure they are uniquely named.
+#
+# Order in here matters for selection priority if icons are overlapping,
+# so leave bases on top
+
+# 
+# cost = x #==> extra construction cost (added to goods cost estimations)
+# time = x #==> number of days to build.
+#
+
+organic_fertilizer_production = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = organic_fertilizer_production
+	pop_build_factory = yes
+}
+
+concrete_production = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = concrete_production
+	pop_build_factory = yes
+}
+
+lumber_mill = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = lumber_mill
+	pop_build_factory = yes
+}
+
+charcoal_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 100
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 50
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = charcoal_production
+	pop_build_factory = yes
+}
+
+bronze_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 100
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 50
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+	
+	production_type = bronze_production
+	pop_build_factory = yes
+}
+
+steel_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 100
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 50
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+	
+	production_type = steel_production
+	pop_build_factory = yes
+}
+
+tools_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 100
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 50
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+	
+	default_enabled = yes
+	production_type = tools_production
+	pop_build_factory = yes
+}
+
+cotton_fabric_production = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = cotton_fabric_production
+	pop_build_factory = yes
+}
+
+flax_fabric_production = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = flax_fabric_production
+	pop_build_factory = yes
+}
+
+wool_fabric_production = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = wool_fabric_production
+	pop_build_factory = yes
+}
+
+leather_production = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = leather_production
+	pop_build_factory = yes
+}
+
+amphores_production = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+	
+	default_enabled = yes
+	production_type = amphores_production
+	pop_build_factory = yes
+}
+
+naval_supplies_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 730
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = naval_supplies_production
+	pop_build_factory = yes
+}
+
+firewood_production = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = firewood_production
+	pop_build_factory = yes
+}
+
+leather_parchment_production = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+	
+	default_enabled = yes
+	production_type = leather_parchment_production
+	pop_build_factory = yes
+}
+
+papyrus_parchment_production = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+	
+	default_enabled = yes
+	production_type = papyrus_parchment_production
+	pop_build_factory = yes
+}
+
+butchery = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = butchery
+	pop_build_factory = yes
+}
+
+fishery = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = fishery
+	pop_build_factory = yes
+}
+
+bakery = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = bakery
+	pop_build_factory = yes
+}
+
+winery = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes	
+	production_type = winery
+	pop_build_factory = yes
+}
+
+mead_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+	
+	default_enabled = yes	
+	production_type = mead_production
+	pop_build_factory = yes
+}
+
+olive_oil_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+	
+	default_enabled = yes	
+	production_type = olive_oil_production
+	pop_build_factory = yes
+}
+
+regular_clothes_production = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = regular_clothes_production
+	pop_build_factory = yes
+}
+
+luxury_clothes_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 730
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = luxury_clothes_production
+	pop_build_factory = yes
+}
+
+furniture_production = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = furniture_production
+	pop_build_factory = yes
+}
+
+luxury_furniture_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 730
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = luxury_furniture_production
+	pop_build_factory = yes
+}
+
+dye_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 100
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 50
+		#concrete = 10
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = dye_production
+	pop_build_factory = yes
+}
+
+jewelry_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 50
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 100
+		#concrete = 10
+	}
+	time = 730
+	visibility = yes
+	onmap = no
+
+	production_type = jewelry_production
+	pop_build_factory = yes
+}
+
+ammunition_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 100
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 50
+		#concrete = 10
+	}
+	time = 730
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = ammunition_production
+	pop_build_factory = yes
+}
+
+arms_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 100
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 50
+		#concrete = 10
+	}
+	time = 730
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = arms_production
+	pop_build_factory = yes
+}
+
+armor_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 100
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 50
+		#concrete = 10
+	}
+	time = 730
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = armor_production
+	pop_build_factory = yes
+}
+
+rations_production = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 100
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 50
+		#concrete = 10
+	}
+	time = 730
+	visibility = yes
+	onmap = no
+
+	production_type = rations_production
+	pop_build_factory = yes
+}
+
+horse_stud_farm = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 100
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 50
+		#concrete = 10
+	}
+	time = 730
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = horse_stud_farm
+	pop_build_factory = yes
+}
+
+elephant_stud_farm = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		tools = 100
+		iron = 50
+		timber = 50
+		lumber = 50
+		stone = 50
+		#concrete = 10
+	}
+	time = 730
+	visibility = yes
+	onmap = no
+
+	default_enabled = yes
+	production_type = elephant_stud_farm
+	pop_build_factory = yes
+}
+
+#############################################
+
+fort = {      
+	type = fort
+	goods_cost =
+	{
+		lumber = 100
+		#concrete = 100
+		stone = 100
+		ammunition = 50
+		arms = 50
+		armors = 40
+	}
+	time = 1080 
+	visibility = yes
+	onmap = yes
+	max_level = 6
+	province = yes
+	fort_level = 1
+}
+
+naval_base = {    
+	type = naval_base
+	cost = 15000
+	goods_cost =
+	{
+		timber = 50
+		lumber = 50
+		#concrete = 100
+		stone = 100
+		tools = 100
+	}
+	time = 1080
+	naval_capacity = 1
+	capital = yes
+	onmap = yes
+	port = yes
+	visibility = yes
+	max_level = 6
+	colonial_points = { 30 50 70 90 110 130 } #points at levels 1-6
+	province = yes
+	one_per_state = yes
+	colonial_range = 50
+	local_ship_build = -0.10
+}
+       
+railroad = {   
+	type = infrastructure
+	goods_cost =
+	{
+		stone = 100
+	}
+	time = 720
+	visibility = yes
+	onmap = yes
+	max_level = 6
+	province = yes
+	
+	infrastructure = 0.16
+	movement_cost = -0.05
+	
+	pop_build_factory = yes
+	spawn_railway_track = yes
+}

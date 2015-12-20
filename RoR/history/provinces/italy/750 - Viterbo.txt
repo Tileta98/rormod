@@ -1,0 +1,8 @@
+owner = RME
+
+controller = RME
+
+add_core = RME
+is_slave = yes
+trade_goods = fruit
+life_rating = 35

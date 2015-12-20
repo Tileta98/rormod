@@ -1,0 +1,5 @@
+owner = MO1
+controller = MO1
+add_core = MO1
+is_slave = yes
+trade_goods = ironlife_rating = 30

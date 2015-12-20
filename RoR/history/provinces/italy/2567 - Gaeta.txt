@@ -1,0 +1,6 @@
+owner= SAM
+controller = RME
+add_core = SAM
+is_slave = yes
+trade_goods = fish
+life_rating = 35

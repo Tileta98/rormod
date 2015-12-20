@@ -1,0 +1,5 @@
+owner = VAN
+controller = VAN
+add_core = VAN
+is_slave = yes
+trade_goods = cottonlife_rating = 32

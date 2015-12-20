@@ -1,0 +1,608 @@
+#Tirol Region (556000) #see Italy.txt for balance of Region
+#under the rule of Austria in 1836  
+#Innsbruck (236000/59000 POPS)
+612 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Salzburg (136000/34000 POPS)
+613 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Bregenz (132000/33000 POPS)
+614 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Lienz (52000/13000 POPS)
+615 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Carinthia-Styria Region (736000) #see Slovenia.txt for balance of Region
+#under the rule of Austria in 1836  
+#Graz (380000/95000 POPS)
+616 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Judenburg (168000/42000 POPS)
+617 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Klagenfurt (188000/47000 POPS)
+618 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Austria Region (2000000) 
+#under the rule of Austria in 1836  
+#Vienna (1084000/271000 POPS)
+619 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Sankt Polten (88000/22000 POPS)
+620 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Krems (240000/60000 POPS)
+621 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Linz (588000/147000 POPS)
+622 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Odenburg Region (196000) #see Hungary.txt for balance of region
+#under the rule of Austria in 1836
+#Eisenstadt (196000/49000 POPS)
+624 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}

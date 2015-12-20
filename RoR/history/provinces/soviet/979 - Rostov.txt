@@ -1,0 +1,6 @@
+owner = BO2
+controller = BO2
+add_core = BO2
+is_slave = yes
+trade_goods = stone
+life_rating = 35

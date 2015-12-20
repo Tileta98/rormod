@@ -1,0 +1,7 @@
+owner = ANT
+controller = ANT
+add_core = ANT
+add_core = GAU
+is_slave = yes
+trade_goods = grain
+life_rating = 34

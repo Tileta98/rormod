@@ -1,0 +1,66 @@
+# If you add religions, and use those tags, do not change them without changing everywhere they are used.
+
+# Uses all 'modifiers' possible thats exported as a Modifier.
+
+antic = {
+	unknown_gods = {
+		icon = 1
+		color = { 1.0 1.0 1.0 }
+	}
+	animism = {
+		icon = 2
+		color = { 0.5 0.0 0.0 }
+	}
+	roman_gods = {
+		icon = 3
+		color = { 1.0 0.0 0.0 }
+	}
+	greek_gods = {
+		icon = 4
+		color = { 0.5 1.0 1.0 }
+	}
+	germanic_gods = {
+		icon = 5
+		color = { 0.5 0.0 0.0 }
+	}
+	druidism = {
+		icon = 6
+		color = { 0.5 0.0 0.0 }
+	}
+	shamanism = {
+		icon = 7
+		color = { 0.5 0.0 0.0 }
+	}
+	egyptian_gods = {
+		icon = 8
+		color = { 0.5 0.5 0.5}
+	}
+	carthagian_gods = {
+		icon = 9
+		color = { 0.5 0.0 0.0 }
+	}
+	zoroastrianism = {
+		icon = 10
+		color = { 0.5 0.0 0.0 }
+	}
+	phoenician_gods = {
+		icon = 11
+		color = { 0.5 0.0 0.0 }
+	}
+	jewish = {
+		icon = 12
+		color = { 0.3 0.5 0.3 }
+	}
+	shinto = {
+		color = { 0.8 0 0 }
+		icon = 13
+	}
+	buddhism = {
+		color = { 0.8 0 0 }
+		icon = 14
+	}
+	confucianism = {
+		color = { 0.8 0 0 }
+		icon = 15
+	}	
+}

@@ -1,0 +1,7 @@
+owner = CAR
+controller = CAR
+add_core = CAR
+add_core = GAU
+is_slave = yes
+trade_goods = fish
+life_rating = 35

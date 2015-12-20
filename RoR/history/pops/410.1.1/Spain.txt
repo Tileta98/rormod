@@ -1,0 +1,2053 @@
+#Galicia-Asturias Region (1572000)
+#La Coruna (796000/199000 POPS)
+474 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 3212
+	}
+}
+#Oviedo (448000/112000 POPS)
+475 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 2645
+	}
+}
+#Vigo (328000/82000 POPS)
+476 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 2468
+	}
+}
+#Leon Region (888000)
+#Leon (280000/70000 POPS)
+477 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 3500
+	}
+}
+#Santander (178000/44500) POPS
+478 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 2000
+	}
+}
+#Burgos (236000/59000 POPS)
+479 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 1500
+	}
+}
+#Valladolid (194000/48500 POPS)
+480 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 2600
+	}
+}
+#Castilla Vieja Region (724000)
+#Avila (284000/71000 POPS)
+481 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celt_iberian
+		religion = druidism
+		size = 2000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Soria (216000/54000 POPS)
+482 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 900
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 1900
+	}
+}
+#Salamanca (224000/56000 POPS)
+483 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 4000
+	}
+}
+#Extremadura Region (580000)
+#Badajoz (216000/54000 POPS)
+484 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 300
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+}
+#Almendralejo (192000/48000 POPS)
+485 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+}
+#Caceres (172000/43000 POPS)
+486 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+}
+#Castilla Nueva Region (1504000)
+#Madrid (364000/91000 POPS)
+487 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celt_iberian
+		religion = druidism
+		size = 2000
+	}
+}
+#Siguenza (204000/51000 POPS)
+488 = {
+	aristocrats = {
+		culture = celt_iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celt_iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = celt_iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celt_iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celt_iberian
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celt_iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celt_iberian
+		religion = druidism
+		size = 3000
+	}
+}
+#Toledo (302000/75500 POPS)
+489 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celt_iberian
+		religion = druidism
+		size = 2000
+	}
+}
+#Cuenca (346000/86500 POPS)
+490 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celt_iberian
+		religion = druidism
+		size = 2000
+	}
+}
+#Ciudad Real (288000/74000 POPS)
+491 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 2700
+	}
+}
+#Vizcaya-Navarra Region (710000)
+#Bilbao (308000/77000 POPS)
+492 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 2700
+	}
+}
+#Pamplona (244000/61000 POPS)
+493 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 500
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 2000
+	}
+}
+#Logrono (158000/39500 POPS)
+494 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 2950
+	}
+}
+#Aragon Region (764000)
+#Zaragosa (312000/78000 POPS)
+495 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 4000
+	}
+}
+#Huesca (224000/56000 POPS)
+496 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 2000
+	}
+}
+#Teruel (228000/57000 POPS)
+497 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 3100
+	}
+}
+#Catalonia Region (1340000)
+#Barcelona (464000/116000 POPS)
+498 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 5000
+	}
+}
+#Gerona (228000/57000 POPS)
+499 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 350
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 4000
+	}
+
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 200
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 900
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	farmers = {
+		culture = greek
+		religion = greek_gods
+		size = 900
+	}
+}
+#Lerida (164000/41000 POPS)
+500 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 500
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 2400
+	}
+}
+#Tarragona (244000/61000 POPS)
+501 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 4000
+	}
+}
+#Balearics (240000/60000 POPS)
+502 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 10
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 400
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 4000
+	}
+
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 200
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+}
+#Valencia Region (1016000)
+#Valencia (420000/105000 POPS)
+503 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 350
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 3500
+	}
+
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 200
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 900
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	farmers = {
+		culture = greek
+		religion = greek_gods
+		size = 900
+	}
+}
+#Castellon (212000/53000 POPS)
+504 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 3000
+	}
+}
+#Alicante (384000/96000 POPS)
+505 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 750
+
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 4000
+	}
+}
+#Murcia Region (504000/121000 POPS)
+#Cartagena (212000/53000 POPS)
+506 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 200
+
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = greek_gods
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 4000
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 275
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 890
+	}
+
+
+	farmers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 800
+	}
+}
+#Murcia (92000/23000 POPS)
+507 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 2000
+	}
+}
+#Albacete (20000/50000 POPS)
+508 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 500
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+}
+#Andalucia Region (1176000)
+#Seville (376000/94000 POPS)
+509 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 5000
+	}
+}
+#Cordoba (324000/81000 POPS)
+510 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 4000
+	}
+}
+#Huelva (140000/35000 POPS)
+511 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 6000
+	}
+}
+#Cadiz (336000/84000 POPS)
+512 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 200
+
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = greek_gods
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 6000
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 275
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 2000
+	}
+
+
+	farmers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+}
+#Alpujarras Region (1296000)
+#Granada (382000/95500 POPS)
+513 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 200
+
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = greek_gods
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 4000
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 275
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 890
+	}
+
+
+	farmers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 800
+	}
+}
+#Malaga (402000/100500 POPS)
+514 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 200
+
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = greek_gods
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 4000
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 275
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 890
+	}
+
+
+	farmers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 800
+	}
+}
+#Almeria (242000/60500 POPS)
+515 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 200
+
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = greek_gods
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 4000
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 275
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 890
+	}
+
+
+	farmers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 800
+	}
+}
+#Jaen (270000/67500 POPS)
+516 = {
+	aristocrats = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = iberian
+		religion = druidism
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = iberian
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 200
+	}
+
+	soldiers = {
+		culture = iberian
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 3000
+	}
+}
+#see Morocco.txt for Ceuta-Melilla
+#Canary Islands Region (208000)
+#Canary Islands (208000/52000 POPS)
+2136 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	officers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 525
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+
+}

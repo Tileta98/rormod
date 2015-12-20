@@ -1,0 +1,6 @@
+owner = CH2
+controller = CH2
+add_core = CH2
+is_slave = yes
+trade_goods = copper
+life_rating = 35

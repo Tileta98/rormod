@@ -1,0 +1,47 @@
+engineer = {
+#archer
+	icon = 16
+	
+	type = land
+	sprite = Infantry
+	active = yes
+	unit_type = infantry
+	floating_flag = no
+
+	#Core Abilities
+	priority = 15
+	max_strength = 1
+	default_organisation = 25
+	maximum_speed = 4.00
+	weighted_value = 3.0
+	
+
+
+	#Building Costs
+	build_time = 60
+	build_cost = {
+		arms = 3
+		armors = 1.5
+		ammunition = 3
+		rations = 1
+	}
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		arms = 0.03
+		armors = 0.015
+		ammunition = 0.03
+		rations = 0.05
+	}
+	
+
+	#Land Abilties
+	reconnaissance = 0
+	attack = 2
+	defence = 6
+	discipline = 1.0
+	support = 0.5
+	maneuver = 2
+	siege = 1
+
+}

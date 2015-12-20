@@ -1,0 +1,1521 @@
+#Macedonia Region (564000) #see Macedonia.txt and Bulgaria.txt for balance of region 
+#under the rule of Ottoman Empire in 1836
+#Salonika (304000/76000 POPS) #now part of Greece 
+805 = {
+	aristocrats = {
+		culture = macedonian
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = macedonian
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = macedonian
+		religion = greek_gods
+		size = 30
+	}
+
+	artisans = {
+		culture = macedonian
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = macedonian
+		religion = greek_gods
+		size = 4000
+	}
+
+	soldiers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 7000
+	}
+}
+#Polygyros (100000/25000 POPS) #now part of Greece
+822 = {
+	aristocrats = {
+		culture = macedonian
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = macedonian
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = macedonian
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = macedonian
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = macedonian
+		religion = greek_gods
+		size = 2000
+	}
+
+	soldiers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 4000
+	}
+}
+#Kavala (160000/40000 POPS) #now part of Greece
+823 = {
+	aristocrats = {
+		culture = macedonian
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = macedonian
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = macedonian
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = macedonian
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = macedonian
+		religion = greek_gods
+		size = 2000
+	}
+
+	soldiers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 4000
+	}
+}
+#Monastir Region (384000) #see Greece.txt for balance of region 
+#under the rule of Ottoman Empire in 1836
+#Florina (116000/29000 POPS) #now part of Greece
+819 = {
+	aristocrats = {
+		culture = macedonian
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = macedonian
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = macedonian
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = macedonian
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = macedonian
+		religion = greek_gods
+		size = 2000
+	}
+
+	soldiers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 4000
+	}
+}
+#Grevena (140000/35000 POPS) #now part of Greece
+820 = {
+	aristocrats = {
+		culture = macedonian
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = macedonian
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = macedonian
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = macedonian
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = macedonian
+		religion = greek_gods
+		size = 2000
+	}
+
+	soldiers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 4000
+	}
+}
+#Edessa (128000/32000 POPS) #now part of Greece
+821 = {
+	aristocrats = {
+		culture = macedonian
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = macedonian
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = macedonian
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = macedonian
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = macedonian
+		religion = greek_gods
+		size = 2000
+	}
+
+	soldiers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 4000
+	}
+}
+#Epirus Region (724000) #see Albania.txt for balance of region 
+#under the rule of Ottoman Empire in 1836
+#Janina (504000/126000 POPS)
+824 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 2000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 6000
+	}
+}
+#Arta (220000/55000 POPS)
+825 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+}
+#Ionian Islands Region (188000)
+#under the rule of Britain/Ionian Islands in 1836
+#Corfu (112200/28000 POPS)
+826 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 4000
+	}
+}
+#Zante (76000/19000 POPS)
+827 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+}
+#Thrace Region (144000) #see Turkey.txt for balance of region 
+#under the rule of Ottoman Empire in 1836
+#Xanthi (72000/18000 POPS)
+829 = {
+	aristocrats = {
+		culture = macedonian
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = macedonian
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = macedonian
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = macedonian
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = macedonian
+		religion = greek_gods
+		size = 2000
+	}
+
+	soldiers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = macedonian
+		religion = greek_gods
+		size = 4000
+	}
+}
+#Dedeagatch (72000/18000 POPS)
+830 = {
+	aristocrats = {
+		culture = thracian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = thracian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = thracian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = thracian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = thracian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = thracian
+		religion = shamanism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = thracian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = thracian
+		religion = shamanism
+		size = 4000
+	}
+}
+#Thessaly Region (408000)  
+#under the rule of Ottoman Empire in 1836
+#Larisa (140000/35000 POPS)
+831 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+}
+#Volos (224000/56000 POPS)
+832 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+}
+#Trikala (44000/11000 POPS)
+833 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+}
+#Hellas Region (510000)  
+#under the rule of Greece in 1836
+#Athens (308000/77000 POPS)
+834 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 200
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 400
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 2000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 15000
+	}
+}
+#Amfissa (76000/19000 POPS)
+835 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1500
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 10000
+	}
+}
+#Lamia (44000/11000 POPS)
+836 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+}
+#Missolonghi (140000/35000 POPS)
+837 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+}
+#Khalkis (68000/17000 POPS)
+838 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 8000
+	}
+}
+#Peloponnese Region (220000)  
+#under the rule of Greece in 1836
+#Nafplion (72000/18000 POPS)
+839 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 150
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 8000
+	}
+}
+#Corinth (40000/10000 POPS)
+840 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 100
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 300
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 4500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 2000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 13000
+	}
+}
+#Kalamai (68000/17000 POPS)
+841 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+}
+#Patrai (40000/10000 POPS)
+842 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+}
+#Aegean Islands Region (184000)  
+#under the rule of Greece in 1836
+#Cyclades (40000/10000 POPS)
+845 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+}
+#under the rule of Ottoman Empire in 1836
+#Chios (68000/17000 POPS)
+843 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+}
+#Mytilene (44000/11000 POPS)
+844 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+}
+#Rhodes (32000/8000 POPS)
+846 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 6000
+	}
+}
+#Crete Region (140000)  
+#under the rule of Egypt in 1836
+#Hania (72000/18000 POPS)
+847 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+}
+#Iraklion (68000/17000 POPS)
+848 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 5000
+	}
+}

@@ -1,0 +1,45 @@
+tank = {
+#catapult
+	icon = 20
+	
+	type = land
+	sprite = Artillery
+	active = no
+	unit_type = special
+	floating_flag = no
+
+	#Core Abilities
+	priority = 20
+	max_strength = 1
+	default_organisation = 30
+	maximum_speed = 3.0
+	weighted_value = 6.0
+
+
+	#Building Costs
+	build_time = 140
+	build_cost = {
+		timber = 2
+		lumber = 3
+		ammunition = 4
+		rations = 1
+	}
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		timber = 0.2
+		lumber = 0.3
+		ammunition = 0.4
+		rations = 0.01
+	}
+	
+
+	#Land Abilties
+	reconnaissance = 0
+	attack = 2
+	defence = 3
+	discipline = 1.0
+	support = 3
+	maneuver = 1
+	siege = 2
+}

@@ -1,0 +1,6 @@
+owner = SP1
+controller = SP1
+add_core = SP1
+is_slave = yes
+trade_goods = fruit
+life_rating = 35

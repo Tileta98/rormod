@@ -1,0 +1,7 @@
+owner = AGA
+controller = AGA
+add_core = AGA
+add_core = GAU
+is_slave = yes
+trade_goods = cattle
+life_rating = 31

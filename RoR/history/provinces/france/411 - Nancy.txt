@@ -1,0 +1,9 @@
+owner = SEQ
+controller = SEQ
+add_core = SEQ
+add_core = GAU
+is_slave = yes
+trade_goods = dye
+
+life_rating = 30
+

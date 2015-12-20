@@ -1,0 +1,88 @@
+political_decisions = {
+	build_the_colosseum = {
+		potential = {
+			tag = RME
+			NOT = {
+				has_country_flag = the_colosseum_was_built
+			}
+		}
+		
+		allow = {
+			year = 823
+			money = 60000
+		}
+
+		effect = {
+			749 = {
+				set_province_flag = eiffeltower
+				add_province_modifier = {
+					name = the_colosseum
+					duration = -1
+				}
+			}
+			treasury = -60000
+			any_pop = {
+				militancy = -1
+				consciousness = -1
+			}
+			prestige = 20
+			set_country_flag = the_colosseum_was_built
+		}
+	}
+	build_hadrians_wall = {
+		potential = {
+			tag = RME
+			NOT = {
+				has_country_flag = hadrians_wall_was_built
+			}
+			OR = {	# any britannian province southern of hadrians wall
+				273 = { controlled_by = RME }
+				274 = { controlled_by = RME }
+				275 = { controlled_by = RME }
+				276 = { controlled_by = RME }
+				279 = { controlled_by = RME }
+				280 = { controlled_by = RME }
+				281 = { controlled_by = RME }
+				282 = { controlled_by = RME }
+				283 = { controlled_by = RME }
+				284 = { controlled_by = RME }
+				285 = { controlled_by = RME }
+				286 = { controlled_by = RME }
+				287 = { controlled_by = RME }
+				288 = { controlled_by = RME }
+				289 = { controlled_by = RME }
+				290 = { controlled_by = RME }
+				291 = { controlled_by = RME }
+				292 = { controlled_by = RME }
+				293 = { controlled_by = RME }
+				294 = { controlled_by = RME }
+				295 = { controlled_by = RME }
+				296 = { controlled_by = RME }
+				297 = { controlled_by = RME }
+				298 = { controlled_by = RME }
+				299 = { controlled_by = RME }
+				300 = { controlled_by = RME }
+				301 = { controlled_by = RME }
+				302 = { controlled_by = RME }
+				303 = { controlled_by = RME }
+			}
+		}
+		
+		allow = { 
+			money = 60000
+			279 = { controlled_by = RME }
+			280 = { controlled_by = RME }
+			272 = { NOT = { controlled_by = RME } }
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = hadrians_wall
+				duration = -1
+			}
+			treasury = -60000
+			prestige = 20
+			set_country_flag = hadrians_wall_was_built
+		}
+	}
+}

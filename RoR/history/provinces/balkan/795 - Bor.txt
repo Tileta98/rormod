@@ -1,0 +1,6 @@
+owner = SCR
+controller = SCR
+add_core = SCR
+is_slave = yes
+trade_goods = grain
+life_rating = 35

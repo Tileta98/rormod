@@ -1,0 +1,5 @@
+owner = NIS
+controller = NIS
+add_core = NIS
+is_slave = yes
+trade_goods = tealife_rating = 32

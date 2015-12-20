@@ -1,0 +1,6 @@
+owner = VOL
+controller = VOL
+add_core = VOL
+is_slave = yes
+trade_goods = wool
+life_rating = 35

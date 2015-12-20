@@ -1,0 +1,6 @@
+owner = CRT
+controller = CRT
+add_core = CRT
+is_slave = yes
+trade_goods = fruit
+life_rating = 35

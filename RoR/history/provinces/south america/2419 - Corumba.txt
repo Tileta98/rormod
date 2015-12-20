@@ -1,0 +1,1 @@
+trade_goods = honeylife_rating = 25

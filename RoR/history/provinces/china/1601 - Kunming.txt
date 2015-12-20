@@ -1,0 +1,5 @@
+owner = DIA
+controller = DIA
+add_core = DIA
+is_slave = yes
+trade_goods = silklife_rating = 32

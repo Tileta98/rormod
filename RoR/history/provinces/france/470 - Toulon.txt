@@ -1,0 +1,7 @@
+owner = OLB
+controller = OLB
+add_core = OLB
+add_core = GAU
+is_slave = yes
+trade_goods = silk
+life_rating = 33

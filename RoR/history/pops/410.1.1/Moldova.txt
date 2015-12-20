@@ -1,0 +1,114 @@
+#Bessarabia Region (652000) #see Ukraine.txt for balance of Region  
+#under the rule of Russia in 1836 
+#Chisinau (332000/83000 POPS)  
+676 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Balti (320000/80000 POPS)  
+677 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}

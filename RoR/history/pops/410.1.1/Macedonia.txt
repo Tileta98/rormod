@@ -1,0 +1,104 @@
+#Macedonia Region (424000) #see Greece.txt and Bulgaria.txt for balance of region 
+#under the rule of Ottoman Empire in 1836  
+#Skopje (424000/106000 POPS) 
+806 = {
+	aristocrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = pannonian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = pannonian
+		religion = shamanism
+		size = 3000
+	}
+}
+#Monastir Region (268000) #see Greece.txt for balance of region 
+#under the rule of Ottoman Empire in 1836  
+#Bitola (268000/67000 POPS) 
+807 = {
+	aristocrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 50
+	}
+
+	officers = {
+		culture = pannonian
+		religion = shamanism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	clergymen = {
+		culture = pannonian
+		religion = shamanism
+		size = 30
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = pannonian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = pannonian
+		religion = shamanism
+		size = 3000
+	}
+}

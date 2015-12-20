@@ -1,0 +1,20 @@
+the_colosseum = {
+	prestige = 0.05
+	icon = 21
+}
+via_appia = {
+	population_growth = 0.01
+	icon = 19
+}
+ostia_harbour = {
+	population_growth = 0.01
+	icon = 19
+}
+hadrians_wall = {
+	org_regain = 0.01
+	icon = 20
+}
+enslavement_after_conquest =
+{
+	icon = 19
+}

@@ -1,0 +1,6 @@
+owner = BOI
+controller = BOI
+add_core = BOI
+is_slave = yes
+trade_goods = fruit
+life_rating = 35

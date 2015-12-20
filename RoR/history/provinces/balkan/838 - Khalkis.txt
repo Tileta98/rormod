@@ -1,0 +1,6 @@
+owner = EUB
+controller = EUB
+add_core = EUB
+is_slave = yes
+trade_goods = grain
+life_rating = 35

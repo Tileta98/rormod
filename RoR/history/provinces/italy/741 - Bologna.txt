@@ -1,0 +1,9 @@
+owner = ETR
+controller = ETR
+
+add_core = ETR
+is_slave = yes
+trade_goods = timber
+
+life_rating = 35
+

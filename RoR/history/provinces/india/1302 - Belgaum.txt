@@ -1,0 +1,5 @@
+owner = GOM
+controller = GOM
+add_core = GOM
+is_slave = yes
+trade_goods = fruitlife_rating = 32

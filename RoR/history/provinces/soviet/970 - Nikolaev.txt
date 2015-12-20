@@ -1,0 +1,6 @@
+owner = RHX
+controller = RHX
+add_core = RHX
+is_slave = yes
+trade_goods = fish
+life_rating = 35

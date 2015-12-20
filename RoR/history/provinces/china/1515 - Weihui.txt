@@ -1,0 +1,5 @@
+owner = WE1
+controller = WE1
+add_core = WE1
+is_slave = yes
+trade_goods = ironlife_rating = 32

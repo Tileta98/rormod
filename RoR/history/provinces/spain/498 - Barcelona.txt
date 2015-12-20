@@ -1,0 +1,6 @@
+owner = CES
+controller = CES
+add_core = CES
+is_slave = yes
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,52 @@
+#Luxembourg (172000)
+#In personal union with Netherlands in 1836
+#Luxembourg (172000/43000 POPS)
+397 = {
+	aristocrats = {
+		culture = germanic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = druidism
+		size = 3000
+	}
+}

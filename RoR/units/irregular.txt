@@ -1,0 +1,51 @@
+irregular = {
+#skirmisher
+	icon = 17
+	
+	type = land
+	sprite = Irregular
+	active = yes
+	unit_type = infantry
+	floating_flag = no
+	
+	#Core Abilities
+	priority = 5
+	max_strength = 1
+	default_organisation = 20
+	maximum_speed = 4.00
+	weighted_value = 1.0
+
+
+	#Building Costs
+	build_time = 45
+	build_cost = {
+		wool = 1
+		grain = 0.5
+		fish = 0.5
+		fruit = 0.5
+		cattle = 0.5
+		#arms = 1
+		#armors = 1
+		#rations = 1
+	}
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		wool = 0.1
+		grain = 0.05
+		fish = 0.05
+		fruit = 0.05
+		#arms = 0.01
+		#armors = 0.01
+		#rations = 0.05
+	}
+	
+
+	#Land Abilties
+	reconnaissance = 0
+	attack = 2
+	defence = 2
+	discipline = 1
+	support = 0.0
+	maneuver = 1
+}

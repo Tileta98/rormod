@@ -1,0 +1,8 @@
+owner = PIC
+controller = PIC
+add_core = PIC
+is_slave = yes
+trade_goods = stone
+
+life_rating = 35
+

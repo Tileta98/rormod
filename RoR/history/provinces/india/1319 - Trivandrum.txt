@@ -1,0 +1,5 @@
+owner = CH1
+controller = CH1
+add_core = CH1
+is_slave = yes
+trade_goods = fruitlife_rating = 32

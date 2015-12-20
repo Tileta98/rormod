@@ -1,0 +1,5 @@
+owner = DAN
+controller = DAN
+add_core = DAN
+is_slave = yes
+trade_goods = dyelife_rating = 32

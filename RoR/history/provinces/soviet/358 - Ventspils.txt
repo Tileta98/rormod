@@ -1,0 +1,5 @@
+owner = BA1
+controller = BA1
+add_core = BA1
+is_slave = yes
+trade_goods = fishlife_rating = 35

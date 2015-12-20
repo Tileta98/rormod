@@ -1,0 +1,5 @@
+owner = SAH
+controller = SAH
+add_core = SAH
+is_slave = yes
+trade_goods = cottonlife_rating = 30

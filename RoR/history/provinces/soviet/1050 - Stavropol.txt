@@ -1,0 +1,5 @@
+owner = AOR
+controller = AOR
+add_core = AOR
+is_slave = yes
+trade_goods = grainlife_rating = 35

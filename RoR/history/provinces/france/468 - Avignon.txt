@@ -1,0 +1,7 @@
+owner = VOL
+controller = VOL
+add_core = VOL
+add_core = GAU
+is_slave = yes
+trade_goods = copper
+life_rating = 32

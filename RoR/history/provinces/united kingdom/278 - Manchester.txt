@@ -1,0 +1,6 @@
+owner = BRI
+controller = BRI
+add_core = BRI
+is_slave = yes
+trade_goods = stone
+life_rating = 40

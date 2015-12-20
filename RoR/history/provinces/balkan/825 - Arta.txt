@@ -1,0 +1,6 @@
+owner = AET
+controller = AET
+add_core = AET
+is_slave = yes
+trade_goods = wool
+life_rating = 35

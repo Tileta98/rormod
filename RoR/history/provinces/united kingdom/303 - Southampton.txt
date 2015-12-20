@@ -1,0 +1,6 @@
+owner = DUM
+controller = DUM
+add_core = DUM
+is_slave = yes
+trade_goods = fish
+life_rating = 35

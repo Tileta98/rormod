@@ -1,0 +1,35 @@
+#Southern Melanesia (28000) #see New Caledonia.txt for balance of region
+#uncolonized in 1836
+#New Hebrides (28000/7000 POPS) 
+2535 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 125
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 350
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 6375
+	}
+
+}

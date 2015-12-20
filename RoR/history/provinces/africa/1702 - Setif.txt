@@ -1,0 +1,6 @@
+owner = NUM
+controller = NUM
+add_core = NUM
+is_slave = yes
+trade_goods = wool
+life_rating = 35

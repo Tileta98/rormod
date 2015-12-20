@@ -1,0 +1,340 @@
+#Uman Region (116000) #see Trucial States.txt for balance of region  
+#under the rule of Oman in 1836  
+#Muscat (32000/8000 POPS)   
+1166 = {
+	aristocrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	officers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 500
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 2000
+	}
+}
+#Suhar (16000/4000 POPS)   
+1169 = {
+	aristocrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	officers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 500
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 2000
+	}
+}
+#Nizwa (24000/6000 POPS)   
+1170 = {
+	aristocrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	officers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 500
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 2000
+	}
+}
+#Sur (24000/6000 POPS)   
+1171 = {
+	aristocrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	officers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 500
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 2000
+	}
+}
+#Duqm (20000/5000 POPS)   
+1172 = {
+	aristocrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	officers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 500
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 2000
+	}
+}
+#Hadramaut Region (36000) #see Yemen.txt for balance of region  
+#under the rule of Oman in 1836  
+#Salalah (20000/5000 POPS)   
+1174 = {
+	aristocrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	officers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 500
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 2000
+	}
+}

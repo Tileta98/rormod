@@ -1,0 +1,5 @@
+owner = SAB
+controller = SAB
+add_core = SAB
+is_slave = yes
+trade_goods = timberlife_rating = 35

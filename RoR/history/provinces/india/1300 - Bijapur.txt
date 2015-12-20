@@ -1,0 +1,5 @@
+owner = KIS
+controller = KIS
+add_core = KIS
+is_slave = yes
+trade_goods = fruitlife_rating = 32

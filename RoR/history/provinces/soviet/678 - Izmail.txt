@@ -1,0 +1,6 @@
+owner = TYR
+controller = TYR
+add_core = TYR
+is_slave = yes
+trade_goods = fish
+life_rating = 35

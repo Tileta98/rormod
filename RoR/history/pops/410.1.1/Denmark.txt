@@ -1,0 +1,429 @@
+#Faroe Islands Region (7000)
+#Torshavn (7000/1750 POPS)
+253 = {
+	bureaucrats = {
+		culture = germanian_tribes
+		religion = animism
+		size = 15
+	}
+
+	clergymen = {
+		culture = germanian_tribes
+		religion = animism
+		size = 75
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 135
+	}
+
+	farmers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 1575
+	}
+
+}
+#Jutland Region : 548000
+#Aarhus (248000/62000 POPS)
+366 = {
+	aristocrats = {
+		culture = germanian_tribes
+		religion = animism
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = germanian_tribes
+		religion = animism
+		size = 350
+	}
+
+	officers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 200
+	}
+
+	clergymen = {
+		culture = germanian_tribes
+		religion = animism
+		size = 375
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 3250
+	}
+
+	soldiers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 7000
+	}
+
+	farmers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 50325
+	}
+}
+#Alborg (152000/38000 POPS)
+367 = {
+	aristocrats = {
+		culture = germanian_tribes
+		religion = animism
+		size = 250
+	}
+
+	clergymen = {
+		culture = germanian_tribes
+		religion = animism
+		size = 250
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 2000
+	}
+
+	soldiers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 500
+	}
+
+	farmers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 30000 #5k moved to 2557
+	}
+}
+#Ribe (148000/37000 POPS)
+368 = {
+	aristocrats = {
+		culture = germanian_tribes
+		religion = animism
+		size = 250
+	}
+
+	clergymen = {
+		culture = germanian_tribes
+		religion = animism
+		size = 250
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 1100
+	}
+
+	soldiers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 500
+	}
+
+	farmers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 24000 #10k moved to 2557
+	}
+
+}
+
+# Esbjerg (Pops moved from Aalborg)
+2557 = {
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 1100
+	}
+	clergymen = {
+		culture = germanian_tribes
+		religion = animism
+		size = 125
+	}
+	soldiers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 250
+	}
+	aristocrats = {
+		culture = germanian_tribes
+		religion = animism
+		size = 250
+	}
+	farmers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 14400
+	}
+}
+	
+	
+#Schleswig Region : 336000
+#Flensburg (236000/59000 POPS)
+370 = {
+	bureaucrats = {
+		culture = germanian_tribes
+		religion = animism
+		size = 100
+	}
+
+	clergymen = {
+		culture = germanian_tribes
+		religion = animism
+		size = 125
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 1500
+	}
+
+	soldiers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 250
+	}
+
+	farmers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 14025
+	}
+
+	aristocrats = {
+		culture = germanian_tribes
+		religion = animism
+		size = 650
+	}
+
+	bureaucrats = {
+		culture = germanian_tribes
+		religion = animism
+		size = 100
+	}
+
+	officers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 150
+	}
+
+	clergymen = {
+		culture = germanian_tribes
+		religion = animism
+		size = 250
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 2500
+	}
+
+	soldiers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 500
+	}
+
+	farmers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 38850
+	}
+}
+#Aabenra (100000/25000 POPS)
+371 = {
+	clergymen = {
+		culture = germanian_tribes
+		religion = animism
+		size = 125
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 1100
+	}
+
+	soldiers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 250
+	}
+
+	farmers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 16625
+	}
+
+	aristocrats = {
+		culture = germanian_tribes
+		religion = animism
+		size = 100
+	}
+
+	clergymen = {
+		culture = germanian_tribes
+		religion = animism
+		size = 50
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 250
+	}
+
+	soldiers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 50
+	}
+
+	farmers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 6550
+	}
+
+}
+#Archipelago Region : 616000
+#Copenhagen (392000/98000 POPS)
+372 = {
+	aristocrats = {
+		culture = germanian_tribes
+		religion = animism
+		size = 1250
+	}
+
+	bureaucrats = {
+		culture = germanian_tribes
+		religion = animism
+		size = 500
+	}
+
+	officers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 500
+	}
+
+	clergymen = {
+		culture = germanian_tribes
+		religion = animism
+		size = 750
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 10000
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 10000
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 6000
+	}
+
+	soldiers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 10000
+	}
+
+	farmers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 57000
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 1100
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 1100
+	}
+}
+#Odense (208000/52000 POPS)
+373 = {
+	aristocrats = {
+		culture = germanian_tribes
+		religion = animism
+		size = 500
+	}
+
+	clergymen = {
+		culture = germanian_tribes
+		religion = animism
+		size = 250
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 7000
+	}
+
+	farmers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 41250
+	}
+}
+#Bornholm (16000/4000 POPS)
+374 = {
+	clergymen = {
+		culture = germanian_tribes
+		religion = animism
+		size = 50
+	}
+
+	artisans = {
+		culture = germanian_tribes
+		religion = animism
+		size = 400
+	}
+
+	soldiers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 50
+	}
+
+	farmers = {
+		culture = germanian_tribes
+		religion = animism
+		size = 3500
+	}
+
+}

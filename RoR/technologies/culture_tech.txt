@@ -1,0 +1,804 @@
+#aesthetics
+first_classicism = {
+	area = aesthetics
+	year = 410
+	cost = 3600
+
+	prestige = 0.05
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+
+early_classicism = {
+	area = aesthetics
+	year = 500
+	cost = 7200
+	
+	prestige = 0.05
+
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.1
+			not = { literacy = 0.5  }
+			is_greater_power = no
+		}			
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+		modifier = {
+			factor = 2
+			tech_school = culture_tech_school
+		}
+	}
+}
+
+alexandrian_school = {
+	area = aesthetics
+	year = 600
+	cost = 10800
+
+	prestige = 0.05
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.1
+			not = { literacy = 0.3  }
+			is_greater_power = no
+		}			
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+		modifier = {
+			factor = 2
+			tech_school = culture_tech_school
+		}
+	}
+}
+pergamum_school = {
+	area = aesthetics
+	year = 700
+	cost = 14400
+
+	prestige = 0.05
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.1
+			not = { literacy = 0.4  }
+			is_greater_power = no
+		}			
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+		modifier = {
+			factor = 2
+			tech_school = culture_tech_school
+		}
+	}
+}
+rhodes_school = {
+	area = aesthetics
+	year = 800
+	cost = 18000
+
+	prestige = 0.05
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.1
+			not = { literacy = 0.5  }
+			is_greater_power = no
+		}			
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+		modifier = {
+			factor = 2
+			tech_school = culture_tech_school
+		}
+	}
+}
+late_classicism= {
+	area = aesthetics
+	year = 900
+	cost = 21600
+
+	prestige = 0.05
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.1
+			not = { literacy = 0.5  }
+			is_greater_power = no
+		}			
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+		modifier = {
+			factor = 2
+			tech_school = culture_tech_school
+		}
+	}
+}
+
+
+#philosophy
+sophism = {
+	area = philosophy
+	year = 410
+	cost = 3600
+
+
+	increase_research = 0.50
+	
+	ai_chance = {
+		factor = 51
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 420
+		}
+		modifier = {
+			factor = 2
+			year = 430
+		}
+		modifier = {
+			factor = 1.1
+			year = 440
+		}
+		modifier = {
+			factor = 2
+			year = 450
+		}
+		modifier = {
+			factor = 2
+			year = 460
+		}
+	}
+}
+platonic_academy = {
+	area = philosophy
+	year = 500
+	cost = 7200
+
+	increase_research = 0.50
+	ai_chance = {
+		factor = 51
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 510
+		}
+		modifier = {
+			factor = 2
+			year = 520
+		}
+		modifier = {
+			factor = 1.1
+			year = 530
+		}
+		modifier = {
+			factor = 2
+			year = 540
+		}
+		modifier = {
+			factor = 2
+			year = 550
+		}
+	}
+}
+
+epicureanism = {
+	area = philosophy
+	year = 600
+	cost = 10800
+	
+	increase_research = 0.50
+	ai_chance = {
+		factor = 51
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 610
+		}
+		modifier = {
+			factor = 2
+			year = 620
+		}
+		modifier = {
+			factor = 2
+			year = 630
+		}
+	}
+}
+stoicism= {
+	area = philosophy
+	year = 700
+	cost = 14400
+
+	increase_research = 1.0
+	ai_chance = {
+		factor = 51
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 710
+		}
+		modifier = {
+			factor = 2
+			year = 720
+		}
+	}
+}
+eclecticism = {
+	area = philosophy
+	year = 800
+	cost = 18000
+
+	increase_research = 1.0
+	ai_chance = {
+		factor = 51
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 810
+		}
+		modifier = {
+			factor = 2
+			year = 820
+		}
+	}
+}
+neopythagoreanism = {
+	area = philosophy
+	year = 900
+	cost = 21600
+
+	increase_research = 1.0
+	ai_chance = {
+		factor = 51
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 910
+		}
+		modifier = {
+			factor = 2
+			year = 920
+		}
+	}
+}
+
+
+#social_thought
+socrates = {
+	area = social_thought
+	year = 410
+	cost = 3600
+
+	education_efficiency = 0.1
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+aristotles_ethics= {
+	area = social_thought
+	year = 500
+	cost = 7200
+
+	education_efficiency = 0.1
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 3 #6
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+
+}
+epicurus = {
+	area = social_thought
+	year = 600
+	cost = 10800
+
+	education_efficiency = 0.1
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 3 #6
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+
+}
+zenon = {
+	area = social_thought
+	year = 700
+	cost = 14400
+
+	education_efficiency = 0.1
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 3 #6
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+
+}
+lucretius = {
+	area = social_thought
+	year = 800
+	cost = 18000
+
+	education_efficiency = 0.1
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 3 #6
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+
+}
+cicero = {
+	area = social_thought
+	year = 900
+	cost = 21600
+	
+	education_efficiency = 0.1
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 3 #6
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+
+}
+
+
+#political_thought
+pericles = {
+	area = political_thought
+	year = 410
+	cost = 3600
+
+	max_national_focus = 1
+	
+	ai_chance = {
+		factor = 11
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+			year = 420
+		}
+	}
+}
+eucleides = {
+	area = political_thought
+	year = 500
+	cost = 7200
+
+	max_national_focus = 1 
+		
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.5
+			total_pops = 1000000
+		}
+		modifier = {
+			factor = 51
+			rank = 16
+			year = 510
+		}
+		modifier = {
+			factor = 51
+			year = 520
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		
+	}
+}
+philip_II_of_macedon = {
+	area = political_thought
+	year = 391
+	cost = 10800
+
+	max_national_focus = 1 
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 3.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.5
+			total_pops = 2000000
+		}
+		modifier = {
+			factor = 51
+			rank = 16
+			year = 410
+		}
+		modifier = {
+			factor = 51
+			year = 410
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		
+	}	
+}
+alexander_the_great = {
+	area = political_thought
+	year = 410
+	cost = 14400
+
+	max_national_focus = 1
+	#colonial_life_rating = -10 
+	cb_creation_speed = 0.1
+	
+	ai_chance = {
+		factor = 1.15
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 11
+			rank = 16
+			year = 415
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			year = 415
+		}
+		modifier = {
+			factor = 51
+			rank = 16
+			year = 415
+		}
+		modifier = {
+			factor = 1.5
+			total_pops = 3000000
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		
+	}	
+}
+polibius = {
+	area = political_thought
+	year = 800
+	cost = 18000
+
+	max_national_focus = 1
+	diplomatic_points = 0.25
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.3
+			total_pops = 4000000
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		
+	}	
+}
+julius_caesar = {
+	area = political_thought
+	year = 900
+	cost = 21600
+
+	max_national_focus = 1 
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.03
+			total_pops = 5000000
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}	
+}
+
+
+#psychology
+thales_of_miletus = {
+	area = psychology
+	year = 410
+	cost = 3600
+
+
+	regular_experience_level = 5
+	reinforce_rate = 0.05
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05 #1.25
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 420
+		}
+		modifier = {
+			factor = 2
+			year = 430
+		}
+	}
+
+}
+pythagoras_of_samos = {
+	area = psychology
+	year = 500
+	cost = 7200
+
+	regular_experience_level = 5
+	reinforce_rate = 0.05
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 510
+		}
+		modifier = {
+			factor = 2
+			year = 520
+		}
+	}
+}
+plato = {
+	area = psychology
+	year = 600
+	cost = 10800
+
+	regular_experience_level = 5
+	reinforce_rate = 0.05
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05 #1.25
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 610
+		}
+		modifier = {
+			factor = 2
+			year = 620
+		}
+	}
+}
+aristotle = {
+	area = psychology
+	year = 700
+	cost = 14400
+
+	regular_experience_level = 5
+	reinforce_rate = 0.05
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05 #1.25
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 710
+		}
+		modifier = {
+			factor = 2
+			year = 720
+		}
+	}
+}
+manual_of_discipline = {
+	area = psychology
+	year = 800
+	cost = 18000
+
+	regular_experience_level = 5
+	reinforce_rate = 0.05
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05 #1.25
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 810
+		}
+		modifier = {
+			factor = 2
+			year = 820
+		}
+	}
+
+}
+aelius_galenus = {
+	area = psychology
+	year = 900
+	cost = 21600
+
+	regular_experience_level = 5
+	reinforce_rate = 0.05
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.25
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 910
+		}
+		modifier = {
+			factor = 2
+			year = 920
+		}
+	}
+}
+
+

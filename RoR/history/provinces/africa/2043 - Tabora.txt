@@ -1,0 +1,1 @@
+trade_goods = flaxlife_rating = 15

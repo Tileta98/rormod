@@ -1,0 +1,5 @@
+owner = DON
+controller = DON
+add_core = DON
+is_slave = yes
+trade_goods = stonelife_rating = 32

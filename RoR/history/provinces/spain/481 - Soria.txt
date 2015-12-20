@@ -1,0 +1,8 @@
+owner = VAC
+controller = VAC
+add_core = VAC
+is_slave = yes
+trade_goods = grain
+
+life_rating = 35
+

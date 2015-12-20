@@ -1,0 +1,5 @@
+owner = LI1
+controller = LI1
+add_core = LI1
+is_slave = yes
+trade_goods = grainlife_rating = 35

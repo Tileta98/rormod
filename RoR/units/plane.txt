@@ -1,0 +1,46 @@
+plane = {
+#war elephant
+	icon = 19
+	
+	type = land
+	sprite = Infantry
+	active = no
+	unit_type = cavalry
+	floating_flag = yes
+	
+	#Core Abilities
+	priority = 50
+	max_strength = 1
+	default_organisation = 40
+	maximum_speed = 5.0
+	weighted_value = 10.0
+
+
+	#Building Costs
+	build_time = 200
+	build_cost = {
+		arms = 5
+		armors = 5
+		ammunition = 3
+		rations = 3
+		elephants = 5
+	}
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		arms = 0.5
+		armors = 0.5
+		ammunition = 0.3
+		rations = 0.3
+		elephants = 0.5
+	}
+	
+
+	#Land Abilties
+	reconnaissance = 0
+	attack = 16
+	defence = 6
+	discipline = 1
+	support = 0.0
+	maneuver = 1
+}

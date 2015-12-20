@@ -1,0 +1,7 @@
+owner = CAE
+controller = CAE
+add_core = CAE
+add_core = GAU
+is_slave = yes
+trade_goods = grain
+life_rating = 35

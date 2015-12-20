@@ -1,0 +1,6 @@
+owner = EPI
+controller = EPI
+add_core = EPI
+is_slave = yes
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,6 @@
+owner = APO
+controller = APO
+add_core = APO
+is_slave = yes
+trade_goods = cattle
+life_rating = 35

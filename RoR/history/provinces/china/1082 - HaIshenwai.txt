@@ -1,0 +1,5 @@
+owner = SUS
+controller = SUS
+add_core = SUS
+is_slave = yes
+trade_goods = stonelife_rating = 32

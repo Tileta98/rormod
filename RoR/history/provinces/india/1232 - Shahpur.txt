@@ -1,0 +1,5 @@
+owner = MAT
+controller = MAT
+add_core = MAT
+is_slave = yes
+trade_goods = tealife_rating = 35

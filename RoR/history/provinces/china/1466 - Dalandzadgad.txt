@@ -1,0 +1,5 @@
+owner = XIO
+controller = XIO
+add_core = XIO
+is_slave = yes
+trade_goods = timberlife_rating = 32

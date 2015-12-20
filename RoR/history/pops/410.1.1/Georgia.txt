@@ -1,0 +1,396 @@
+#Gruzhia Region (644000)    
+#under the rule of Russia in 1836  
+#Tblisi (232000/58000 POPS) #circassian-orthodox = Ossetian
+1090 = {
+	aristocrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Pasanauri (76000/19000 POPS)
+1091 = {
+	aristocrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Kutaisi (120000/30000 POPS)
+1092 = {
+	aristocrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Akhaltsikhle (40000/10000 POPS)
+1093 = {
+	aristocrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Poti (104000/26000 POPS)
+1094 = {
+	aristocrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Sukhumi (72000/18000 POPS) #circassian = abkhaz
+1095 = {
+	aristocrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Kars Region (76000) #see Turkey.txt for balance of region  
+#under the rule of Ottoman Empire in 1836  
+#Batum (76000/19000 POPS) #now part of Georgia
+1096 = {
+	aristocrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = ibero
+		religion = zoroastrianism
+		size = 1000
+	}
+}

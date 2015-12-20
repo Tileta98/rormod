@@ -1,0 +1,5 @@
+owner = CHG
+controller = CHG
+add_core = CHG
+is_slave = yes
+trade_goods = timberlife_rating = 32

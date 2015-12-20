@@ -1,0 +1,9 @@
+owner = ARV
+controller = ARV
+add_core = ARV
+add_core = GAU
+is_slave = yes
+trade_goods = copper
+
+life_rating = 31
+

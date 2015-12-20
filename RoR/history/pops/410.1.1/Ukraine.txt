@@ -1,0 +1,1808 @@
+#Bukovina Region (164000) #See Romania.txt for balance of region 
+#under the rule of Austria in 1836  
+#Cernauti (164000/41000 POPS)  
+662 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Bessarabia Region (332000) #see Moldova.txt for balance of Region  
+#under the rule of Russia in 1836 
+#Ismail (332000/83000 POPS)  
+678 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 70
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 1500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 4200
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+}
+#Felvidek Region (856000) #see Hungary.txt and Slovakia.txt for balance of Region
+#under the rule of Austria in 1836  
+#Uzgorod (856000/214000 POPS) #Part of Ukraine today
+950 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 10
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	labourers = {
+		culture = celtic
+		religion = druidism
+		size = 3000
+	}
+}
+#Galicia Region (2576000) #see Poland.txt for balance of region 
+#under the rule of Austria in 1836
+#Lvov (660000/165000 POPS) #now part of Ukraine 
+702 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Stryi (404000/101000 POPS) #now part of Ukraine  
+951 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Ternopil (1136000/284000 POPS) #now part of Ukraine  
+952 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Stanislavov (376000/94000 POPS) #now part of Ukraine  
+953 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Volhynia-Podolia Region (1892000)
+#under the rule of Russia in 1836
+#Vinnitsa (492000/123000 POPS)
+954 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Proskorov (496000/124000 POPS)
+955 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Rovne (460000/115000 POPS)
+956 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Kovel (444000/111000 POPS)
+957 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Ukraine Region (4028000)
+#under the rule of Russia in 1836
+#Kiev (492000/123000 POPS)
+958 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Korosten (448000/112000 POPS)
+959 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Zhitomir (460000/115000 POPS)
+960 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Cherkassy (460000/115000 POPS)
+961 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Chernigov (616000/154000 POPS)
+962 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Poltava (1552000/388000 POPS)
+963 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Taurida Region (360000)
+#under the rule of Russia in 1836
+#Simferopol (126000/29000 POPS)
+964 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Cherson (126000/29000 POPS)
+965 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Kerch (48000/12000 POPS)
+966 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 70
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 1500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 4200
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+}
+#Sevastopol (60000/15000 POPS)
+967 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 70
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 1500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 4200
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+}
+#Odessa Region (1488000)
+#under the rule of Russia in 1836
+#Odessa (248000/62000 POPS)
+968 = {
+	aristocrats = {
+		culture = greek
+		religion = greek_gods
+		size = 70
+	}
+
+	officers = {
+		culture = greek
+		religion = greek_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = greek_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = greek
+		religion = greek_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = greek
+		religion = greek_gods
+		size = 1500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 4200
+	}
+
+	labourers = {
+		culture = greek
+		religion = greek_gods
+		size = 1000
+	}
+}
+#Pervomaisk (496000/124000 POPS)
+969 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Nikolaev (248000/62000 POPS)
+970 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Krivoy Rog (244000/61000 POPS)
+971 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Ekaterinoslav (252000/63000 POPS)
+972 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Zaporozhia Region (648000)
+#under the rule of Russia in 1836
+#Melitopol (84000/21000 POPS)
+973 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Kramatorsk (240000/60000 POPS)
+974 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Yuzovka (76000/19000 POPS)
+975 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Mariopol (248000/62000 POPS)
+976 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Kursk Region (596000) #see Russia.txt for balance of region
+#under the rule of Russia in 1836
+#Kharkov (596000/149000 POPS) #now part of Ukraine  
+978 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}
+#Donbass Region (652000) #see Russia.txt for balance of region 
+#under the rule of Russia in 1836
+#Luhansk (652000/163000 POPS) #now part of Ukraine 
+980 = {
+	aristocrats = {
+		culture = scythian
+		religion = shamanism
+		size = 70
+	}
+
+	officers = {
+		culture = scythian
+		religion = shamanism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shamanism
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 100
+	}
+
+	labourers = {
+		culture = scythian
+		religion = shamanism
+		size = 1000
+	}
+}

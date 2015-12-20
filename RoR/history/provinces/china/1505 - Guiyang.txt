@@ -1,0 +1,5 @@
+owner = YEL
+controller = YEL
+add_core = YEL
+is_slave = yes
+trade_goods = tealife_rating = 32

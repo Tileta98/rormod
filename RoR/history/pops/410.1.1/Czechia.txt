@@ -1,0 +1,506 @@
+#Bohemia Region (4136000) 
+#under the rule of Austria in 1836  
+#Prague (1572000/393000 POPS)
+625 = {
+	aristocrats = {
+		culture = germanic
+		religion = animism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = animism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = animism
+		size = 3000
+	}
+}
+#Hradec Kralove (528000/132000 POPS)
+626 = {
+	aristocrats = {
+		culture = germanic
+		religion = animism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = animism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = animism
+		size = 3000
+	}
+}
+#Karlsbad (600000/150000 POPS)
+627 = {
+	aristocrats = {
+		culture = germanic
+		religion = animism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = animism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = animism
+		size = 3000
+	}
+}
+#Aussig (276000/69000 POPS)
+628 = {
+	aristocrats = {
+		culture = germanic
+		religion = animism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = animism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = animism
+		size = 3000
+	}
+}
+#Pilsen (672000/168000 POPS)
+629 = {
+	aristocrats = {
+		culture = germanic
+		religion = animism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = animism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = animism
+		size = 3000
+	}
+}
+#Budejovice (488000/122000 POPS)
+630 = {
+	aristocrats = {
+		culture = germanic
+		religion = animism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = animism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = animism
+		size = 3000
+	}
+}
+#Moravia Region (1476000) 
+#under the rule of Austria in 1836  
+#Brno (1040000/260000 POPS)
+631 = {
+	aristocrats = {
+		culture = germanic
+		religion = animism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = animism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = animism
+		size = 3000
+	}
+}
+#Olomouc (436000/109000 POPS)
+632 = {
+	aristocrats = {
+		culture = germanic
+		religion = animism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = animism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = animism
+		size = 3000
+	}
+}
+#Silesia Region (220000) #see Poland.txt for balance of region
+#under the rule of Austria in 1836  
+#Troppau (104000/26000 POPS)
+688 = {
+	aristocrats = {
+		culture = germanic
+		religion = animism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = animism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = animism
+		size = 3000
+	}
+}
+#Tesin (116000/29000 POPS)
+689 = {
+	aristocrats = {
+		culture = germanic
+		religion = animism
+		size = 50
+	}
+
+	officers = {
+		culture = germanic
+		religion = animism
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	clergymen = {
+		culture = germanic
+		religion = animism
+		size = 30
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 10
+	}
+
+	artisans = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	soldiers = {
+		culture = germanic
+		religion = animism
+		size = 1000
+	}
+
+	labourers = {
+		culture = germanic
+		religion = animism
+		size = 3000
+	}
+}

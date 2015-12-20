@@ -1,0 +1,6 @@
+owner = HLV
+controller = HLV
+add_core = HLV
+is_slave = yes
+trade_goods = timber
+life_rating = 40

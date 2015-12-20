@@ -1,0 +1,5 @@
+owner = GAN
+controller = GAN
+add_core = GAN
+is_slave = yes
+trade_goods = dyelife_rating = 32

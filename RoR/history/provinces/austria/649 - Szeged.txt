@@ -1,0 +1,6 @@
+owner = ERA
+controller = ERA
+add_core = ERA
+is_slave = yes
+trade_goods = fruit
+life_rating = 35

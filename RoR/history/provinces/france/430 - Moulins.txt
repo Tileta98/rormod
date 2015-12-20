@@ -1,0 +1,7 @@
+owner = AED
+controller = AED
+add_core = AED
+add_core = GAU
+is_slave = yes
+trade_goods = stone
+life_rating = 30

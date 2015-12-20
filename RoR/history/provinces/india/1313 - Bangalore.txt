@@ -1,0 +1,5 @@
+owner = CHO
+controller = CHO
+add_core = CHO
+is_slave = yes
+trade_goods = woollife_rating = 32

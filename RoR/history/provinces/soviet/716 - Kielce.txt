@@ -1,0 +1,6 @@
+owner = ANA
+controller = ANA
+add_core = ANA
+is_slave = yes
+trade_goods = wool
+life_rating = 35

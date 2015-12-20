@@ -1,0 +1,5 @@
+owner = AXU
+controller = AXU
+add_core = AXU
+is_slave = yes
+trade_goods = grainlife_rating = 30

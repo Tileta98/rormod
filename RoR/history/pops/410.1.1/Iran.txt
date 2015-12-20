@@ -1,0 +1,2428 @@
+#Southern Azerbaijan Region (1648000)
+#under the rule of Persia in 1836
+#Tabriz (808000/202000 POPS)
+1108 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Khvoy (168000/42000 POPS)
+1109 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Urumia (192000/48000 POPS)
+1110 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Mahabad (200000/50000 POPS)
+1111 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Ardabil (280000/70000 POPS)
+1112 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Gilan-Maznadaran Region (448000)
+#under the rule of Persia in 1836
+#Rasht (168000/42000 POPS)
+1113 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Noshehr (88000/22000 POPS)
+1114 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Sari (52000/13000 POPS)
+1115 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Gorgan (140000/35000 POPS)
+1116 = {
+	aristocrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Luristan-Ardelan Region (476000)
+#under the rule of Persia in 1836
+#Kermanshah (236000/59000 POPS) #Lur POPs included in median 
+1117 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Sanandaj (92000/23000 POPS)
+1118 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Ilam (84000/21000 POPS)
+1119 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Khorramabad (64000/16000 POPS)
+1120 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Ajami Region (888000)
+#under the rule of Persia in 1836
+#Tehran (338000/84500 POPS)
+1121 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Hamadan (118000/29500 POPS)
+1122 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Zanjan (44000/11000 POPS)
+1123 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Qazvin (140000/35000 POPS)
+1124 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Qom (200000/50000 POPS)
+1125 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Semnan (48000/12000 POPS)
+1126 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Isfahan Region (700000)
+#under the rule of Persia in 1836
+#Isfahan (388000/97500 POPS)
+1127 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Arak (60000/15000 POPS)
+1128 = {
+	aristocrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = median
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = median
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = median
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = median
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = median
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Kashan (112000/28000 POPS)
+1129 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Yazd (140000/35000 POPS)
+1130 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Khuzestan Region (164000)
+#under the rule of Persia in 1836
+#Ahvaz (56000/14000 POPS)
+1131 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Abadan (44000/11000 POPS)
+1132 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Dezful (32000/8000 POPS)
+1133 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Shahr-e Kord (32000/8000 POPS)
+1134 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Fars Region (468000)
+#under the rule of Persia in 1836
+#Shiraz (160000/40000 POPS)
+1135 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Bushehr (100000/25000 POPS)
+1136 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Yasuj (144000/36000 POPS)
+1137 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Kangan (48000/12000 POPS)
+1138 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Sirjan (16000/4000 POPS)
+1139 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Kerman Region (332000)
+#under the rule of Persia in 1836
+#Kerman (80000/20000 POPS)
+1140 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Lengeh (76000/19000 POPS)
+1141 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Bandar Abbas (96000/24000 POPS)
+1142 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Bam (80000/20000 POPS)
+1143 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Sistan Region (260000)
+#under the rule of Persia in 1836
+#Zahedan (72000/18000 POPS)
+1144 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Jask (92000/23000 POPS)
+1145 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Chabahar (96000/24000 POPS)
+1146 = {
+	aristocrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = persian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Khurasan Region (600000)
+#under the rule of Persia in 1836
+#Mashhad (380000/95000 POPS)
+1147 = {
+	aristocrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Birjand (92000/23000 POPS)
+1148 = {
+	aristocrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Sabzevar (72000/18000 POPS)
+1149 = {
+	aristocrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Bojnurd (56000/14000 POPS)
+1150 = {
+	aristocrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = parthian
+		religion = zoroastrianism
+		size = 1000
+	}
+}

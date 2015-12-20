@@ -1,0 +1,5 @@
+owner = HA1
+controller = HA1
+add_core = HA1
+is_slave = yes
+trade_goods = stonelife_rating = 32

@@ -1,0 +1,43 @@
+artillery = { 
+#heavy infantry
+	icon = 3
+	
+	type = land
+	sprite = Infantry
+	active = no
+	unit_type = infantry
+	primary_culture = yes
+	floating_flag = no
+
+	#Core Abilities
+	priority = 18
+	max_strength = 1
+	default_organisation = 35
+	maximum_speed = 3.5
+	weighted_value = 9.0
+
+
+	#Building Costs
+	build_time = 110
+	build_cost = {
+		arms = 3
+		armors = 3
+		rations = 1.5
+	}
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		arms = 0.03
+		armors = 0.03
+		rations = 0.075
+	}
+	
+
+	#Land Abilties
+	reconnaissance = 0
+	attack = 8
+	defence = 2
+	discipline = 1.0
+	support = 0.0
+	maneuver = 2
+}

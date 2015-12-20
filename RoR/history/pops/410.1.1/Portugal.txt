@@ -1,0 +1,521 @@
+#Duoro e Minho Region (1660000)
+#Oporto (768000/192000 POPS)
+518 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 4645
+	}
+}
+#Vila Real (324000/81000) POPS
+519 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 1645
+	}
+}
+#Covilha (568000/142000 POPS)
+520 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 2045
+	}
+}
+#Beira-Estremadura Region (1060000)
+#Lisbon (348000/87000 POPS)
+521 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 2845
+	}
+}
+#Coimbra (460000/115000 POPS)
+522 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 2045
+	}
+}
+#Abrantes (140000/35000 POPS)
+523 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 1645
+	}
+}
+#Setubal (112000/28000 POPS)
+524 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 1945
+	}
+}
+#Alentejo-Algarve Region (372000)
+#Evora (156000/39000 POPS)
+525 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 2845
+	}
+}
+#Beja (96000/24000 POPS)
+526 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 2145
+	}
+}
+#Faro (120000/30000 POPS)
+527 = {
+	aristocrats = {
+		culture = celtic
+		religion = druidism
+		size = 100
+	}
+
+	officers = {
+		culture = celtic
+		religion = druidism
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = celtic
+		religion = druidism
+		size = 50
+	}
+
+	clergymen = {
+		culture = celtic
+		religion = druidism
+		size = 30
+	}
+
+	artisans = {
+		culture = celtic
+		religion = druidism
+		size = 500
+	}
+
+	soldiers = {
+		culture = celtic
+		religion = druidism
+		size = 1000
+	}
+
+	farmers = {
+		culture = celtic
+		religion = druidism
+		size = 3645
+	}
+}
+#Azores & Madeira Region (308000)
+#Azores (204000/51000 POPS)
+2134 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+	}
+
+	officers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 375
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+}
+#Madeira (104000/26000 POPS)
+2135 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 250
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 175
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 250
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+
+}

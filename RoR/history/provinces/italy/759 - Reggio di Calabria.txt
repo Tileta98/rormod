@@ -1,0 +1,6 @@
+owner = HIP
+controller = HIP
+add_core = HIP
+is_slave = yes
+trade_goods = fish
+life_rating = 35

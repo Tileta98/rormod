@@ -1,0 +1,6 @@
+owner = BEE
+controller = BEE
+add_core = BEE
+is_slave = yes
+trade_goods = cattle
+life_rating = 35

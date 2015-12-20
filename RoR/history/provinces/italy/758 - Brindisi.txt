@@ -1,0 +1,6 @@
+owner = TAR
+controller = TAR
+add_core = TAR
+is_slave = yes
+trade_goods = fish
+life_rating = 35

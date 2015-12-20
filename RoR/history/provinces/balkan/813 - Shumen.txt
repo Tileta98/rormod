@@ -1,0 +1,6 @@
+owner = TYL
+controller = TYL
+add_core = TYL
+is_slave = yes
+trade_goods = grain
+life_rating = 35

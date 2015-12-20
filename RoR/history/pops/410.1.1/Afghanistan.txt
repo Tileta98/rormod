@@ -1,0 +1,508 @@
+#Afghanistan Region (3672000)
+#under the rule of Afghanistan in 1836
+#Kabul (996000/249000 POPS)
+1209 = {
+	aristocrats = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Balkh (516000/129000 POPS)
+1211 = {
+	aristocrats = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Herat (324000/81000 POPS)
+1212 = {
+	aristocrats = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Bamyan (412000/103000 POPS)
+1213 = {
+	aristocrats = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Farrah (464000/116000 POPS)
+1214 = {
+	aristocrats = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Qandahar (368000/92000 POPS)
+1215 = {
+	aristocrats = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Jalalabad (268000/67000 POPS)
+1216 = {
+	aristocrats = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Ghzani (324000/81000 POPS)
+1217 = {
+	aristocrats = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = gedrosian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Badakhshan Region (340000)
+#under the rule of Afghanistan in 1836
+#Faizabad (340000/85000 POPS)
+1210 = {
+	aristocrats = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 1000
+	}
+}

@@ -1,0 +1,5 @@
+owner = VIS
+controller = VIS
+add_core = VIS
+is_slave = yes
+trade_goods = cattlelife_rating = 35

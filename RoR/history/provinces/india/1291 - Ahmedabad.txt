@@ -1,0 +1,5 @@
+owner = SUR
+controller = SUR
+add_core = SUR
+is_slave = yes
+trade_goods = flaxlife_rating = 35

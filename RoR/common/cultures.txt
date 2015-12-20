@@ -1,0 +1,602 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+barbaric = {
+	leader = european
+	unit = RomanGC
+	unknown_tribes = { 
+		color = { 255 255 255 }
+		first_names = { test }
+		
+		last_names = { test }
+	}
+	germanian_tribes = { 
+		color = { 17 17 17 }
+		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
+		Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Günther
+		Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jürgen Karl
+		Konrad Leonhard Leopold Ludwig Lukas Manfred Maximilian Michael Nikolaus Otto
+		Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Wilhelm Wolfgang }
+		
+		last_names = { Behncke Brommy Cordemann Dreyer Droste Groener "Herwarth von Bittenfeld" Heppendorf Hoffmann Krohn Ludendorff Schree
+		"Vogel von Falkenstein" "von Alten" "von Anhalt" "von Arentschildt" "von Bülow" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg" 
+		"von Boyen" "von Braunschweig" "von dem Knesebeck" "von Gebser" "von Fritsch" "von Halkett" "von Hannover" 
+		"von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindenburg" "von Hohenzollern" "von Holstein-Gottorp" "von Knorr" "von Kleefeld"
+		"von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von Oldenburg" "von Rauch" "von Ravensberg" 
+		"von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" 
+		"von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin" 
+		"von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
+	}
+	celtic_tribes = { 
+		color = { 22 22 22 }
+		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
+		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
+		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+		Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
+		Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
+		
+		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
+		Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
+		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
+		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
+		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
+	}
+	iberian_tribes = {
+		color = { 27 27 27 }
+		first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
+		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
+		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
+		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
+		Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
+		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
+		Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente }
+		
+		last_names = { Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
+		Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
+		"de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco 
+		García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López 
+		Maroto Márquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
+		Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz 
+		Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
+	}
+	italian_tribes = {
+		color = { 32 32 32 }
+		first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
+		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
+		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
+		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
+		Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
+		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
+		Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente }
+		
+		last_names = { BRUTTII CAMUNNI CARACENI CENOMANI EUGANEI FRINIATES LIBURNI LIGURES LEPONTII LUCANI MAMERTINI PATAVINI PENTRI VENETI }
+	}
+}
+
+germanic = {
+	leader = european
+	unit = GermanGC
+	eburonish = { 
+		color = { 177 123 82 }
+		first_names = { Ageric Alberic Amalaric Amand Andica Arminius Athanaric Attalus Ballomar Catualda Chararic Childeric Dagaric Gararic
+		Geiseric Gelimer Gerold Godigisel Godomar Gunderic Gunthamund Hilderic Huneric Magneric Malaric Mannus Marbod Munderic 
+		Nithard Odoacre Priarios Sigeric Tassilo Teutobod Theodoric Thrasamund }
+		
+		last_names = { Amandid Andicid Dagaricid Gelimerid Geroldid Malaricid Marbodid }
+	}
+	suebish = {
+		color = { 192 141 74 }
+		first_names = { Ageric Alberic Amalaric Amand Andica Arminius Athanaric Attalus Ballomar Catualda Chararic Childeric Dagaric Gararic
+		Geiseric Gelimer Gerold Godigisel Godomar Gunderic Gunthamund Hilderic Huneric Magneric Malaric Mannus Marbod Munderic 
+		Nithard Odoacre Priarios Sigeric Tassilo Teutobod Theodoric Thrasamund }
+		
+		last_names = { Amandid Andicid Dagaricid Gelimerid Geroldid Malaricid Marbodid }
+	}
+	vandalic = {
+		color = { 70 70 70 }
+		first_names = { Ageric Alberic Amalaric Amand Andica Arminius Athanaric Attalus Ballomar Catualda Chararic Childeric Dagaric Gararic
+		Geiseric Gelimer Gerold Godigisel Godomar Gunderic Gunthamund Hilderic Huneric Magneric Malaric Mannus Marbod Munderic 
+		Nithard Odoacre Priarios Sigeric Tassilo Teutobod Theodoric Thrasamund }
+		
+		last_names = { Amandid Andicid Dagaricid Gelimerid Geroldid Malaricid Marbodid }
+	}
+	germanic = {
+		color = { 75 70 80 }
+		first_names = { Ageric Alberic Amalaric Amand Andica Arminius Athanaric Attalus Ballomar Catualda Chararic Childeric Dagaric Gararic
+		Geiseric Gelimer Gerold Godigisel Godomar Gunderic Gunthamund Hilderic Huneric Magneric Malaric Mannus Marbod Munderic 
+		Nithard Odoacre Priarios Sigeric Tassilo Teutobod Theodoric Thrasamund }
+		
+		last_names = { Amandid Andicid Dagaricid Gelimerid Geroldid Malaricid Marbodid }
+	}
+}
+
+latin = {
+	leader = european
+	unit = RomanGC
+	roman = { 
+		color = { 255 0 0}
+		first_names = { Gaius Gaia Lucius Lucia Marcus Marca Publius Publia Quintus Quinta Titus Tita Tiberius Tiberia Sextus Sexta Aulus Aula Decimus Decima
+		Gnaeus Gnaea Spurius Spuria Manius Mania Servius Servia Appius Appia Numerius Numeria Vibius Vibia }
+		
+		last_names = { Aburius Accius Accoleius Acilius Aebutius Aedinius Aelius Aemilius Albanius Albatius Amatius Annius Antistius Antius Antonius Appuleius Aquillius Armenius
+		Arrius Arsinius Artorius Asinius Ateius Atius Atilius Atrius Atronius Attius Aufidius Aurelius Aurius Ausonius Avidius Avitus Axius
+		Babudius Baebius Balventius Bantius Barbatius Barrius Betilienus Betucius Blandius Blossius Bruccius Bruttius Bucculeius Burrienus
+		Caecilius Caecina Caecius Caedicius Caelius Caeparius Caepasius Caerellius Caesennius Caesetius Caesius Caesonius Caesulenus Caetronius Calavius Calidius
+		Calpurnius Calventius Calvisius Camilius Camillius Camelius Canidius Caninius Canius Cantilius Cantius Canuleius Canutius Caprenius Carius Caristanius
+		Carvilius Cassius Ceionius Cicereius Cilnius Cincius Cispius Claudius Clodius Cloelius Clovius Cluilius Cluntius Cocceius Coiedius Cominius Consentius
+		Considius Coruncanius Cordius Cornelius Cosconius Curius Curtius Decumius Desticius Dexsius Didius Dillius Domitius Dossenius Duccius Duronius Egnatius
+		Epidius Equitius Fabius Fadius Faenius Falerius Favonius Festinius Flavius Flavinius Flavonius Floridius Florius Floronius Fufius Fulcinius Fulvius
+		Fundanus Furius Gabinius Galerius Gavius Geganius Gellius Granius Gratius Gratidius Helvetius Helvius Herennius Herminius Hirtius Horatius Hortensius
+		Hosidius Hostilius Icilius Insteius Julius Junius Juventius Laberius Labienus Laelius Laetorius Lafrenius Lampronius Lartius Liburnius Licinius Livius Lollius
+		Longinius Loreius Lucceius Lucilius Lucius Lucretius Lusius Lutatius Macrinius Maecilius Maelius Mallius Mamilius Manlius Manilius Marcius Marius Matius
+		Maximius Memmius Menenius Messienus Metilius Milonius Minicius Minucius Modius Mucius Munatius Munius Murrius Naevius Nasennius Nemetorius Nepius Nigidius
+		Nigilius Ninnius Nipius Norbanus Novius Numerius Octavius Olcinius Oppius Opsius Oranius Otacilius Palpellius Papinius Papirius Papius Pedius Peltrasius Pescennius
+		Petellius Petilius Petillius Petronius Pinarius Piscius Pisentius Placidius Plautius Plinius Plotius Pollius Pompeius Pompilius Pomponius Pomptinus Pontidius
+		Pontius Popidius Portius Postumius Potitius Paesentius Publicius Pullo Pupius Quinctilius Quinctius Quirinius Rabirius Rufius Rufrius Rusonius Sabucius Sallustius
+		Salonius Salvius Scribonius Secundinius Secundius Seius Sempronius Sennius Sentius Septimius Sepunius Sepurcius Sergius Sertorius Servilius Sestius Sextilius
+		Sextius Sidonius Silius Sittius Socellius Sornatius Spurius Statius Stertinius Suedius Sulpicius Tadius Talmudius Tanicius Tertinius Tettidius Tettienus Tettius Titiedius Titius
+		Titinius Trebatius Trebellius Treblanus Tremellius Tuccius Tullius Turullius Ulpius Umbrenius Umbrius Ummidius Urgulanius Uulius Vagennius Vagionius Vagnius Valerius
+		Varius Vassenius Vatinius Vedius Velius Veranius Verecundius Vergilius Verginius Vesnius Veturius Vibenius Vibidius Vibius Victricius Viducius Vinicius Vipsanius Vipstanus
+		Viridius Virius Visellius Vitellius Vitruvius Vivianus Volaginius Volcatiu Volumnius Volusenna Volusenus Volusius Vorenus }
+	}
+	etruscan = { 
+		color = { 90 210 130}
+		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+		Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+		Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+		Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+		Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+		
+		last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+		Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+		"di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti 
+		Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+	}
+	osco_umbrian = { 
+		color = { 200 150 0}
+		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+		Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+		Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+		Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+		Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+		
+		last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+		Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+		"di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti 
+		Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+	}
+	messapic = { 
+		color = { 248 170 77}
+		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+		Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+		Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+		Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+		Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+		
+		last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+		Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+		"di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti 
+		Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+	}
+	italiotes = { 
+		color = { 248 250 15}
+		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+		Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+		Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+		Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+		Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+		
+		last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+		Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+		"di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti 
+		Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+	}
+	sardian = { 
+		color = { 54 20 15}
+		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+		Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+		Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+		Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+		Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+		
+		last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+		Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+		"di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti 
+		Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+	}	
+	venetic = { 
+		color = { 90 210 130}
+		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+		Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+		Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+		Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+		Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+		
+		last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+		Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+		"di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti 
+		Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+	}
+}
+
+hellenic = {
+	leader = european
+	unit = GreekGC
+	greek = {
+		color = {153 255 255}
+		first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
+		Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
+		Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
+		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
+		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+		}
+
+		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
+		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+		}
+	}
+	macedonian = {
+		color = {111 129 213}
+		first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
+		Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
+		Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
+		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
+		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+		}
+
+		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
+		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+		}
+	}
+}
+
+north_african = {
+	leader = african
+	unit = EgyptGC
+	egyptian = {
+		color = { 161  126  128 }
+		first_names = { Amyrteos Ankhmachis Anemhor Aratos Arganos Charias Djedhor Ezena Horemakhet Isocrates Khabbabash Leonippus Lydiadas Manetho Massiva
+ 		Nakhthoreb Naravas Nefaarud Neferibre Nesisti Nicias Nicodemus Oezalces Oxyntas Pedubast Peneus Perdiccas Philocrates 
+		Philotheos Polyperchon Psherenamun Psherenptah Psammuthes Ptolemy Theocritus Therapon Timoleon Xanthos Xenon Zeteres Zosimus }
+		
+		last_names = { Ahmid Galestid Kenamid Naravid Penamid Senuid Setnid }
+	}
+	berber = {
+		color = { 70  200  176 }
+		first_names = { Amyrteos Ankhmachis Anemhor Aratos Arganos Charias Djedhor Ezena Horemakhet Isocrates Khabbabash Leonippus Lydiadas Manetho Massiva
+ 		Nakhthoreb Naravas Nefaarud Neferibre Nesisti Nicias Nicodemus Oezalces Oxyntas Pedubast Peneus Perdiccas Philocrates 
+		Philotheos Polyperchon Psherenamun Psherenptah Psammuthes Ptolemy Theocritus Therapon Timoleon Xanthos Xenon Zeteres Zosimus }
+		
+		last_names = { Ahmid Galestid Kenamid Naravid Penamid Senuid Setnid }
+	}
+	numidian = {
+		color = { 57  132  176 }
+		first_names = { Amyrteos Ankhmachis Anemhor Aratos Arganos Charias Djedhor Ezena Horemakhet Isocrates Khabbabash Leonippus Lydiadas Manetho Massiva
+ 		Nakhthoreb Naravas Nefaarud Neferibre Nesisti Nicias Nicodemus Oezalces Oxyntas Pedubast Peneus Perdiccas Philocrates 
+		Philotheos Polyperchon Psherenamun Psherenptah Psammuthes Ptolemy Theocritus Therapon Timoleon Xanthos Xenon Zeteres Zosimus }
+		
+		last_names = { Ahmid Galestid Kenamid Naravid Penamid Senuid Setnid }
+	}
+}
+
+north_levantine = {
+	leader = african
+	unit = CarthageGC
+	carthagian = {
+		color = {74 174 85}
+		first_names = { Abbar Abdmelqart Adonibaal Agbal Ahirom Azimilik Baal Baalhanno Bodashtart Bodmelqart Bomilcar Bostar Boulomenus Carthalo Chelbes 
+		shbaal Eugoras Germelqart Hamilcar Hannibal Hanno Hasdrubal Himilco Hiram Mago Maharbal Mattan Metallo Milkherem Milkiram 
+		Paltibaal Philosir }
+		
+		last_names = { Abbarid Adonibaalid Ahiromid Baalhannid Baalid Barcid Bostarid Chelbesid Eshbaalid Eugorid Hannid Hiramid Magoid Mattanid Metallid 
+		Milkiramid Philosirid }
+	}
+	phoenician = {
+		color = {70 170 80}
+		first_names = { Abbar Abdmelqart Adonibaal Agbal Ahirom Azimilik Baal Baalhanno Bodashtart Bodmelqart Bomilcar Bostar Boulomenus Carthalo Chelbes 
+		shbaal Eugoras Germelqart Hamilcar Hannibal Hanno Hasdrubal Himilco Hiram Mago Maharbal Mattan Metallo Milkherem Milkiram 
+		Paltibaal Philosir }
+		
+		last_names = { Abbarid Adonibaalid Ahiromid Baalhannid Baalid Barcid Bostarid Chelbesid Eshbaalid Eugorid Hannid Hiramid Magoid Mattanid Metallid 
+		Milkiramid Philosirid }
+	}
+}
+
+south_levantine = {
+	leader = european
+	unit = EgyptGC
+	jewish = {
+		color = {90 100 50}
+		first_names = { Abiatar Ahijah Akabon Alon Amit Amram Ananelus Ananias Aretas Aristobulus Azrikam Barak Baruch Belshazar Costobarus Deror Dori 
+		Eiran Eleazar Erotimus Ezra Hadasa Herod Hyrkanus Jannaeus Joazar Yosef Josiada Kahana Hillel Hodaviah Honio Meir Nahum 
+		Nathan Nehemiah Nikanor Nir Obadiah  Ofer Omri Pinchas Phannias Phasael Raanan Malichus Manasseh Nogah Shamgar Shammai 
+		Shaul Shemaiah Shemida Silas Simeon Sosa Talmon Tarfon Tovia Yair Yochanan Zadok }
+		
+		last_names = { Abiatarid Akabonid Amitid Amramid Boazid Dorid Dovid Eiranid Eleazid Heroid Honioid Hillelid Joazid Kahanid Nahumid Nirid Nogahid 
+		Oferid Omrid Pinchasid Raananid Shemidid Yairid }
+	}
+	arab = {
+		color = {60 124 20}
+		first_names = { Abiatar Ahijah Akabon Alon Amit Amram Ananelus Ananias Aretas Aristobulus Azrikam Barak Baruch Belshazar Costobarus Deror Dori 
+		Eiran Eleazar Erotimus Ezra Hadasa Herod Hyrkanus Jannaeus Joazar Yosef Josiada Kahana Hillel Hodaviah Honio Meir Nahum 
+		Nathan Nehemiah Nikanor Nir Obadiah  Ofer Omri Pinchas Phannias Phasael Raanan Malichus Manasseh Nogah Shamgar Shammai 
+		Shaul Shemaiah Shemida Silas Simeon Sosa Talmon Tarfon Tovia Yair Yochanan Zadok }
+		
+		last_names = { Abiatarid Akabonid Amitid Amramid Boazid Dorid Dovid Eiranid Eleazid Heroid Honioid Hillelid Joazid Kahanid Nahumid Nirid Nogahid 
+		Oferid Omrid Pinchasid Raananid Shemidid Yairid }
+	}
+	nabatean = {
+		color = {55 65 15}
+		first_names = { Abiatar Ahijah Akabon Alon Amit Amram Ananelus Ananias Aretas Aristobulus Azrikam Barak Baruch Belshazar Costobarus Deror Dori 
+		Eiran Eleazar Erotimus Ezra Hadasa Herod Hyrkanus Jannaeus Joazar Yosef Josiada Kahana Hillel Hodaviah Honio Meir Nahum 
+		Nathan Nehemiah Nikanor Nir Obadiah  Ofer Omri Pinchas Phannias Phasael Raanan Malichus Manasseh Nogah Shamgar Shammai 
+		Shaul Shemaiah Shemida Silas Simeon Sosa Talmon Tarfon Tovia Yair Yochanan Zadok }
+		
+		last_names = { Abiatarid Akabonid Amitid Amramid Boazid Dorid Dovid Eiranid Eleazid Heroid Honioid Hillelid Joazid Kahanid Nahumid Nirid Nogahid 
+		Oferid Omrid Pinchasid Raananid Shemidid Yairid }
+	}
+}
+
+persia = {
+	leader = arab
+	unit = PersianGC
+	parthian = {
+		color = { 90  138  133 }
+		first_names = { Abdagas Ara Aram Aramu Arbaces Ardashir Argishti Ariovast Arkha Armin Arsaces Arsames Artabanus Artabazus Artasyras Artavazd 
+		Artaxias Aryanes Asheri Asina Ashina Astashpa Astyages Atamaita Aturpat Bagayash Bayad Chosroes Cyaxares Cyrus Darius Deioces 
+		Evagoras Fravarti Gaumata Gobryas Gotarzes Haldita Hidarnes Hydarnes Manchihr Mardonius Martiya Mazaces Megabyzus Menua Nambed 
+		Napad Orodes Orxines Osroes Oxydates Pacorus Peucestas Phraates Phraortes Rusa Sames Sarduri Sarsamas Savaces Shapur Sinatruces 
+		Tigraios Tigranes Tiridates Umamaita Upadarma Vahbarz Vardanes Vologases Vonones Xerxes }
+
+		last_names = { Aramid Arid Arkhid Asinid Arsacid Deiocid Menid Pacorid Savacid Vardanid }
+	}
+	persian = {
+		color = { 246  223  15 }
+		first_names = { Abdagas Ara Aram Aramu Arbaces Ardashir Argishti Ariovast Arkha Armin Arsaces Arsames Artabanus Artabazus Artasyras Artavazd 
+		Artaxias Aryanes Asheri Asina Ashina Astashpa Astyages Atamaita Aturpat Bagayash Bayad Chosroes Cyaxares Cyrus Darius Deioces 
+		Evagoras Fravarti Gaumata Gobryas Gotarzes Haldita Hidarnes Hydarnes Manchihr Mardonius Martiya Mazaces Megabyzus Menua Nambed 
+		Napad Orodes Orxines Osroes Oxydates Pacorus Peucestas Phraates Phraortes Rusa Sames Sarduri Sarsamas Savaces Shapur Sinatruces 
+		Tigraios Tigranes Tiridates Umamaita Upadarma Vahbarz Vardanes Vologases Vonones Xerxes }
+
+		last_names = { Aramid Arid Arkhid Asinid Arsacid Deiocid Menid Pacorid Savacid Vardanid }
+	}
+	median = {
+		color = { 150  2  70 }
+		first_names = { Abdagas Ara Aram Aramu Arbaces Ardashir Argishti Ariovast Arkha Armin Arsaces Arsames Artabanus Artabazus Artasyras Artavazd 
+		Artaxias Aryanes Asheri Asina Ashina Astashpa Astyages Atamaita Aturpat Bagayash Bayad Chosroes Cyaxares Cyrus Darius Deioces 
+		Evagoras Fravarti Gaumata Gobryas Gotarzes Haldita Hidarnes Hydarnes Manchihr Mardonius Martiya Mazaces Megabyzus Menua Nambed 
+		Napad Orodes Orxines Osroes Oxydates Pacorus Peucestas Phraates Phraortes Rusa Sames Sarduri Sarsamas Savaces Shapur Sinatruces 
+		Tigraios Tigranes Tiridates Umamaita Upadarma Vahbarz Vardanes Vologases Vonones Xerxes }
+
+		last_names = { Aramid Arid Arkhid Asinid Arsacid Deiocid Menid Pacorid Savacid Vardanid }
+	}
+	armenian = {
+		color = { 172  58  52 }
+		first_names = { Abdagas Ara Aram Aramu Arbaces Ardashir Argishti Ariovast Arkha Armin Arsaces Arsames Artabanus Artabazus Artasyras Artavazd 
+		Artaxias Aryanes Asheri Asina Ashina Astashpa Astyages Atamaita Aturpat Bagayash Bayad Chosroes Cyaxares Cyrus Darius Deioces 
+		Evagoras Fravarti Gaumata Gobryas Gotarzes Haldita Hidarnes Hydarnes Manchihr Mardonius Martiya Mazaces Megabyzus Menua Nambed 
+		Napad Orodes Orxines Osroes Oxydates Pacorus Peucestas Phraates Phraortes Rusa Sames Sarduri Sarsamas Savaces Shapur Sinatruces 
+		Tigraios Tigranes Tiridates Umamaita Upadarma Vahbarz Vardanes Vologases Vonones Xerxes }
+
+		last_names = { Aramid Arid Arkhid Asinid Arsacid Deiocid Menid Pacorid Savacid Vardanid }
+	}
+	bactrian = {
+		color = { 14  52  52 }
+		first_names = { Abdagas Ara Aram Aramu Arbaces Ardashir Argishti Ariovast Arkha Armin Arsaces Arsames Artabanus Artabazus Artasyras Artavazd 
+		Artaxias Aryanes Asheri Asina Ashina Astashpa Astyages Atamaita Aturpat Bagayash Bayad Chosroes Cyaxares Cyrus Darius Deioces 
+		Evagoras Fravarti Gaumata Gobryas Gotarzes Haldita Hidarnes Hydarnes Manchihr Mardonius Martiya Mazaces Megabyzus Menua Nambed 
+		Napad Orodes Orxines Osroes Oxydates Pacorus Peucestas Phraates Phraortes Rusa Sames Sarduri Sarsamas Savaces Shapur Sinatruces 
+		Tigraios Tigranes Tiridates Umamaita Upadarma Vahbarz Vardanes Vologases Vonones Xerxes }
+
+		last_names = { Aramid Arid Arkhid Asinid Arsacid Deiocid Menid Pacorid Savacid Vardanid }
+	}
+	gedrosian = {
+		color = { 200  51  29 }
+		first_names = { Abdagas Ara Aram Aramu Arbaces Ardashir Argishti Ariovast Arkha Armin Arsaces Arsames Artabanus Artabazus Artasyras Artavazd 
+		Artaxias Aryanes Asheri Asina Ashina Astashpa Astyages Atamaita Aturpat Bagayash Bayad Chosroes Cyaxares Cyrus Darius Deioces 
+		Evagoras Fravarti Gaumata Gobryas Gotarzes Haldita Hidarnes Hydarnes Manchihr Mardonius Martiya Mazaces Megabyzus Menua Nambed 
+		Napad Orodes Orxines Osroes Oxydates Pacorus Peucestas Phraates Phraortes Rusa Sames Sarduri Sarsamas Savaces Shapur Sinatruces 
+		Tigraios Tigranes Tiridates Umamaita Upadarma Vahbarz Vardanes Vologases Vonones Xerxes }
+
+		last_names = { Aramid Arid Arkhid Asinid Arsacid Deiocid Menid Pacorid Savacid Vardanid }
+	}
+	ibero = {
+		color = { 229 221 178 }
+		first_names = { Abdagas Ara Aram Aramu Arbaces Ardashir Argishti Ariovast Arkha Armin Arsaces Arsames Artabanus Artabazus Artasyras Artavazd 
+		Artaxias Aryanes Asheri Asina Ashina Astashpa Astyages Atamaita Aturpat Bagayash Bayad Chosroes Cyaxares Cyrus Darius Deioces 
+		Evagoras Fravarti Gaumata Gobryas Gotarzes Haldita Hidarnes Hydarnes Manchihr Mardonius Martiya Mazaces Megabyzus Menua Nambed 
+		Napad Orodes Orxines Osroes Oxydates Pacorus Peucestas Phraates Phraortes Rusa Sames Sarduri Sarsamas Savaces Shapur Sinatruces 
+		Tigraios Tigranes Tiridates Umamaita Upadarma Vahbarz Vardanes Vologases Vonones Xerxes }
+
+		last_names = { Aramid Arid Arkhid Asinid Arsacid Deiocid Menid Pacorid Savacid Vardanid }
+	}
+	assyrian = {
+		color = { 40  213  5 }
+		first_names = { Abdagas Ara Aram Aramu Arbaces Ardashir Argishti Ariovast Arkha Armin Arsaces Arsames Artabanus Artabazus Artasyras Artavazd 
+		Artaxias Aryanes Asheri Asina Ashina Astashpa Astyages Atamaita Aturpat Bagayash Bayad Chosroes Cyaxares Cyrus Darius Deioces 
+		Evagoras Fravarti Gaumata Gobryas Gotarzes Haldita Hidarnes Hydarnes Manchihr Mardonius Martiya Mazaces Megabyzus Menua Nambed 
+		Napad Orodes Orxines Osroes Oxydates Pacorus Peucestas Phraates Phraortes Rusa Sames Sarduri Sarsamas Savaces Shapur Sinatruces 
+		Tigraios Tigranes Tiridates Umamaita Upadarma Vahbarz Vardanes Vologases Vonones Xerxes }
+
+		last_names = { Aramid Arid Arkhid Asinid Arsacid Deiocid Menid Pacorid Savacid Vardanid }
+	}
+}
+
+british = {
+	leader = european
+	unit = CelticGC
+	pictish = {
+		color = { 100  155  100 }
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
+}
+
+scythia = {
+	leader = european
+	unit = ScythianGC
+	scythian = {
+		color = { 32 100 57 }
+		first_names = { Abeacus Apsyrtos Arpharnes Askhkadar Atheas Galat Kuluk Madyes Oltak Palacus Partatua Skilurus Skunxa Spadines Tasius Zanticus Respendial }
+
+		last_names = { Abeacid Galatid Madyid Palacid Partatid }
+	}
+	sarmatian = {
+		color = { 169  194  129 }
+		first_names = { Abeacus Apsyrtos Arpharnes Askhkadar Atheas Galat Kuluk Madyes Oltak Palacus Partatua Skilurus Skunxa Spadines Tasius Zanticus Respendial }
+
+		last_names = { Abeacid Galatid Madyid Palacid Partatid }
+	}		
+}
+
+illyria = {
+	leader = european
+	unit = ScythianGC
+	illyrian = {
+		color = { 163  110  150 }
+		first_names = { Agirrus Agis Agron Alban Andes Annaeus Artan Audoleon Ballaios Bardyllis Bastareus Baton Blodus Boria Dardan Dasius 
+		Dazas Derronaios Ditus Dropion Epicadus Epicaris Epidius Eupolemenos Genthena Gentius Glaukias Glavus Laedio Laiscus 
+		Lycceius Madena Messor Monounios Mytilus Nicarchus Patraus Pinnes Plares Pleuratus Posantio Pravaius Scerdis Skerdilaidas
+		Tatta Temus Teuda Thana Vendes Verzo Zanatis Ziraeus }
+
+		last_names = { Agid Andid Artid Dazid Epidid Plarid Scerdid Teudid Thanid Vendid Verzid }
+	}
+	pannonian = {
+		color = { 158  129  179 }
+		first_names = { Agirrus Agis Agron Alban Andes Annaeus Artan Audoleon Ballaios Bardyllis Bastareus Baton Blodus Boria Dardan Dasius 
+		Dazas Derronaios Ditus Dropion Epicadus Epicaris Epidius Eupolemenos Genthena Gentius Glaukias Glavus Laedio Laiscus 
+		Lycceius Madena Messor Monounios Mytilus Nicarchus Patraus Pinnes Plares Pleuratus Posantio Pravaius Scerdis Skerdilaidas
+		Tatta Temus Teuda Thana Vendes Verzo Zanatis Ziraeus }
+
+		last_names = { Agid Andid Artid Dazid Epidid Plarid Scerdid Teudid Thanid Vendid Verzid }
+	}
+}
+
+thracia = {
+	leader = european
+	unit = ScythianGC
+	thracian = {
+		color = { 186  203  204 }
+		first_names = { Adaeus Adeos Adon Amadokos Charnabon Coson Cotiso Dapyx Decebalus Diagil Dicomes Dromichaetes Duras Kotys Manes Moskon Odroes
+		Oroles Pieporus Rhemaxos Rholes Roimitalkes Rubobostes Sadalas Seuthes Sitalkes Tires Zalmodegikos Zalmoxis Zoltes Zyraxes }
+	
+		last_names = { Adonid Durasid Manid Mosonid Odroid Orolid Tirid Zoltid Zyraxid }
+	}
+	dacian = {
+		color = { 101  102  163 }
+		first_names = { Adaeus Adeos Adon Amadokos Charnabon Coson Cotiso Dapyx Decebalus Diagil Dicomes Dromichaetes Duras Kotys Manes Moskon Odroes
+		Oroles Pieporus Rhemaxos Rholes Roimitalkes Rubobostes Sadalas Seuthes Sitalkes Tires Zalmodegikos Zalmoxis Zoltes Zyraxes }
+	
+		last_names = { Adonid Durasid Manid Mosonid Odroid Orolid Tirid Zoltid Zyraxid }
+	}
+	phrygian = {
+		color = { 160  166  185 }
+		first_names = { Adaeus Adeos Adon Amadokos Charnabon Coson Cotiso Dapyx Decebalus Diagil Dicomes Dromichaetes Duras Kotys Manes Moskon Odroes
+		Oroles Pieporus Rhemaxos Rholes Roimitalkes Rubobostes Sadalas Seuthes Sitalkes Tires Zalmodegikos Zalmoxis Zoltes Zyraxes }
+	
+		last_names = { Adonid Durasid Manid Mosonid Odroid Orolid Tirid Zoltid Zyraxid }
+	}
+	galatian = {
+		color = { 10  16  185 }
+		first_names = { Adaeus Adeos Adon Amadokos Charnabon Coson Cotiso Dapyx Decebalus Diagil Dicomes Dromichaetes Duras Kotys Manes Moskon Odroes
+		Oroles Pieporus Rhemaxos Rholes Roimitalkes Rubobostes Sadalas Seuthes Sitalkes Tires Zalmodegikos Zalmoxis Zoltes Zyraxes }
+	
+		last_names = { Adonid Durasid Manid Mosonid Odroid Orolid Tirid Zoltid Zyraxid }
+	}
+	lydian = {
+		color = { 90  160  185 }
+		first_names = { Adaeus Adeos Adon Amadokos Charnabon Coson Cotiso Dapyx Decebalus Diagil Dicomes Dromichaetes Duras Kotys Manes Moskon Odroes
+		Oroles Pieporus Rhemaxos Rholes Roimitalkes Rubobostes Sadalas Seuthes Sitalkes Tires Zalmodegikos Zalmoxis Zoltes Zyraxes }
+	
+		last_names = { Adonid Durasid Manid Mosonid Odroid Orolid Tirid Zoltid Zyraxid }
+	}
+	bithynian = {
+		color = { 160  56  18 }
+		first_names = { Adaeus Adeos Adon Amadokos Charnabon Coson Cotiso Dapyx Decebalus Diagil Dicomes Dromichaetes Duras Kotys Manes Moskon Odroes
+		Oroles Pieporus Rhemaxos Rholes Roimitalkes Rubobostes Sadalas Seuthes Sitalkes Tires Zalmodegikos Zalmoxis Zoltes Zyraxes }
+	
+		last_names = { Adonid Durasid Manid Mosonid Odroid Orolid Tirid Zoltid Zyraxid }
+	}
+	pisidian = {
+		color = { 130  133  175 }
+		first_names = { Adaeus Adeos Adon Amadokos Charnabon Coson Cotiso Dapyx Decebalus Diagil Dicomes Dromichaetes Duras Kotys Manes Moskon Odroes
+		Oroles Pieporus Rhemaxos Rholes Roimitalkes Rubobostes Sadalas Seuthes Sitalkes Tires Zalmodegikos Zalmoxis Zoltes Zyraxes }
+	
+		last_names = { Adonid Durasid Manid Mosonid Odroid Orolid Tirid Zoltid Zyraxid }
+	}
+}
+	
+gallic = {
+	leader = european
+	unit = CelticGC
+	celtic = {
+		color = { 100  196  156 }
+		first_names = { Acco Addedomarus Adiatuanus Adminius Aiorix Ambicatos Andecombogius Aneroestes Ariovistus Arverus Arvirargus Atis Avitus 
+		Bellicianus Bellovesus Boduognatus Boio Boiorix Bolgios Brennus Bricussa Britomaris Brucetius Buite Cailtram Caractacus 
+		Carvilius Cassivellaunus Catugnatus Cavarinus Cavarus Celatus Cingetorix Coilus Commios Concolitanus Correus Cottius Crixus
+		Cunobelinus Diviciacus Divico Donnus Drappes Dubnovellaunus Dumnacus Ducarius Duratios Dumnocoveros Dumnorix Elitovius Etitovius
+		Galan Galba Guiderius Iacus Iccius Indutiomarus Kimarcus Lucterius Lugotorix Lutarius Mallaius Mandubracius Marganus Mascelio
+		Orgetorix Segovax Sinatus Sinorix Sisillius Talorc Tasciovanus Tasgetius Taximagulus Teutomalius Tincomarus Togodumnus Vertiscus
+		Viridorix Vosenius Vodenos }
+
+		last_names = { Correid Divicid Duratid Elitovid Galbid Iacid Marganid Sinatid Vodenosid }
+	}
+	gallo_ligurian = {
+		color = { 150  196  156 }
+		first_names = { Acco Addedomarus Adiatuanus Adminius Aiorix Ambicatos Andecombogius Aneroestes Ariovistus Arverus Arvirargus Atis Avitus 
+		Bellicianus Bellovesus Boduognatus Boio Boiorix Bolgios Brennus Bricussa Britomaris Brucetius Buite Cailtram Caractacus 
+		Carvilius Cassivellaunus Catugnatus Cavarinus Cavarus Celatus Cingetorix Coilus Commios Concolitanus Correus Cottius Crixus
+		Cunobelinus Diviciacus Divico Donnus Drappes Dubnovellaunus Dumnacus Ducarius Duratios Dumnocoveros Dumnorix Elitovius Etitovius
+		Galan Galba Guiderius Iacus Iccius Indutiomarus Kimarcus Lucterius Lugotorix Lutarius Mallaius Mandubracius Marganus Mascelio
+		Orgetorix Segovax Sinatus Sinorix Sisillius Talorc Tasciovanus Tasgetius Taximagulus Teutomalius Tincomarus Togodumnus Vertiscus
+		Viridorix Vosenius Vodenos }
+
+		last_names = { Correid Divicid Duratid Elitovid Galbid Iacid Marganid Sinatid Vodenosid }
+	}
+}
+	
+iberia = {
+	leader = european
+	unit = IberianGC
+	aquitanian = {
+		color = { 90 113 160 }
+		first_names = { Ambon Arganthonios Audax Auaros Caisaros Caraunios Caros Caucenus Cesarus Culchas Indibil Leukon Luxinius Mandonius Megaravicos
+		Punicus Rhetogenes Tautalus Viriathos }
+
+		last_names = { Ambonid Auarosid Audaxid Carosid Culchid Leukid Mandonid Punicid Tautalid }
+	}
+	iberian = {
+		color = { 21 177 178 }
+		first_names = { Ambon Arganthonios Audax Auaros Caisaros Caraunios Caros Caucenus Cesarus Culchas Indibil Leukon Luxinius Mandonius Megaravicos
+		Punicus Rhetogenes Tautalus Viriathos }
+
+		last_names = { Ambonid Auarosid Audaxid Carosid Culchid Leukid Mandonid Punicid Tautalid }
+	}
+	celt_iberian = {
+		color = { 96 119 166 }
+		first_names = { Ambon Arganthonios Audax Auaros Caisaros Caraunios Caros Caucenus Cesarus Culchas Indibil Leukon Luxinius Mandonius Megaravicos
+		Punicus Rhetogenes Tautalus Viriathos }
+
+		last_names = { Ambonid Auarosid Audaxid Carosid Culchid Leukid Mandonid Punicid Tautalid }
+	}
+}

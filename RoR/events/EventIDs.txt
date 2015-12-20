@@ -1,0 +1,17 @@
+# some events from vanilla Victoria 2 are just modified, some others are completly new...
+
+#Core Gaining			- 2560		# old, but modified
+# Election Campaign Events 	- 14000		# old stuff, not modified so far
+
+# Rise of Rome Events - 100000 - ...
+	# Natural Disaster	- 100000				# new stuff
+	# Clean Ups		- 100250				# old stuff, modified for new parties/governments
+	# Life Rating Events	- 100500				# new stuff
+	# Flavor Events		- 110000 		- 200000	# new stuff
+		# Persia		- 110000
+		# Macedonia 		- 110100
+		# Rome			- 110200
+		# Qi			- 110500
+		# Carthage		- 110600
+	# OnAction		- 200000
+	# Pillages		- 200200

@@ -1,0 +1,340 @@
+#Bayrut Region (52000)  #see Lebanon.txt for balance of region
+#under the rule of Egypt in 1836
+#Acre (52000/13000 POPS) #now part of Israel-Palestine  mashriqi-animist = druze 
+916 = {
+	aristocrats = {
+		culture = phoenician
+		religion = phoenician_gods
+		size = 200
+	}
+
+	officers = {
+		culture = phoenician
+		religion = phoenician_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = phoenician
+		religion = phoenician_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = phoenician
+		religion = phoenician_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = phoenician
+		religion = phoenician_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = phoenician
+		religion = phoenician_gods
+		size = 5000
+	}
+
+	soldiers = {
+		culture = phoenician
+		religion = phoenician_gods
+		size = 500
+	}
+
+	labourers = {
+		culture = phoenician
+		religion = phoenician_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = phoenician
+		religion = phoenician_gods
+		size = 2000
+	}
+}
+#Palestine Region (236000)  #see Jordan.txt for balance of region
+#under the rule of Egypt in 1836
+#Jerusalem (68000/17000 POPS)
+917 = {
+	aristocrats = {
+		culture = jewish
+		religion = jewish
+		size = 200
+	}
+
+	officers = {
+		culture = jewish
+		religion = jewish
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = jewish
+		religion = jewish
+		size = 300
+	}
+
+	clergymen = {
+		culture = jewish
+		religion = jewish
+		size = 200
+	}
+
+	artisans = {
+		culture = jewish
+		religion = jewish
+		size = 10
+	}
+
+	artisans = {
+		culture = jewish
+		religion = jewish
+		size = 3000
+	}
+
+	soldiers = {
+		culture = jewish
+		religion = jewish
+		size = 500
+	}
+
+	labourers = {
+		culture = jewish
+		religion = jewish
+		size = 1000
+	}
+
+	labourers = {
+		culture = jewish
+		religion = jewish
+		size = 2000
+	}
+}
+#Nablus (44000/11000 POPS)
+918 = {
+	aristocrats = {
+		culture = jewish
+		religion = jewish
+		size = 200
+	}
+
+	officers = {
+		culture = jewish
+		religion = jewish
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = jewish
+		religion = jewish
+		size = 300
+	}
+
+	clergymen = {
+		culture = jewish
+		religion = jewish
+		size = 200
+	}
+
+	artisans = {
+		culture = jewish
+		religion = jewish
+		size = 10
+	}
+
+	artisans = {
+		culture = jewish
+		religion = jewish
+		size = 3000
+	}
+
+	soldiers = {
+		culture = jewish
+		religion = jewish
+		size = 500
+	}
+
+	labourers = {
+		culture = jewish
+		religion = jewish
+		size = 1000
+	}
+
+	labourers = {
+		culture = jewish
+		religion = jewish
+		size = 2000
+	}
+}
+#Jaffa (48000/12000 POPS)
+919 = {
+	aristocrats = {
+		culture = jewish
+		religion = jewish
+		size = 200
+	}
+
+	officers = {
+		culture = jewish
+		religion = jewish
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = jewish
+		religion = jewish
+		size = 300
+	}
+
+	clergymen = {
+		culture = jewish
+		religion = jewish
+		size = 200
+	}
+
+	artisans = {
+		culture = jewish
+		religion = jewish
+		size = 10
+	}
+
+	artisans = {
+		culture = jewish
+		religion = jewish
+		size = 3000
+	}
+
+	soldiers = {
+		culture = jewish
+		religion = jewish
+		size = 500
+	}
+
+	labourers = {
+		culture = jewish
+		religion = jewish
+		size = 1000
+	}
+
+	labourers = {
+		culture = jewish
+		religion = jewish
+		size = 2000
+	}
+}
+#Gaza (44000/11000 POPS)
+920 = {
+	aristocrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	officers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 500
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 2000
+	}
+}
+#Beersheba (36000/9000 POPS)
+921 = {
+	aristocrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	officers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = arab
+		religion = egyptian_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = arab
+		religion = egyptian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 500
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = arab
+		religion = egyptian_gods
+		size = 2000
+	}
+}

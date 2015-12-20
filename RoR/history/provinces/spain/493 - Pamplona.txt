@@ -1,0 +1,6 @@
+owner = VCC
+controller = VCC
+add_core = VCC
+is_slave = yes
+trade_goods = fruit
+life_rating = 35

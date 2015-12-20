@@ -1,0 +1,6 @@
+owner= NEA
+controller = NEA
+add_core = NEA
+is_slave = yes
+trade_goods = fish
+life_rating = 35

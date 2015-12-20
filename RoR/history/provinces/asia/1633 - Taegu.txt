@@ -1,0 +1,5 @@
+owner = JIN
+controller = JIN
+add_core = JIN
+is_slave = yes
+trade_goods = timberlife_rating = 35

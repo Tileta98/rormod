@@ -1,0 +1,5 @@
+owner = MUS
+controller = MUS
+add_core = MUS
+is_slave = yes
+trade_goods = fruitlife_rating = 32

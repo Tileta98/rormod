@@ -1,0 +1,5 @@
+owner = DRA
+controller = DRA
+add_core = DRA
+is_slave = yes
+trade_goods = grainlife_rating = 32

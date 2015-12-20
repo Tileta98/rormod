@@ -1,0 +1,5 @@
+owner = CHU
+controller = CHU
+add_core = CHU
+is_slave = yes
+trade_goods = stonelife_rating = 32

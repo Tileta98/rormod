@@ -1,0 +1,67 @@
+province_event = {
+	id = 200200
+	title = "EVTNAME200200"
+	desc = "EVTDESC200200"
+
+	trigger = {
+		controlled_by = THIS
+		NOT = { owner = { tag = THIS} }
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+	}
+
+	allow_multiple_instances = yes
+	
+	option = {
+		name = "EVTOPTB200200"
+		any_pop = {
+			limit = {
+				is_primary_culture = no
+				}
+			pop_type = slaves
+		}
+
+		add_province_modifier = {
+			name = enslavement_after_conquest
+			duration = 365
+		}
+		ai_chance = {
+			factor = 25
+		}
+	}
+	option = {
+		name = "EVTOPTB200200"
+		any_pop = {
+			limit = {
+				is_primary_culture = no
+			}
+			money = -1000
+			militancy = 1
+			reduce_pop = 0.90
+		}
+		treasury = 1000
+
+		add_province_modifier = {
+			name = enslavement_after_conquest
+			duration = 365
+		}
+		
+		ai_chance = {
+			factor = 15
+		}		
+	}
+
+	option = {
+		name = "EVTOPTC200200"
+		ai_chance = {
+			factor = 60
+		}
+
+		add_province_modifier = {
+			name = enslavement_after_conquest
+			duration = 365
+		}		
+	}
+}

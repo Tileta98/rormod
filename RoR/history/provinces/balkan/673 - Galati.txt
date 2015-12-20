@@ -1,0 +1,6 @@
+owner = CTI
+controller = CTI
+add_core = CTI
+is_slave = yes
+trade_goods = grain
+life_rating = 35

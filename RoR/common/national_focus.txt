@@ -1,0 +1,255 @@
+road_focus =
+{
+	encourage_roads = 
+	{
+		railroads = 0.5 #Capitalists 50% more likeley to choose railroads
+		icon = 2
+	}
+}
+
+immigration_focus = 
+{
+	immigration =
+	{
+		immigrant_attract = 0.2 #increases attactiveness to immigrants by 20 %
+		icon = 3
+		limit = { 
+			#OR = { 
+				#continent = north_america
+				#continent = south_america
+				#is_overseas = yes
+			#}  
+		}
+	}
+}
+
+diplomatic_focus =
+{
+	increase_tension =
+	{
+		icon = 4
+		has_flashpoint = yes
+		own_provinces = no
+
+		flashpoint_tension = 0.15
+
+		limit = {
+			is_core = THIS
+			THIS = {
+				is_greater_power = no
+			}
+		}
+	}
+}
+
+promotion_focus =
+{
+	promote_aristocrats =
+	{
+		aristocrats = 0.20 #20% more likeley to become artisans
+		icon = 5
+		outliner_show_as_percent = yes
+	}
+
+	promote_artisans =
+	{
+		artisans = 0.20 #20% more likeley to become this type
+		icon = 6
+		outliner_show_as_percent = yes
+	}
+
+	promote_bureaucrats =
+	{
+		bureaucrats = 0.20 #20% more likeley to become this type
+		icon = 7
+		outliner_show_as_percent = yes
+	}
+
+	promote_capitalists =
+	{
+		capitalists = 0.20 #20% more likeley to become this type
+		icon = 8
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+		}
+
+	}
+	
+	promote_clergymen =
+	{
+		clergymen = 0.20 #20% more likeley to become this type
+		icon = 9
+		outliner_show_as_percent = yes
+	}
+
+	promote_clerks =
+	{
+		clerks = 0.20 #20% more likeley to become this type
+		icon = 10
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+		}
+	}
+
+	promote_craftsmen =
+	{
+		craftsmen = 0.20 #20% more likeley to become this type
+		icon = 11
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+		}
+	}
+
+	promote_farmers =
+	{
+		farmers = 0.20 #20% more likeley to become this type
+		icon = 12
+		outliner_show_as_percent = yes
+	}
+	
+	promote_labourers =
+	{
+		labourers = 0.20 #20% more likeley to become this type
+		icon = 13
+		outliner_show_as_percent = yes
+	}
+
+	promote_officers =
+	{
+		officers = 0.20 #20% more likeley to become this type
+		icon = 14
+		outliner_show_as_percent = yes
+	}
+
+	promote_soldiers =
+	{
+		soldiers = 0.20 #20% more likeley to become this type
+		icon = 15
+		outliner_show_as_percent = yes
+	}
+}
+
+production_focus =
+{
+	basic_industry_focus =
+	{
+		organic_fertilizer = 18.3
+		charcoal = 18.3
+		amphores = 18.3
+
+		icon = 16
+	}
+
+	textile_focus =
+	{
+		leather = 18.3
+		fabric = 18.3
+		dye = 9.3
+		icon = 17
+	}
+
+	building_industry_focus =
+	{
+		lumber = 18.3
+		tools = 18.3
+		concrete = 18.3
+		icon = 18
+	}
+
+	metal_focus =
+	{
+		bronze = 18.3
+		steel = 18.3
+		icon = 19
+	}
+
+	armaments_focus = 
+	{
+		ammunition = 18.3
+		arms = 18.3
+		armors = 18.3
+		rations = 18.3
+		horses = 9.3
+		elephants = 9.3
+		icon = 20
+	}
+
+	shipping_focus =
+	{
+		naval_supplies = 18.3
+		icon = 21
+		limit = {
+			state_scope = { any_owned_province = { port = yes } }
+		}
+	}
+
+	life_needs_focus =
+	{
+		firewood = 18.3
+		processed_food = 18.3
+		mead = 18.3
+	
+		icon = 22
+	}
+
+	every_day_needs_focus = 
+	{
+		wine = 18.3
+		olive_oil = 18.3
+		parchment = 18.3
+		furniture = 18.3
+		regular_clothes = 18.3
+		
+		icon = 23
+	}
+
+	luxury_needs_focus = 
+	{
+		luxury_furniture = 18.3
+		luxury_clothes = 18.3
+		jewelry = 18.3
+		
+		icon = 24
+	}
+}
+
+party_loyalty_focus =
+{
+	militarist_focus =
+	{
+		ideology = militarist
+		loyalty_value = 0.001 # By that much pops will be more loyal
+		icon = 25
+	}
+	
+	trader_focus =
+	{
+		ideology = trader
+		loyalty_value = 0.001 # By that much pops will be more loyal
+		icon = 26
+	}
+	
+	religious_focus =
+	{
+		ideology = theologist
+		loyalty_value = 0.001 # By that much pops will be more loyal
+		icon = 27
+	}
+	
+	civil_focus =
+	{
+		ideology = civilian
+		loyalty_value = 0.001 # By that much pops will be more loyal
+		icon = 28
+	}
+	
+	populist_focus =
+	{
+		ideology = populist
+		loyalty_value = 0.001 # By that much pops will be more loyal
+		icon = 29
+	}
+}

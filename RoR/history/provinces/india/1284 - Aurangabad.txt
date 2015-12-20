@@ -1,0 +1,5 @@
+owner = ASS
+controller = ASS
+add_core = ASS
+is_slave = yes
+trade_goods = cottonlife_rating = 32

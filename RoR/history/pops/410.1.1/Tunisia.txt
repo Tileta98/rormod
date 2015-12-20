@@ -1,0 +1,315 @@
+#Tunisia Region (1392000)  
+#under the rule of Tunisia in 1836  
+#Tunis (488000/122000 POPS) 
+1725 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 200
+	}
+
+	officers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 300
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 200
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 5000
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 2000
+	}
+
+	labourers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 5000
+	}
+
+	labourers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 5000
+	}
+}
+#Bizerte (268000/67000 POPS) 
+1726 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	officers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 3000
+	}
+
+	labourers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 3000
+	}
+}
+#Gafsa (112000/28000 POPS) 
+1727 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 70
+	}
+
+	officers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 5000
+	}
+
+	labourers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+}
+#Kairouan (228000/57000 POPS) 
+1728 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	officers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 3000
+	}
+
+	labourers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 3000
+	}
+}
+#Tozeur (96000/24000 POPS) 
+1729 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 10
+
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 50
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+}
+#Gabes (200000/50000 POPS) 
+1730 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	officers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 10
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 3000
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 1000
+	}
+
+	labourers = {
+		culture = berber
+		religion = carthagian_gods
+		size = 3000
+	}
+
+	labourers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 3000
+	}
+}

@@ -1,0 +1,5 @@
+owner = PYU
+controller = PYU
+add_core = PYU
+is_slave = yes
+trade_goods = honeylife_rating = 35

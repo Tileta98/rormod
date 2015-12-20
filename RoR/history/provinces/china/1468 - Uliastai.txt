@@ -1,0 +1,5 @@
+owner = YUZ
+controller = YUZ
+add_core = YUZ
+is_slave = yes
+trade_goods = grainlife_rating = 32

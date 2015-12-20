@@ -1,0 +1,6 @@
+owner = EBD
+controller = EBD
+add_core = EBD
+is_slave = yes
+trade_goods = fish
+life_rating = 35

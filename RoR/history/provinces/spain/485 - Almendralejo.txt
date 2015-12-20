@@ -1,0 +1,6 @@
+owner = ARE
+controller = ARE
+add_core = ARE
+is_slave = yes
+trade_goods = wool
+life_rating = 35

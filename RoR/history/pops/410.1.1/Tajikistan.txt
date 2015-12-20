@@ -1,0 +1,185 @@
+#Mawarannahr Region (200000) #see Kazakhstan.txt, Uzbekistan.txt, Kirghizstan.txt and Turkmenistan.txt for balance of region 
+#under the rule of Kokand in 1836  
+#Khujand (200000/50000 POPS) #now part of Tajikistan  
+1201 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 775
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 400
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 2000
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 400
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 36425
+	}
+
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 175
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 500
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 100
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 9150
+	}
+}
+#Badakhshan Region (212000) 
+#under the rule of Kokand in 1836  
+#Kulob (120000/30000 POPS)   
+1207 = {
+	aristocrats = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 70
+	}
+
+	officers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 100
+	}
+
+	clergymen = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 50
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 1000
+	}
+
+	labourers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 8000
+	}
+
+	labourers = {
+		culture = bactrian
+		religion = zoroastrianism
+		size = 1000
+	}
+}
+#Khorugh (92000/23000 POPS)   
+1208 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 350
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 175
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 850
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 175
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 17450
+	}
+
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 175
+	}
+
+	soldiers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 25
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 3650
+	}
+
+}

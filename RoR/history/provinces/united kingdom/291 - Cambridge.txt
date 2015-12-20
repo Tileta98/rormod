@@ -1,0 +1,6 @@
+owner = ICE
+controller = ICE
+add_core = ICE
+is_slave = yes
+trade_goods = grain
+life_rating = 35

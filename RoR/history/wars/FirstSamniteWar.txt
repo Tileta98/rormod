@@ -1,0 +1,28 @@
+name = "First Samnite War"
+
+410.1.1 = {
+	add_attacker = RME
+	add_defender = SAM
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		state_province_id = 2567
+		casus_belli = acquire_state
+		actor = RME
+		receiver = SAM
+	}
+	war_goal = {
+		casus_belli = status_quo
+		actor = SAM
+		receiver = RME
+	}
+
+}
+412.1.1 = {
+	rem_attacker = RME
+	rem_defender = SAM
+}

@@ -1,0 +1,6 @@
+owner = BLE
+controller = BLE
+add_core = BLE
+is_slave = yes
+trade_goods = grain
+life_rating = 35

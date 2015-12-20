@@ -1,0 +1,5 @@
+trade_goods = cattlelife_rating = 35
+owner = SCI
+controller = SCI
+add_core = SCI
+is_slave = yes

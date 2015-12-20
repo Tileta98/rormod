@@ -1,0 +1,8 @@
+owner = EBU
+controller = EBU
+add_core = EBU
+is_slave = yes
+trade_goods = stone
+
+life_rating = 40
+

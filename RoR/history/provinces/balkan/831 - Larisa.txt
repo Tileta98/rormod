@@ -1,0 +1,6 @@
+owner = MAC
+controller = MAC
+add_core = MAC
+is_slave = yes
+trade_goods = fruit
+life_rating = 35

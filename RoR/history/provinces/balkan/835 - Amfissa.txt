@@ -1,0 +1,6 @@
+owner = THE
+controller = THE
+add_core = THE
+is_slave = yes
+trade_goods = cotton
+life_rating = 35

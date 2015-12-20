@@ -1,0 +1,5 @@
+owner = CIM
+controller = CIM
+add_core = CIM
+is_slave = yes
+trade_goods = cattlelife_rating = 35

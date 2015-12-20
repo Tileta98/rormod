@@ -1,0 +1,1148 @@
+#tech_power
+worm_drive = {
+	area = tech_power
+	year = 410
+	cost = 3600
+	
+	#effect
+	factory_throughput = 0.1
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			year = 420
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 10
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 25
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}	
+}
+crane = {
+	area = tech_power
+	year = 500
+	cost = 7200
+
+	#effect
+	factory_throughput = 0.1
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			year = 520
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+		modifier = {
+			factor = 1.02
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			industrial_score = 100
+		}
+		modifier = {
+			factor = 1.02
+			industrial_score = 150
+		}
+	}
+}
+pulley = {
+	area = tech_power
+	year = 600
+	cost = 10800
+
+	#effect
+	factory_throughput = 0.1
+	factory_cost = -0.1 
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.01
+			year = 625
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 200
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 250
+		}
+	}
+}
+water_mill = {
+	area = tech_power
+	year = 700
+	cost = 14400
+
+	#effect
+	factory_throughput = 0.1
+	factory_cost = -0.1 
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			year = 725
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 400
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 500
+		}
+	}
+}
+valves = {
+	area = tech_power
+	year = 800
+	cost = 18000
+
+	#effect
+	factory_throughput = 0.1
+	factory_cost = -0.1 
+
+	ai_chance = {
+		factor = 1.25
+		modifier = {
+			factor = 2
+			year = 825
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 500
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 750
+		}
+	}
+}
+hydraulic_press = {
+	area = tech_power
+	year = 900
+	cost = 21600
+
+	#effect
+	factory_throughput = 0.1
+	factory_cost = -0.1
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500
+		}
+		modifier = {
+			factor = 1.4
+			is_greater_power = yes
+		}
+	}
+}
+
+
+#agriculture
+salting = {
+	area = agriculture
+	year = 410
+	cost = 3600
+
+	#effect
+	rgo_goods_output = {
+		cotton = 0.15
+	}
+	rgo_goods_output = {
+		silk= 0.15
+	}
+	rgo_goods_output = {
+		fruit = 0.15
+	}
+	rgo_goods_output = {
+		grain = 0.15
+	}
+	rgo_goods_output = {
+		tea = 0.15
+	}
+	rgo_goods_output = {
+		grapes = 0.15
+	}
+	rgo_goods_output = {
+		olives = 0.15
+	}
+	rgo_goods_output = {
+		flax= 0.15
+	}
+	rgo_goods_output = {
+		papyrus = 0.15
+	}
+
+
+	ai_chance = {
+		factor = 1.5
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.5
+			OR = {
+				big_producer = cotton
+				big_producer = silk
+				big_producer = fruit
+				big_producer = grain
+				big_producer = tea
+				big_producer = grapes
+				big_producer = olives
+				big_producer = flax
+				big_producer = papyrus				
+			}
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1
+		}
+		modifier = {
+			factor = 0.9 #0.1
+			not = { literacy = 0.2  }
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 10
+		}
+	}	
+
+}
+organic_fertilizer = {
+	area = agriculture
+	year = 500
+	cost = 7200
+
+	#effect
+	activate_building = organic_fertilizer_production
+	rgo_goods_output = {
+		cotton = 0.15
+	}
+	rgo_goods_output = {
+		silk= 0.15
+	}
+	rgo_goods_output = {
+		fruit = 0.15
+	}
+	rgo_goods_output = {
+		grain = 0.15
+	}
+	rgo_goods_output = {
+		tea = 0.15
+	}
+	rgo_goods_output = {
+		grapes = 0.15
+	}
+	rgo_goods_output = {
+		olives = 0.15
+	}
+	rgo_goods_output = {
+		flax= 0.15
+	}
+	rgo_goods_output = {
+		papyrus = 0.15
+	}
+	
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 20
+		}
+		modifier = {
+			factor = 1.5
+			OR = {
+				big_producer = cotton
+				big_producer = silk
+				big_producer = fruit
+				big_producer = grain
+				big_producer = tea
+				big_producer = grapes
+				big_producer = olives
+				big_producer = flax
+				big_producer = papyrus				
+			}
+		}
+		modifier = {
+			factor = 0.9 #0.1
+			not = { literacy = 0.2  }
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 50
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}	
+}
+slave_force = {
+	area = agriculture
+	year = 600
+	cost = 10800
+
+	#effect
+	mine_rgo_eff = 0.15
+	farm_rgo_eff = 0.15
+	factory_throughput = 0.05
+	factory_cost = -0.1
+	farm_rgo_size = 0.1
+	
+	
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 100
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 150
+		}
+		modifier = {
+			factor = 0.9 #0.1
+			not = { literacy = 0.2  }
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}	
+}
+roman_plow = {
+	area = agriculture
+	year = 700
+	cost = 14400
+
+	#effect
+	farm_rgo_eff = 0.15
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.5
+			OR = {
+				big_producer = cotton
+				big_producer = silk
+				big_producer = fruit
+				big_producer = grain
+				big_producer = tea
+				big_producer = grapes
+				big_producer = olives
+				big_producer = flax
+				big_producer = papyrus				
+			}
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 250
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 400
+		}
+		modifier = {
+			factor = 0.9 #0.1
+			not = { literacy = 0.2  }
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}	
+}
+set_aside= {
+	area = agriculture
+	year = 800
+	cost = 18000
+
+	#effect
+	farm_rgo_eff = 0.05
+	rgo_goods_output = {
+		cotton = 0.15
+	}
+	rgo_goods_output = {
+		silk= 0.15
+	}
+	rgo_goods_output = {
+		fruit = 0.15
+	}
+	rgo_goods_output = {
+		grain = 0.15
+	}
+	rgo_goods_output = {
+		tea = 0.15
+	}
+	rgo_goods_output = {
+		grapes = 0.15
+	}
+	rgo_goods_output = {
+		olives = 0.15
+	}
+	rgo_goods_output = {
+		flax= 0.15
+	}
+	rgo_goods_output = {
+		papyrus = 0.15
+	}
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.5
+			OR = {
+				big_producer = cotton
+				big_producer = silk
+				big_producer = fruit
+				big_producer = grain
+				big_producer = tea
+				big_producer = grapes
+				big_producer = olives
+				big_producer = flax
+				big_producer = papyrus				
+			}
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 500
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 750
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}	
+}
+latifundiums= {
+	area = agriculture
+	year = 900
+	cost = 21600
+
+	#effect
+	farm_rgo_eff = 0.05
+	rgo_goods_output = {
+		cotton = 0.15
+	}
+	rgo_goods_output = {
+		silk= 0.15
+	}
+	rgo_goods_output = {
+		fruit = 0.15
+	}
+	rgo_goods_output = {
+		grain = 0.15
+	}
+	rgo_goods_output = {
+		tea = 0.15
+	}
+	rgo_goods_output = {
+		grapes = 0.15
+	}
+	rgo_goods_output = {
+		olives = 0.15
+	}
+	rgo_goods_output = {
+		flax= 0.15
+	}
+	rgo_goods_output = {
+		papyrus = 0.15
+	}
+	farm_rgo_size = 0.1
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.5
+			OR = {
+				big_producer = cotton
+				big_producer = silk
+				big_producer = fruit
+				big_producer = grain
+				big_producer = tea
+				big_producer = grapes
+				big_producer = olives
+				big_producer = flax
+				big_producer = papyrus				
+			}
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}	
+}
+
+
+#metallurgy
+charcoal_obtaining = {
+	area = metallurgy
+	year = 410
+	cost = 3600
+	
+	activate_building = charcoal_production
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.6
+			big_producer = timber
+		}
+		modifier = {
+			factor = 1.3
+			any_owned_province = {
+				produces = timber
+			}
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}
+}
+tin_and_copper_working = {
+	area = metallurgy
+	year = 500
+	cost = 7200
+	
+	rgo_goods_output = {
+		tin = 0.2
+	}
+	rgo_size = {
+		tin = 0.2
+	}
+	rgo_goods_output = {
+		copper = 0.1
+	}
+	rgo_size = {
+		copper = 0.2
+	}
+	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.4
+			big_producer = tin
+		}
+		modifier = {
+			factor = 1.4
+			big_producer = copper
+		}
+		modifier = {
+			factor = 1.1
+			any_owned_province = {
+				produces = tin
+			}
+		}
+		modifier = {
+			factor = 1.1
+			any_owned_province = {
+				produces = copper
+			}
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}
+}
+bronze_working = {
+	area = metallurgy
+	year = 600
+	cost = 10800
+
+	activate_building = bronze_production
+	rgo_goods_output = {
+		tin = 0.25
+	}
+	rgo_goods_output = {
+		copper = 0.25
+	}
+	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}
+}
+gold_and_silver_working = {
+	area = metallurgy
+	year = 700
+	cost = 14400
+
+	activate_building = jewelry_production
+
+	rgo_goods_output = {
+		silver = 0.1
+	}
+	rgo_size = {
+		silver = 0.2
+	}
+	rgo_goods_output = {
+		gold = 0.15
+	}
+	rgo_size = {
+		gold = 0.2
+	}
+	rgo_goods_output = {
+		gems = 0.05
+	}
+	rgo_size = {
+		gems = 0.1
+	}
+	rgo_goods_output = {
+		amber = 0.05
+	}
+	rgo_size = {
+		amber = 0.1
+	}
+	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.4
+			big_producer = silver
+		}
+		modifier = {
+			factor = 1.4
+			big_producer = gold
+		}
+		modifier = {
+			factor = 1.4
+			big_producer = gems
+		}
+		modifier = {
+			factor = 1.4
+			big_producer = amber
+		}
+		modifier = {
+			factor = 1.1
+			any_owned_province = {
+				produces = silver
+			}
+		}
+		modifier = {
+			factor = 1.1
+			any_owned_province = {
+				produces = gold
+			}
+		}
+		modifier = {
+			factor = 1.1
+			any_owned_province = {
+				produces = gems
+			}
+		}
+		modifier = {
+			factor = 1.1
+			any_owned_province = {
+				produces = amber
+			}
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}
+}
+iron_working = {
+	area = metallurgy
+	year = 800
+	cost = 18000
+
+	rgo_goods_output = {
+		iron = 0.25
+	}
+	rgo_size = {
+		iron = 0.2
+	}
+	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.6
+			big_producer = iron
+		}
+		modifier = {
+			factor = 1.1
+			any_owned_province = {
+				produces = iron
+			}
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}
+}
+steel_working = {
+	area = metallurgy
+	year = 900
+	cost = 21600
+
+	activate_building = steel_production
+
+	factory_goods_output = {
+		steel = 0.05 
+	}
+	rgo_goods_output = {
+		iron = 0.5
+	}
+	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.6
+			big_producer = iron
+		}
+		modifier = {
+			factor = 1.2
+			big_producer = charcoal
+		}
+		modifier = {
+			factor = 1.1
+			any_owned_province = {
+				produces = iron
+			}
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}
+}
+
+
+#infrastructure
+dirt_roads = {
+	area = infrastructure
+	year = 410
+	cost = 3600
+
+	activate_building = railroad
+	
+	ai_chance = {
+		factor = 1.5 #1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			year = 420
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}
+}
+wooden_bridges = {
+	area = infrastructure
+	year = 500
+	cost = 7200
+
+	max_railroad = 1
+	
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			year = 520
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}
+}
+semi_paved_roads = {
+	area = infrastructure
+	year = 600
+	cost = 10800
+
+	max_railroad = 1 
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			year = 620
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}
+}
+full_paved_roads = {
+	area = infrastructure
+	year = 700
+	cost = 14400
+
+	max_railroad = 1 
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			year = 720
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}
+}
+stone_bridges = {
+	area = infrastructure
+	year = 800
+	cost = 18000
+
+	max_railroad = 1
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			year = 820
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}
+}
+roman_highways = {
+	area = infrastructure
+	year = 900
+	cost = 21600
+
+	max_railroad = 1
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.5
+			civilized = yes
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}
+}
+
+
+#sanitation
+basic_plumbing = {
+	area = sanitation
+	year = 410
+	cost = 3600
+	
+	pop_growth = 0.0002
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			civilized = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+	}
+}
+soap_use = {
+	area = sanitation
+	year = 500
+	cost = 7200
+
+	pop_growth = 0.0002
+	supply_limit = 0.25
+	
+	ai_chance = {
+		factor = 1.5
+		modifier = {
+			factor = 1.5
+			civilized = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+	}
+}
+public_bathing = {
+	area = sanitation
+	year = 600
+	cost = 10800
+
+	global_immigrant_attract = 0.01
+	supply_limit = 0.25
+	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 100
+		}
+		modifier = {
+			factor = 1.1
+			year = 620
+		}
+		modifier = {
+			factor = 2
+			year = 630
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 150
+		}
+	}
+}
+aqueducts = {
+	area = sanitation
+	year = 700
+	cost = 14400
+
+	global_immigrant_attract = 0.01
+	supply_limit = 0.25
+	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 2
+			tech_school = industrial_tech_school
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 400
+		}
+		modifier = {
+			factor = 1.1
+			year = 720
+		}
+		modifier = {
+			factor = 2
+			year = 730
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 500
+		}
+	}
+}
+sewage_system = {
+	area = sanitation
+	year = 800
+	cost = 18000
+	
+	supply_limit = 0.50
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.1
+			year = 820
+		}
+		modifier = {
+			factor = 2
+			year = 830
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 500
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 750
+		}
+	}
+
+}
+early_medicine = {
+	area = sanitation
+	year = 900
+	cost = 21600
+
+	pop_growth = 0.0002
+	supply_limit = 0.50
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.02
+			tech_school = industrial_tech_school
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500
+		}
+	}
+	
+}
+
+

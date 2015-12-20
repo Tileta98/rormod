@@ -1,0 +1,6 @@
+owner= SAM
+controller = SAM
+add_core = SAM
+is_slave = yes
+trade_goods = fruit
+life_rating = 35

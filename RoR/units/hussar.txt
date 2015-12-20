@@ -1,0 +1,45 @@
+hussar = {
+#ballista
+	icon = 15
+	
+	type = land
+	sprite = Artillery
+	active = no
+	unit_type = special
+	floating_flag = no
+
+	#Core Abilities
+	priority = 20
+	max_strength = 1
+	default_organisation = 30
+	maximum_speed = 3.0
+	weighted_value = 5.0
+
+
+	#Building Costs
+	build_time = 120
+	build_cost = {
+		timber = 1
+		lumber = 2
+		ammunition = 3
+		rations = 1
+	}
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		timber = 0.1
+		lumber = 0.2
+		ammunition = 0.3
+		rations = 0.01
+	}
+	
+
+	#Land Abilties
+	reconnaissance = 0
+	attack = 1.5
+	defence = 3
+	discipline = 1.0
+	support = 2
+	maneuver = 1
+	siege = 1
+}

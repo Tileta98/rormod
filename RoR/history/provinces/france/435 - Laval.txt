@@ -1,0 +1,9 @@
+owner = AUL
+controller = AUL
+add_core = AUL
+add_core = GAU
+is_slave = yes
+trade_goods = timber
+
+life_rating = 30
+

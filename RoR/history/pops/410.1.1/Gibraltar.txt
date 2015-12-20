@@ -1,0 +1,48 @@
+#Gibraltar : 16000
+#Ruled by Britain 1836
+#Gibraltar (16000/4000 POPS)
+517 = {
+	aristocrats = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 20
+
+	}
+
+	artisans = {
+		culture = iberian
+		religion = druidism
+		size = 50
+	}
+
+	soldiers = {
+		culture = carthagian
+		religion = greek_gods
+		size = 200
+	}
+
+	farmers = {
+		culture = iberian
+		religion = druidism
+		size = 800
+	}
+
+	clergymen = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+
+	artisans = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 200
+	}
+
+
+	farmers = {
+		culture = carthagian
+		religion = carthagian_gods
+		size = 100
+	}
+}

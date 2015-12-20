@@ -1,0 +1,28 @@
+#Seychelles - 5000
+#ruled by Britain 1836
+#Seychelles (5000/1250 POPS)
+2127 = {
+	aristocrats = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 20
+	}
+
+	clergymen = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 30
+	}
+
+	artisans = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 75
+	}
+
+	farmers = {
+		culture = unknown_tribes
+		religion = unknown_gods
+		size = 1175
+	}
+}

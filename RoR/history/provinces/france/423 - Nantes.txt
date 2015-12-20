@@ -1,0 +1,7 @@
+owner = NAM
+controller = NAM
+add_core = NAM
+add_core = GAU
+is_slave = yes
+trade_goods = grain
+life_rating = 30

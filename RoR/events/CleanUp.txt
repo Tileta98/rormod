@@ -1,0 +1,206 @@
+country_event = {
+	id = 100250
+	title = "EVTNAME100250"
+	desc = "EVTDESC100250"
+	picture = "Administration"
+	
+	trigger = {
+		NOT = { government = civic_tribe }
+		NOT = { vote_franschise = none_voting }
+		ruling_party_ideology = civilian
+		civilized = no
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA100250"
+		government = civic_tribe
+	}
+}
+
+country_event = {
+	id = 100251
+	title = "EVTNAME100251"
+	desc = "EVTDESC100251"
+	picture = "Administration"
+	
+	trigger = {
+		NOT = { government = trade_tribe }
+		vote_franschise = none_voting
+		ruling_party_ideology = trader
+		civilized = no
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA100251"
+		government = trade_tribe
+	}
+}
+
+country_event = {
+	id = 100252
+	title = "EVTNAME100252"
+	desc = "EVTDESC100252"
+	picture = "Administration"
+	
+	trigger = {
+		NOT = { government = military_tribe }
+		vote_franschise = none_voting
+		ruling_party_ideology = militarist
+		civilized = no
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA100252"
+		government = military_tribe
+	}
+}
+
+country_event = {
+	id = 100253
+	title = "EVTNAME100253"
+	desc = "EVTDESC100253"
+	picture = "Administration"
+	
+	trigger = {
+		civilized = yes
+		NOT = { government = despotic_monarchy }
+		ruling_party_ideology = militarist
+		vote_franschise = none_voting
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA100253"
+		government = despotic_monarchy
+	}
+}
+
+country_event = {
+	id = 100254
+	title = "EVTNAME100254"
+	desc = "EVTDESC100254"
+	picture = "Administration"
+	
+	trigger = {
+		civilized = yes
+		NOT = { government = federal_monarchy }
+		ruling_party_ideology = civilian
+		vote_franschise = none_voting
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA100254"
+		government = federal_monarchy
+	}
+}
+
+country_event = {
+	id = 100255
+	title = "EVTNAME100255"
+	desc = "EVTDESC100255"
+	picture = "Administration"
+	
+	trigger = {
+		civilized = yes
+		NOT = { government = aristocratic_monarchy }
+		ruling_party_ideology = populist
+		vote_franschise = none_voting
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA100255"
+		government = aristocratic_monarchy
+	}
+}
+
+country_event = {
+	id = 100256
+	title = "EVTNAME100256"
+	desc = "EVTDESC100256"
+	picture = "Administration"
+	
+	trigger = {
+		civilized = yes
+		NOT = { government = military_republic }
+		ruling_party_ideology = militarist
+		NOT = { vote_franschise = none_voting }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA100256"
+		government = military_republic
+	}
+}
+
+country_event = {
+	id = 100257
+	title = "EVTNAME100257"
+	desc = "EVTDESC100257"
+	picture = "Administration"
+	
+	trigger = {
+		civilized = yes
+		NOT = { government = republic_confederacy }
+		ruling_party_ideology = civilian
+		NOT = { vote_franschise = none_voting }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA100257"
+		government = republic_confederacy
+	}
+}
+
+country_event = {
+	id = 100258
+	title = "EVTNAME100258"
+	desc = "EVTDESC100258"
+	picture = "Administration"
+	
+	trigger = {
+		civilized = yes
+		NOT = { government = oligarchic_republic }
+		ruling_party_ideology = trader
+		NOT = { vote_franschise = none_voting }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA100258"
+		government = oligarchic_republic
+	}
+}

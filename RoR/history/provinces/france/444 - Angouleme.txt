@@ -1,0 +1,7 @@
+owner = LEM
+controller = LEM
+add_core = LEM
+add_core = GAU
+is_slave = yes
+trade_goods = cattle
+life_rating = 32

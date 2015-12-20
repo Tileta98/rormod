@@ -1,0 +1,8 @@
+owner = SIL
+controller = SIL
+add_core = SIL
+is_slave = yes
+trade_goods = fish
+
+life_rating = 35
+

@@ -1,0 +1,6 @@
+owner = BLG
+controller = BLG
+add_core = BLG
+is_slave = yes
+trade_goods = wool
+life_rating = 35

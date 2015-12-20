@@ -1,0 +1,5 @@
+owner = ZHA
+controller = ZHA
+add_core = ZHA
+is_slave = yes
+trade_goods = stonelife_rating = 32

@@ -1,0 +1,6 @@
+owner = GAE
+controller = GAE
+add_core = GAE
+is_slave = yes
+trade_goods = fish
+life_rating = 30
