@@ -1,7 +1,7 @@
 defines = {
 
-start_date = '410.1.1',
-end_date = '1935.12.31',
+start_date = '410.1.1', -- AUC
+end_date = '1935.12.31', -- could be fall of Rome AUC. But not supported by Vic2
 
 country = {
 	YEARS_OF_NATIONALISM 	= 20,   -- Years of Nationalism

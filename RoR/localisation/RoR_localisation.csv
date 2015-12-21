@@ -765,4 +765,7 @@ FE_MOD_FORUM_DESC3;Thank you.;french;Danke.;;spanish;;;;;;;;;x;;;;
 ##########################################;;;;;;;;;x;;;;
 # Casus Belli ############################;;;;;;;;;x;;;;
 ##########################################;;;;;;;;;x;;;;
+AGRESSION_WAR_HUMILIATE_NAME;$ORDER$$FIRST$ War to Humiliate $SECOND$;$ORDER$ guerre pour l'honneur $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Krieg der Ehre;;;;;;;;;;;x,,,
+AGRESSION_WAR_PUPPET_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;$ORDER$ guerre de $FIRST$ pour le contrôle de $SECOND_COUNTRY$;$ORDER$ Krieg um die Kontrolle von $FIRST$ über $SECOND_COUNTRY$;;;;;;;;;;;x,,,
+AGRESSION_WAR_BOXER_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;;;;;;;;;;x;;;;
 status_quo;Status Quo;french;Status Quo;;spanish;;;;;;;;;x;;;;
