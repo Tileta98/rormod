@@ -5,7 +5,7 @@ country_event = {
 
 	title = "EVTNAME110500"
 	desc = "EVTDESC110500"
-	#picture = "aristotle_alexander"
+	picture = "sun_tzu"
 
 	trigger = {
 		year = 412
@@ -20,7 +20,7 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA110500"
-		land_organisation = 0.05
+		add_country_modifier = { name = sun_tzu duration = 3500 }
 	}
 }
 

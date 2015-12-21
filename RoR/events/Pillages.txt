@@ -15,7 +15,7 @@ province_event = {
 	allow_multiple_instances = yes
 	
 	option = {
-		name = "EVTOPTB200200"
+		name = "EVTOPTA200200"
 		any_pop = {
 			limit = {
 				is_primary_culture = no

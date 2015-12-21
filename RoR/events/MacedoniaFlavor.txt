@@ -57,7 +57,7 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA110101"
-		research_points_modifier = 0.01
+		add_country_modifier = { name = aristotle_alexander duration = 3500 }
 	}
 }
 

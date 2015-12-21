@@ -18,3 +18,11 @@ enslavement_after_conquest =
 {
 	icon = 19
 }
+aristotle_alexander = 
+{
+	research_points_modifier = 0.01
+}
+sun_tzu = 
+{
+	land_organisation = 0.05
+}
