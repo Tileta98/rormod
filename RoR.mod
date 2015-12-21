@@ -1,5 +1,5 @@
 name = "Rise of Rome"
-path = "rormod/RoR"
+path = "mod/RoR"
 user_dir = "RoR" 
 replace_path = "common"
 replace_path = "units"

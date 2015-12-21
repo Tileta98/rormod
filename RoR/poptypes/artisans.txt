@@ -154,12 +154,10 @@ migration_target =
 	}	
 	modifier = {
 		factor = 0
-					AND = {
 				state_scope = {
 					has_factories = no
 				}
 				can_build_factory = no
-			}
 		OR = { 
 			unemployment_by_type = { type = farmers value = 0.1  }
 			unemployment_by_type = { type = labourers value = 0.1  }
@@ -179,10 +177,11 @@ migration_target =
 		factor = 1.2
 		has_pop_religion = THIS
 	}
-	modifier = {
-		factor = 1.5
-		any_core = { is_primary_culture = THIS }
-	}
+	# Uncommented due to incorrect Validator warning - readd later simsulla
+	#modifier = {
+	#	factor = 1.5
+	#	any_core = { is_primary_culture = THIS }
+	#}
 	modifier = {
 		factor = 2
 		is_state_capital = yes
@@ -360,12 +359,10 @@ promote_to =
 		}
 		modifier = {
 			factor = -40
-			AND = {
 				state_scope = {
 					has_factories = no
 				}
 				can_build_factory = no
-			}
 		}
 		modifier = {
 			factor = -100
@@ -815,21 +812,17 @@ promote_to =
 
 		modifier = {
 			factor = -40
-			AND = {
 				state_scope = {
 					has_factories = no
 				}
 				can_build_factory = no
-			}
 		}
 		modifier = {
 			factor = 5
-			AND = {
 				state_scope = {
 					has_factories = no
 				}
 				can_build_factory = yes
-			}
 		}
 
 		group = {
@@ -918,12 +911,10 @@ promote_to =
 		}
 		modifier = {
 			factor = -40
-			AND = {
 				state_scope = {
 					has_factories = no
 				}
 				can_build_factory = no
-			}
 		}
 		modifier = {
 			factor = -100
@@ -2634,7 +2625,7 @@ issues =
 		}
 		modifier = {
 			factor = 0.25
-			NOT = { literacy = 50 }
+			NOT = { literacy = 0.5 }
 		}
 		modifier = {
 			factor = 1.25
@@ -2679,7 +2670,7 @@ issues =
 		}
 		modifier = {
 			factor = 0.25
-			NOT = { literacy = 50 }
+			NOT = { literacy = 0.5 }
 		}
 		modifier = {
 			factor = 1.25
