@@ -2045,9 +2045,6 @@ railroad=
 		}
 
 	}
-	railroad_visibility=
-	{
-1 0 0 	}
 building_rotation = 
 	{
 naval_base=4.799655
@@ -2643,9 +2640,6 @@ fort=
 		y=1873.699951
 	}
 	text_scale=5.099998
-	railroad_visibility=
-	{
-1 1 1 1 1 1 	}
 }
 
 #Fort Rupert
@@ -3574,9 +3568,6 @@ railroad=
 			y=1864.000000
 		}
 	}
-	railroad_visibility=
-	{
-0 	}
 building_rotation = 
 	{
 naval_base=1.658063
@@ -112139,9 +112130,6 @@ naval_base=
 		}
 
 	}
-	railroad_visibility=
-	{
-1 0 	}
 building_rotation = 
 	{
 naval_base=4.712389
@@ -115428,9 +115416,6 @@ naval_base=
 		}
 
 	}
-	railroad_visibility=
-	{
-0 1 1 0 	}
 building_rotation = 
 	{
 naval_base=5.061454
@@ -120654,9 +120639,6 @@ naval_base=
 			y=1954.000000
 		}
 	}
-	railroad_visibility=
-	{
-1 	}
 building_rotation = 
 	{
 naval_base=5.235987
@@ -120736,9 +120718,6 @@ naval_base=
 			y=1990.000000
 		}
 	}
-	railroad_visibility=
-	{
-0 	}
 building_rotation = 
 	{
 naval_base=1.047198
@@ -123830,54 +123809,6 @@ fort=
 		y=2106.000000
 	}
 	text_scale=7.599995
-	factory=
-	{
-		x=3397.000000
-		y=2098.000000
-	}
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=3375.000000
-			y=2048.000000
-		}
-	}
 }
 
 #Lofoten Sea
@@ -123895,14 +123826,6 @@ fort=
 		y=2111.100098
 	}
 	text_scale=5.999996
-	spawn_railway_track=
-	{
-
-		{
-			x=3050.000000
-			y=2022.099976
-		}
-	}
 }
 
 #Northern Norwegian Sea
@@ -124024,39 +123947,6 @@ fort=
 		y=1632.099976
 	}
 	text_scale=3.299999
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=2835.000000
-			y=1626.000000
-		}
-	}
 }
 
 #The Channel
@@ -124075,11 +123965,6 @@ fort=
 	}
 	text_rotation=6.283185
 	text_scale=3.599998
-	military_construction=
-	{
-		x=2770.100098
-		y=1613.000000
-	}
 }
 
 #Lands End
@@ -124098,24 +123983,6 @@ fort=
 	}
 	text_rotation=0.000001
 	text_scale=4.099998
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=2776.000000
-			y=1669.000000
-		}
-	}
 }
 
 #Coast of Britanny
@@ -124214,10 +124081,6 @@ fort=
 		y=1773.800049
 	}
 	text_scale=3.099999
-building_rotation = 
-	{
-naval_base=6.108653
-	}
 }
 
 #The North Sea
@@ -124585,14 +124448,6 @@ naval_base=6.108653
 		y=1394.000000
 	}
 	text_scale=4.699998
-	spawn_railway_track=
-	{
-
-		{
-			x=2943.000000
-			y=1431.000000
-		}
-	}
 }
 
 #Tyrrhenian Sea
@@ -124697,11 +124552,6 @@ naval_base=6.108653
 	}
 	text_rotation=5.410519
 	text_scale=3.799999
-	building_construction=
-	{
-		x=3035.000000
-		y=1532.500000
-	}
 }
 
 #Adriatic Sea
@@ -124772,34 +124622,6 @@ naval_base=6.108653
 		y=1358.900024
 	}
 	text_scale=4.599998
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=3159.000000
-			y=1386.000000
-		}
-	}
 }
 
 #Gulf of Sirte
@@ -125066,24 +124888,6 @@ naval_base=6.108653
 	}
 	text_rotation=5.323253
 	text_scale=4.699998
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=3416.000000
-			y=1136.000000
-		}
-	}
 }
 
 #Red Sea
@@ -125101,14 +124905,6 @@ naval_base=6.108653
 		y=1035.000000
 	}
 	text_scale=4.999998
-	spawn_railway_track=
-	{
-
-		{
-			x=3447.000000
-			y=1075.000000
-		}
-	}
 }
 
 #Straits of Obokk
@@ -125607,11 +125403,6 @@ naval_base=6.108653
 		y=668.000000
 	}
 	text_scale=7.899994
-	city=
-	{
-		x=4606.000000
-		y=624.000000
-	}
 }
 
 #Straits of Makassar
@@ -125899,39 +125690,6 @@ naval_base=6.108653
 		y=1281.000000
 	}
 	text_scale=4.199998
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=4868.000000
-			y=1339.000000
-		}
-	}
 }
 
 #North Korean Sea
@@ -126162,49 +125920,6 @@ naval_base=6.108653
 		y=1275.000000
 	}
 	text_scale=6.199996
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=4842.000000
-			y=1285.000000
-		}
-	}
 }
 
 #Tokai Sea
@@ -126239,11 +125954,6 @@ naval_base=6.108653
 		y=1214.000000
 	}
 	text_scale=4.599998
-	factory=
-	{
-		x=4829.000000
-		y=1226.000000
-	}
 }
 
 #Luzon Strait
@@ -126352,29 +126062,6 @@ naval_base=6.108653
 		y=755.000000
 	}
 	text_scale=6.299996
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=4680.000000
-			y=744.000000
-		}
-	}
 }
 
 #Sea of Ternate
@@ -127027,19 +126714,6 @@ naval_base=6.108653
 		y=1846.699951
 	}
 	text_scale=8.499996
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=5436.000000
-			y=1952.000000
-		}
-	}
 }
 
 #Bay of Anadyr
@@ -127057,19 +126731,6 @@ naval_base=6.108653
 		y=1942.900024
 	}
 	text_scale=7.099996
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=5432.000000
-			y=1940.000000
-		}
-	}
 }
 
 #Yekaterina Plains
@@ -127150,16 +126811,6 @@ naval_base=6.108653
 		y=625.000000
 	}
 	text_scale=5.599997
-	building_construction=
-	{
-		x=3672.000000
-		y=676.000000
-	}
-	military_construction=
-	{
-		x=3639.199951
-		y=676.000000
-	}
 }
 
 #Western Arabian Sea
@@ -127524,11 +127175,6 @@ naval_base=6.108653
 		y=2085.899902
 	}
 	text_scale=6.399996
-	building_construction=
-	{
-		x=2744.800049
-		y=2090.199951
-	}
 }
 
 #Icelandic Sea
@@ -127610,24 +127256,6 @@ naval_base=6.108653
 		y=2062.000000
 	}
 	text_scale=6.299996
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=2147.000000
-			y=2063.000000
-		}
-	}
 }
 
 #Eastern Coast of Greenland
@@ -127651,14 +127279,6 @@ naval_base=6.108653
 		y=1934.000000
 	}
 	text_scale=4.399998
-	spawn_railway_track=
-	{
-
-		{
-			x=2059.000000
-			y=2039.000000
-		}
-	}
 }
 
 #Labrador Strait
@@ -127676,19 +127296,6 @@ naval_base=6.108653
 		y=1961.000000
 	}
 	text_scale=4.799998
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=1795.000000
-			y=1880.000000
-		}
-	}
 }
 
 #Baffin Bay
@@ -127712,14 +127319,6 @@ naval_base=6.108653
 		y=2070.000000
 	}
 	text_scale=3.999998
-	spawn_railway_track=
-	{
-
-		{
-			x=1730.900024
-			y=2115.000000
-		}
-	}
 }
 
 #James Bay
@@ -128188,29 +127787,6 @@ naval_base=6.108653
 		y=1134.000000
 	}
 	text_scale=5.299997
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=1498.000000
-			y=1123.000000
-		}
-	}
 }
 
 #Jamaica Channel
@@ -128262,14 +127838,6 @@ naval_base=6.108653
 		y=1281.000000
 	}
 	text_scale=4.299998
-	spawn_railway_track=
-	{
-
-		{
-			x=1495.000000
-			y=1320.000000
-		}
-	}
 }
 
 #Venezuelan Gulf
@@ -128424,14 +127992,6 @@ naval_base=6.108653
 		y=1080.000000
 	}
 	text_scale=4.799998
-	spawn_railway_track=
-	{
-
-		{
-			x=1892.000000
-			y=1059.000000
-		}
-	}
 }
 
 #Coast of Amapá
@@ -128625,14 +128185,6 @@ naval_base=6.108653
 		y=36.000000
 	}
 	text_scale=3.899998
-	spawn_railway_track=
-	{
-
-		{
-			x=1719.000000
-			y=68.000000
-		}
-	}
 }
 
 #South Chilean Coast
@@ -128650,11 +128202,6 @@ naval_base=6.108653
 		y=106.300003
 	}
 	text_scale=4.299998
-	factory=
-	{
-		x=1627.000000
-		y=111.800003
-	}
 }
 
 #Coast of Chile
@@ -128747,28 +128294,6 @@ naval_base=6.108653
 		y=1045.000000
 	}
 	text_scale=6.799996
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=1563.000000
-			y=1103.000000
-		}
-	}
-building_rotation = 
-	{
-naval_base=0.087266
-	}
 }
 
 #Bay of Costa Rica
@@ -129437,14 +128962,6 @@ naval_base=0.087266
 		y=39.000000
 	}
 	text_scale=3.699999
-	spawn_railway_track=
-	{
-
-		{
-			x=1890.000000
-			y=77.000000
-		}
-	}
 }
 
 #Fernando de Noronha Islands
@@ -130265,19 +129782,6 @@ naval_base=0.087266
 	}
 	text_rotation=1.047198
 	text_scale=3.999998
-	spawn_railway_track=
-	{
-
-		{
-			x=0.000000
-			y=0.000000
-		}
-
-		{
-			x=4412.000000
-			y=1653.000000
-		}
-	}
 }
 
 #Lake Dongting
@@ -130590,16 +130094,6 @@ naval_base=0.087266
 		y=1023.000000
 	}
 	text_scale=8.299995
-	building_construction=
-	{
-		x=5080.000000
-		y=1028.199951
-	}
-	military_construction=
-	{
-		x=5079.200195
-		y=1029.000000
-	}
 }
 
 #Maysdale Flats
@@ -131066,11 +130560,6 @@ naval_base=0.087266
 		y=274.000000
 	}
 	text_scale=9.800001
-	factory=
-	{
-		x=325.000000
-		y=443.000000
-	}
 }
 
 #Clipperton Island
@@ -131483,14 +130972,6 @@ naval_base=0.087266
 		y=481.100006
 	}
 	text_scale=7.499995
-	spawn_railway_track=
-	{
-
-		{
-			x=1113.000000
-			y=522.000000
-		}
-	}
 }
 
 #Coast of the Ellice Islands
@@ -131863,17 +131344,6 @@ naval_base=0.087266
 		y=461.000000
 	}
 	text_scale=3.799999
-	spawn_railway_track=
-	{
-
-		{
-			x=5582.000000
-			y=473.000000
-		}
-	}
-	railroad_visibility=
-	{
-1 0 	}
 }
 
 #Coast of Norfolk Island
@@ -132043,14 +131513,6 @@ naval_base=0.087266
 		y=2069.199951
 	}
 	text_scale=4.799998
-	spawn_railway_track=
-	{
-
-		{
-			x=4026.000000
-			y=2054.000000
-		}
-	}
 }
 
 #Lake Van
