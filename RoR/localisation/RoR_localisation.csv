@@ -526,6 +526,8 @@ build_hadrians_wall_title;Build Hadrians Wall;french;Baut Hadrians Wall;;spanish
 build_hadrians_wall_desc;Build Hadrians Wall;french;Der Hadrianswall (antiker lateinischer Name möglicherweise vallum Aelium) war ein römisches Grenzbefestigungssystem, das zwischen Newcastle und Solway Firth, nahe der heutigen Grenze zwischen Schottland und England in Großbritannien, angelegt war. Er wurde zwischen 122 und 128 n. Chr. auf Anordnung Kaiser Hadrians (76–138) erbaut, nachdem dieser auch die nördlichen Grenzen im Rahmen seiner Inspektionsreise durch alle Provinzen des Reichs besucht hatte. Der Wall erstreckte sich auf einer Länge von rund 117,5 Kilometern, sollte den Grenzverkehr überwachen und Überfälle sowie die unkontrollierte Einwanderung schottischer und irischer Stämme auf das Gebiet der Provinz Britannia verhindern. In ihrem östlichen Teil bestand die Anlage aus einer bis zu 4,5 Meter hohen Steinmauer, im westlichen Teil aus einem Erdwall. Zu ihrer Absicherung wurden ein Grabensystem sowie 320 Türme, 17 Kastelle und 80 Tore errichtet. Ein fast identisches – wenn auch einfacher aufgebautes – Sicherungssystem, vermutlich bestehend aus bis zu 26 Kleinkastellen samt daran angeschlossenen Wach- und Signaltürmen, wurde an der Westküste der heutigen Grafschaft Cumbria als Flankenschutz angelegt.;;spanish;;;;;;;;;x;;;;
 form_gaul_title;Form Gallia;french;Formt Gallien;;spanish;;;;;;;;;x;;;;
 form_gaul_desc;All gallian tribes were conquered or in your sphere. Now, you could form a united celto-gallian nation.;french;Alle gallischen Stämme wurden erobert oder sind in eurer Einflussspäre. Jetzt könnt ihr eine vereinte keltisch-gallische Nation formen.;;spanish;;;;;;;;;x;;;;
+inherit_all_title;;;;;;;;;x;;;;
+inherit_all_desc;;;;;;;;;x;;;;
 ##########################################;;;;;;;;;x;;;;
 # Event Modifier #########################;;;;;;;;;x;;;;
 ##########################################;;;;;;;;;x;;;;
@@ -534,6 +536,9 @@ ostia_harbour;Ostia - Harbour of Rome;french;Ostia - Hafen von Rom;;spanish;;;;;
 via_appia;Via Appia;Via Appia;Via Appia;;Via Appia;;;;;;;;;x;;;;
 hadrians_wall;Hadrians Wall;french;Hadrians Wall;;spanish;;;;;;;;;x;;;;
 enslavement_after_conquest;Enslavement after conquest;french;Versklavung nach der Eroberung;;spanish;;;;;;;;;x;;;;
+has_siege;Has Siege;;;;;;;;;x;;;;
+generalised_debt_default;Generalised Debt Default;;;;;;;;;x;;;;
+debt_default_to;Debt Default to ;;;;;;;;;x;;;;
 ##########################################;;;;;;;;;x;;;;
 # Events #################################;;;;;;;;;x;;;;
 ##########################################;;;;;;;;;x;;;;

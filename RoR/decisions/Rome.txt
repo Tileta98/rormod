@@ -1,5 +1,6 @@
 political_decisions = {
 	build_the_colosseum = {
+		picture = "build_the_colosseum"
 		potential = {
 			tag = RME
 			NOT = {
@@ -30,6 +31,7 @@ political_decisions = {
 		}
 	}
 	build_hadrians_wall = {
+		picture = "build_hadrians_wall"
 		potential = {
 			tag = RME
 			NOT = {
