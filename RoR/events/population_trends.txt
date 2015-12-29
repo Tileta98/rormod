@@ -1,0 +1,180 @@
+province_event = { # Famine General
+	id = 100600
+	title = EVT_100600_NAME 
+	desc = EVT_100600_DESC
+	
+	trigger = {
+		NOT = { has_province_modifier = famine }
+	}
+	
+	mean_time_to_happen = {
+		months = 840 # 70 years
+		# neighbors have a famine we are more likely to get it as well
+		modifier = { 
+			factor = 0.5
+			any_neighbor_province = { has_province_modifier = local_famine }
+		}
+		# over total_pops will cause a famine
+		# by terrain 
+		modifier = { 
+			factor = 0.7
+			OR ={
+				AND = { 
+					terrain = arctic
+					total_pops = 2000
+				}
+				AND = { 
+					terrain = farmlands
+					total_pops = 128000
+				}
+				AND = { 
+					terrain = forest
+					total_pops = 8000
+				}
+				AND = { 
+					terrain = hills
+					total_pops = 32000
+				}
+				AND = { 
+					terrain = woods
+					total_pops = 16000
+				}
+				AND = { 
+					terrain = mountain
+					total_pops = 8000
+				}
+				AND = { 
+					terrain = steppe
+					total_pops = 8000
+				}
+				AND = { 
+					terrain = plains
+					total_pops = 64000
+				}
+				AND = { 
+					terrain = jungle
+					total_pops = 4000
+				}
+				AND = { 
+					terrain = marsh
+					total_pops = 4000
+				}
+				AND = { 
+					terrain = desert
+					total_pops = 2000
+				}
+				AND = { 
+					terrain = coastal_desert
+					total_pops = 8000
+				}
+			}
+		}
+		# by life_rating - override terrain restrictions
+		modifier = { 
+			factor = 1.4
+			OR ={
+				AND = { 
+					life_rating = 35
+					NOT = { total_pops = 128000 }
+				}
+				AND = { 
+					life_rating = 30
+					NOT = { total_pops = 64000 }
+				}
+				AND = { 
+					life_rating = 25
+					NOT = { total_pops = 32000 }
+				}
+				AND = { 
+					life_rating = 20
+					NOT = { total_pops = 16000 }
+				}
+				AND = { 
+					life_rating = 15
+					NOT = { total_pops = 8000 }
+				}
+				AND = { 
+					life_rating = 10
+					NOT = { total_pops = 4000 }
+				}
+				AND = { 
+					life_rating = 5
+					NOT = { total_pops = 2000 }
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = EVT_100600_OPTA
+		add_province_modifier = { name = local_famine duration = 350 } # 1 year
+		random_neighbor_province = { # famine_locusts
+			limit = { terrain = desert owner = { NOT = { has_country_modifier = famine } } } 
+			owner = { country_event = { id = 100601 days = 30 } }
+		} 
+		random_neighbor_province = { # famine_disease 
+			limit = { total_pops = 128000 owner = { NOT = { has_country_modifier = famine } } } 
+			owner = { country_event = { id = 100602 days = 30 } }
+		}  
+		random_neighbor_province = { # famine_drought
+			limit = { OR = { terrain = steppe terrain = plains } owner = { NOT = { has_country_modifier = famine } } } 
+			owner = { country_event = { id = 100603 days = 30 } }
+		} 
+		random_neighbor_province = { # famine
+			limit = { NOT = { terrain = steppe } NOT = { terrain = desert } NOT = { terrain = plains } owner = { NOT = { has_country_modifier = famine } } } 
+			owner = { country_event = { id = 100604 days = 30 } }
+		} 
+	}
+}
+
+country_event = { # famine_locusts
+	id = 100601
+	title = EVT_100601_NAME 
+	desc = EVT_100601_DESC
+	picture = "famine_locusts"
+	is_triggered_only = yes
+	
+	option = {
+		name = EVT_100601_OPTA
+		add_country_modifier = { name = famine duration = 1000 }
+	}
+}
+
+country_event = { # famine_disease
+	id = 100602
+	title = EVT_100602_NAME 
+	desc = EVT_100602_DESC
+	picture = "famine_disease"
+	is_triggered_only = yes
+	
+	option = {
+		name = EVT_100602_OPTA
+		add_country_modifier = { name = famine duration = 1000 }
+	}
+}
+
+country_event = { # famine_drought
+	id = 100603
+	title = EVT_100603_NAME 
+	desc = EVT_100603_DESC
+	picture = "famine_drought"
+	is_triggered_only = yes
+	
+	option = {
+		name = EVT_100603_OPTA
+		add_country_modifier = { name = famine duration = 1000 }
+	}
+}
+
+country_event = { # famine
+	id = 100604
+	title = EVT_100604_NAME 
+	desc = EVT_100604_DESC
+	picture = "famine"
+	is_triggered_only = yes
+	
+	option = {
+		name = EVT_100604_OPTA
+		add_country_modifier = { name = famine duration = 1000 }
+	}
+}

@@ -970,7 +970,7 @@ basic_plumbing = {
 	year = 410
 	cost = 3600
 	
-	pop_growth = 0.0002
+	# pop_growth = 0.0002 - disabled till population_trends.txt tsted - simsulla
 
 	ai_chance = {
 		factor = 1.1
@@ -989,7 +989,7 @@ soap_use = {
 	year = 500
 	cost = 7200
 
-	pop_growth = 0.0002
+	# pop_growth = 0.0002  - disabled till population_trends.txt tsted - simsulla
 	supply_limit = 0.25
 	
 	ai_chance = {
@@ -1120,7 +1120,7 @@ early_medicine = {
 	year = 900
 	cost = 21600
 
-	pop_growth = 0.0002
+	# pop_growth = 0.0002  - disabled till population_trends.txt tsted - simsulla
 	supply_limit = 0.50
 
 	ai_chance = {
